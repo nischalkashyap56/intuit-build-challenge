@@ -1,4 +1,90 @@
 --- DATA CLEANING LOG ---
-Timestamp: 2025-12-03T16:26:34.324251Z
+Timestamp: 2025-12-03T16:35:13.266327Z
 
-[CLEANING LOG] TxID: 102        | Field: UnitPrice  | Original: '        ' -> Imputed: 500.00
+[CLEANING LOG] TxID: 1000017    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000029    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000056    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1000074    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000143    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000154    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000211    | Field: Quantity   | Original: '        ' -> Imputed: 1 (Default)
+[CLEANING LOG] TxID: 1000212    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000251    | Field: Quantity   | Original: '        ' -> Imputed: 1 (Default)
+[CLEANING LOG] TxID: 1000282    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1000292    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1000310    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000318    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000346    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1000360    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000361    | Field: Quantity   | Original: '        ' -> Imputed: 1 (Default)
+[CLEANING LOG] TxID: 1000366    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000383    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000408    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1000425    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000429    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000437    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1000456    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1000605    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000605    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1000607    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000637    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1000678    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000733    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000827    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000874    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000891    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000894    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000901    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1000904    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1000910    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000915    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000952    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1000972    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1000976    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1001047    | Field: Quantity   | Original: '        ' -> Imputed: 1 (Default)
+[CLEANING LOG] TxID: 1001155    | Field: Quantity   | Original: '        ' -> Imputed: 1 (Default)
+[CLEANING LOG] TxID: 1001226    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1001247    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1001250    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1001251    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1001266    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1001354    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1001385    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1001403    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1001445    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1001454    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1001456    | Field: Quantity   | Original: '        ' -> Imputed: 1 (Default)
+[CLEANING LOG] TxID: 1001512    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1001575    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1001615    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1001690    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1001704    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1001732    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1001750    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1001818    | Field: Quantity   | Original: '        ' -> Imputed: 1 (Default)
+[CLEANING LOG] TxID: 1001833    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1001842    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1001854    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1001879    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1001898    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1001956    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1001962    | Field: Quantity   | Original: '        ' -> Imputed: 1 (Default)
+[CLEANING LOG] TxID: 1001979    | Field: Quantity   | Original: '        ' -> Imputed: 1 (Default)
+[CLEANING LOG] TxID: 1002002    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1002032    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1002035    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1002177    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1002183    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1002201    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1002224    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1002232    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1002275    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1002317    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1002365    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1002413    | Field: Region     | Original: 'MISSING ' -> Imputed: North
+[CLEANING LOG] TxID: 1002420    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1002451    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1002483    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1002486    | Field: Category   | Original: 'MISSING ' -> Imputed: Beauty
+[CLEANING LOG] TxID: 1002496    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
+[CLEANING LOG] TxID: 1002499    | Field: UnitPrice  | Original: '        ' -> Imputed: 177.68
