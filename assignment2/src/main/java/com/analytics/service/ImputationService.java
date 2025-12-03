@@ -59,7 +59,7 @@ public class ImputationService {
         }
     }
     
-    // 
+
     public Sale imputeAndMap(RawSale raw, GlobalStats stats) {
 
         long txId;
