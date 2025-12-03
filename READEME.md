@@ -1,1 +1,0 @@
-# Initialisation of Folders and Assignment Directories
