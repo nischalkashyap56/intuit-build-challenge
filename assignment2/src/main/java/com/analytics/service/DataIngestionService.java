@@ -10,7 +10,6 @@ public class DataIngestionService {
     // Throws custom CsvParsingException here if there is any errors here
     public RawSale parseLine(String line) {
         if (line == null || line.isBlank()) {
-            // We throw exception to be handled by the caller/logger
             throw new CsvParsingException("CsvParsingError: Line here is either null or empty and couldn't be parsed!");
         }
 
@@ -22,16 +21,16 @@ public class DataIngestionService {
         }
 
         return new RawSale(
-                parts[0].trim(), // Transaction ID
-                parts[1].trim(), // Date
-                parts[2].trim(), // Category
-                parts[3].trim(), // Product ID
-                parts[4].trim(), // Product
-                parts[5].trim(), // Region
-                parts[6].trim(), // Payment ID
-                parts[7].trim(), // Payment Method
-                parts[8].trim(), // Quantity
-                parts[9].trim()  // Unit Price
+                parts[0].trim(),
+                parts[1].trim(),
+                parts[2].trim(),
+                parts[3].trim(),
+                parts[4].trim(),
+                parts[5].trim(),
+                parts[6].trim(),
+                parts[7].trim(),
+                parts[8].trim(),
+                parts[9].trim()
         );
     }
 }
