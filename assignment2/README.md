@@ -25,6 +25,13 @@ The source code is organized into a few main packages:
    ```bash
    mvn exec:java -Dexec.mainClass="com.analytics.Main"
    ```
+## Image of Output Screenshots 
+
+![Screenshot 2025-12-03 at 9 58 24 PM](https://github.com/user-attachments/assets/5c879994-19db-4f22-a92a-acdf4a8ab3d7)
+![Screenshot 2025-12-03 at 9 58 16 PM](https://github.com/user-attachments/assets/e2f4d60f-85b2-4f2d-bca9-c8d4fefc1dbc)
+![Screenshot 2025-12-03 at 9 58 04 PM](https://github.com/user-attachments/assets/6c65e4e1-578a-4871-829e-354c96f6d845)
+![Screenshot 2025-12-03 at 9 57 40 PM](https://github.com/user-attachments/assets/983566ee-d046-4c6e-86bf-f79ce3b38f17)
+
 
 ## Design Decisions
 I used a Two-Pass Stream approach because data imputation (filling in missing values) requires global stats like Mean and Mode.
@@ -34,6 +41,7 @@ Pass 1: Scans the file to calculate statistics (Mean Price, Mode Category, etc).
 Pass 2: Reads the file again to clean the data using those stats and then runs the analysis.
 
 This ensures we don't load the whole file into memory which is better for performance on large datasets. I also used custom Exceptions to handle CSV parsing errors gracefully so one bad line doesn't stop the whole program.
+
 
 ## Sample Output
 
