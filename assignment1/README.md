@@ -119,8 +119,31 @@ mvn test -Dtest=CustomBlockingQueueTest#testFIFOOrder
 mvn clean test
 ```
 
-### Sample Output
+### Output Screenshots
 
+![Screenshot 2025-12-03 at 11 35 07 PM](https://github.com/user-attachments/assets/4d966162-611f-471e-be0a-e3e6ae5d670d)
+![Screenshot 2025-12-03 at 11 34 58 PM](https://github.com/user-attachments/assets/b0fa4825-9782-422a-8f9d-15ec607574ce)
+![Screenshot 2025-12-03 at 11 34 52 PM](https://github.com/user-attachments/assets/fdce416d-0c86-4174-9bed-21fa11fccdf9)
+![Screenshot 2025-12-03 at 11 34 45 PM](https://github.com/user-attachments/assets/370d65e7-769f-4b77-8f65-b8899789ac14)
+![Screenshot 2025-12-03 at 11 34 37 PM](https://github.com/user-attachments/assets/67e44f6d-29d6-41da-b2be-cdd8e0eb5929)
+![Screenshot 2025-12-03 at 11 34 30 PM](https://github.com/user-attachments/assets/54f2010c-664e-4fcb-a8e8-2da5405a3065)
+![Screenshot 2025-12-03 at 11 34 23 PM](https://github.com/user-attachments/assets/185d5f9f-42ea-42e1-aec7-8caed30edf27)
+![Screenshot 2025-12-03 at 11 34 16 PM](https://github.com/user-attachments/assets/5a8a6917-68a1-4ee5-bdbe-1a92dfe6a130)
+![Screenshot 2025-12-03 at 11 34 10 PM](https://github.com/user-attachments/assets/7f77c86b-b0c0-42f9-a933-3b5d37812581)
+![Screenshot 2025-12-03 at 11 34 03 PM](https://github.com/user-attachments/assets/b9b0dcef-047e-4fb9-8647-2db255ef590d)
+![Screenshot 2025-12-03 at 11 33 54 PM](https://github.com/user-attachments/assets/e4492970-4787-44ba-a4a2-84374a770301)
+![Screenshot 2025-12-03 at 11 33 46 PM](https://github.com/user-attachments/assets/3612a5e5-f452-4b26-aad7-e686d58f3e02)
+![Screenshot 2025-12-03 at 11 33 38 PM](https://github.com/user-attachments/assets/9fda4474-b9cb-44f6-be04-eafd01d8772a)
+![Screenshot 2025-12-03 at 11 33 29 PM](https://github.com/user-attachments/assets/270861c2-54f7-4d3a-b7f2-fa0c379b6237)
+![Screenshot 2025-12-03 at 11 33 21 PM](https://github.com/user-attachments/assets/f7cc77af-f3d2-47ba-ad6a-3aed5553413a)
+![Screenshot 2025-12-03 at 11 33 13 PM](https://github.com/user-attachments/assets/822b337a-cff0-45f0-ac4a-17f8ab0768eb)
+![Screenshot 2025-12-03 at 11 32 41 PM](https://github.com/user-attachments/assets/f5f83abf-0e83-4558-b141-391972c5a68d)
+![Screenshot 2025-12-03 at 11 32 26 PM](https://github.com/user-attachments/assets/df1d41e1-2185-4d4c-a8f7-e5827c8d8dd7)
+![Screenshot 2025-12-03 at 11 32 19 PM](https://github.com/user-attachments/assets/0c9d9cc9-1823-4ea8-ab9d-7f60f342153e)
+![Screenshot 2025-12-03 at 11 32 12 PM](https://github.com/user-attachments/assets/46d0511c-1beb-45ae-b7d6-08dc7afd573f)
+![Screenshot 2025-12-03 at 11 31 51 PM](https://github.com/user-attachments/assets/60b0937d-638b-4c76-890b-0fb714d34c5b)
+![Screenshot 2025-12-03 at 11 31 40 PM](https://github.com/user-attachments/assets/42e7d32c-c6e0-4d33-a9ce-6daa270b38ff)
+![Screenshot 2025-12-03 at 11 31 26 PM](https://github.com/user-attachments/assets/e9483087-84be-45be-bbeb-498bf02e651b)
 
 
 ## Usage Example
