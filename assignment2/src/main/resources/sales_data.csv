@@ -1,0 +1,2501 @@
+Transaction ID,Date,Category,Product ID,Product,Region,Payment ID,Payment method,Quantity,unitPrice
+1000001,2024-02-23,Clothing,202,Jeans,North,779124,PayPal,5,48.34
+1000002,2023-04-05,Beauty,504,Moisturizer,South,753603,Debit Card,5,23.36
+1000003,2023-04-21,Home,304,Vacuum,South,617808,Debit Card,2,135.64
+1000004,2023-03-22,Books,401,Fiction Novel,West,878164,Cash,2,15.43
+1000005,2023-06-07,Beauty,501,Lipstick,North,974542,Bank Transfer,2,19.28
+1000006,2023-08-27,Books,401,Fiction Novel,South,519235,Cash,1,15.01
+1000007,2024-06-09,Books,402,Science Textbook,South,867578,Cash,1,73.24
+1000008,2024-04-07,Home,302,Coffee Maker,West,755192,Debit Card,2,76.17
+1000009,2023-06-02,Electronics,103,Headphones,East,526683,PayPal,4,144.79
+1000010,2023-09-29,Clothing,203,Jacket,West,888391,Credit Card,3,85.39
+1000011,2024-12-24,Electronics,103,Headphones,East,547977,Cash,3,139.43
+1000012,2023-04-14,Clothing,201,T-Shirt,North,554474,Bank Transfer,2,18.08
+1000013,2023-02-02,Beauty,501,Lipstick,North,509715,Debit Card,4,19.77
+1000014,2023-02-20,Books,403,Cookbook,East,769799,Debit Card,1,23.53
+1000015,2024-05-13,Beauty,503,Perfume,West,774031,Bank Transfer,1,64.94
+1000016,2024-08-07,Clothing,203,Jacket,West,798514,Cash,1,87.05
+1000017,2024-05-04,Beauty,503,Perfume,East,779568,Bank Transfer,1,
+1000018,2023-11-15,Electronics,101,Smartphone,North,666404,Bank Transfer,3,736.73
+1000019,2024-10-07,Clothing,203,Jacket,East,868396,Bank Transfer,4,80.22
+1000020,2024-12-26,Electronics,101,Smartphone,East,607438,PayPal,3,713.41
+1000021,2023-04-10,Clothing,203,Jacket,South,990153,Bank Transfer,5,81.54
+1000022,2024-01-13,Books,403,Cookbook,West,563769,Debit Card,1,25.37
+1000023,2024-03-12,Books,402,Science Textbook,North,756427,PayPal,2,81.64
+1000024,2024-09-17,Electronics,103,Headphones,North,860536,Debit Card,2,154.46
+1000025,2024-09-11,Home,301,Blender,East,736199,Debit Card,5,39.91
+1000026,2023-12-12,Electronics,102,Laptop,East,619486,Cash,2,1156.91
+1000027,2023-07-31,Clothing,201,T-Shirt,South,769440,PayPal,3,18.10
+1000028,2024-08-03,Clothing,202,Jeans,South,615264,PayPal,4,50.99
+1000029,2024-09-30,,301,Blender,West,651443,Credit Card,5,42.43
+1000030,2024-08-07,Beauty,501,Lipstick,South,868472,Credit Card,3,17.44
+1000031,2023-05-26,Books,401,Fiction Novel,East,547235,Bank Transfer,3,14.80
+1000032,2024-02-02,Beauty,504,Moisturizer,North,591636,Credit Card,2,26.26
+1000033,2023-11-28,Books,402,Science Textbook,North,535657,Cash,1,81.46
+1000034,2023-11-11,Electronics,103,Headphones,West,727062,Cash,2,162.39
+1000035,2023-12-21,Home,302,Coffee Maker,West,808404,Debit Card,2,76.98
+1000036,2024-02-17,Home,302,Coffee Maker,South,886023,PayPal,3,84.78
+1000037,2024-06-20,Books,402,Science Textbook,North,868889,Credit Card,5,74.42
+1000038,2023-01-12,Books,401,Fiction Novel,East,741159,Bank Transfer,1,14.90
+1000039,2023-05-22,Books,401,Fiction Novel,East,517352,PayPal,4,16.41
+1000040,2024-10-06,Electronics,103,Headphones,South,620573,Credit Card,3,146.72
+1000041,2024-06-07,Electronics,102,Laptop,West,649969,Debit Card,5,1107.96
+1000042,2024-12-13,Home,301,Blender,South,501589,Debit Card,1,36.33
+1000043,2024-01-05,Beauty,503,Perfume,South,580417,PayPal,2,63.20
+1000044,2023-02-10,Clothing,202,Jeans,South,633899,PayPal,2,52.13
+1000045,2024-09-12,Clothing,203,Jacket,North,989181,Bank Transfer,2,81.58
+1000046,2023-02-17,Electronics,103,Headphones,South,941547,Credit Card,1,159.78
+1000047,2023-07-25,Electronics,102,Laptop,West,741401,Cash,5,1270.10
+1000048,2024-12-01,Electronics,101,Smartphone,North,989094,PayPal,5,658.78
+1000049,2023-02-04,Home,301,Blender,North,986696,Cash,5,36.10
+1000050,2024-05-12,Clothing,201,T-Shirt,East,735713,PayPal,4,21.50
+1000051,2024-03-30,Clothing,201,T-Shirt,North,668156,PayPal,5,18.19
+1000052,2024-01-22,Beauty,503,Perfume,West,538257,Debit Card,2,58.33
+1000053,2024-11-22,Home,301,Blender,West,680750,Bank Transfer,2,36.45
+1000054,2023-11-12,Electronics,101,Smartphone,East,571334,Cash,3,718.42
+1000055,2024-01-13,Clothing,202,Jeans,South,572672,Credit Card,2,47.53
+1000056,2023-06-30,Home,301,Blender,,651194,Debit Card,5,38.09
+1000057,2024-12-29,Books,403,Cookbook,East,818725,PayPal,2,23.03
+1000058,2024-09-09,Home,304,Vacuum,East,622065,Debit Card,2,142.26
+1000059,2023-10-16,Clothing,202,Jeans,East,764220,Bank Transfer,1,48.87
+1000060,2024-05-10,Books,403,Cookbook,South,885445,PayPal,3,24.62
+1000061,2024-09-19,Books,402,Science Textbook,East,692168,PayPal,4,85.69
+1000062,2024-08-26,Electronics,101,Smartphone,West,714482,Debit Card,2,675.61
+1000063,2023-09-19,Books,402,Science Textbook,West,511140,PayPal,4,72.76
+1000064,2024-03-01,Clothing,201,T-Shirt,East,675613,PayPal,1,20.11
+1000065,2023-10-08,Beauty,501,Lipstick,West,731645,Credit Card,5,17.86
+1000066,2023-05-29,Beauty,504,Moisturizer,East,758464,Bank Transfer,5,27.49
+1000067,2023-05-29,Beauty,504,Moisturizer,East,665242,PayPal,5,25.84
+1000068,2023-12-02,Books,401,Fiction Novel,West,681308,PayPal,1,14.69
+1000069,2023-03-25,Books,401,Fiction Novel,West,661420,PayPal,3,14.13
+1000070,2023-03-17,Electronics,103,Headphones,South,644334,Credit Card,4,154.44
+1000071,2023-08-24,Electronics,101,Smartphone,South,746346,Cash,5,760.47
+1000072,2024-05-28,Electronics,101,Smartphone,North,848227,Credit Card,3,703.86
+1000073,2024-03-05,Books,403,Cookbook,East,743522,Credit Card,4,22.97
+1000074,2024-01-06,Clothing,202,Jeans,North,631110,Credit Card,4,
+1000075,2023-02-06,Beauty,503,Perfume,South,991385,Cash,2,60.23
+1000076,2023-01-21,Electronics,103,Headphones,North,523669,Credit Card,1,156.97
+1000077,2023-03-03,Clothing,201,T-Shirt,West,727955,Credit Card,1,18.74
+1000078,2023-04-25,Beauty,504,Moisturizer,East,646878,Credit Card,4,23.52
+1000079,2024-02-27,Home,302,Coffee Maker,North,923727,PayPal,1,79.86
+1000080,2024-11-17,Clothing,201,T-Shirt,West,720777,Bank Transfer,2,21.20
+1000081,2023-08-10,Books,402,Science Textbook,North,816721,Debit Card,3,83.35
+1000082,2023-09-26,Beauty,501,Lipstick,West,709187,Debit Card,5,19.47
+1000083,2023-05-07,Beauty,501,Lipstick,East,653802,Debit Card,4,18.25
+1000084,2024-10-08,Electronics,103,Headphones,South,735953,PayPal,4,142.02
+1000085,2024-11-29,Clothing,203,Jacket,South,845272,Bank Transfer,4,84.92
+1000086,2023-10-07,Home,301,Blender,South,539333,PayPal,4,38.34
+1000087,2023-07-06,Books,403,Cookbook,East,998454,Cash,1,23.57
+1000088,2023-09-19,Home,304,Vacuum,East,532332,Bank Transfer,5,141.93
+1000089,2024-04-24,Books,401,Fiction Novel,North,634041,Credit Card,5,15.62
+1000090,2023-11-25,Home,302,Coffee Maker,South,851185,Credit Card,5,86.09
+1000091,2023-05-16,Beauty,504,Moisturizer,East,970615,Debit Card,3,23.08
+1000092,2024-11-21,Electronics,101,Smartphone,North,917473,Bank Transfer,1,642.49
+1000093,2024-03-22,Home,302,Coffee Maker,North,692975,Debit Card,4,76.09
+1000094,2023-05-24,Home,302,Coffee Maker,East,687822,Bank Transfer,2,75.19
+1000095,2024-03-27,Clothing,202,Jeans,East,729405,PayPal,4,50.54
+1000096,2023-09-18,Electronics,101,Smartphone,East,548939,Debit Card,3,754.02
+1000097,2023-03-07,Clothing,201,T-Shirt,North,801065,Cash,5,18.58
+1000098,2024-01-12,Electronics,102,Laptop,North,564072,Bank Transfer,3,1163.50
+1000099,2023-09-08,Beauty,501,Lipstick,South,996897,PayPal,1,17.58
+1000100,2023-01-19,Electronics,101,Smartphone,North,999809,Bank Transfer,5,730.86
+1000101,2024-11-12,Home,301,Blender,North,751201,Cash,4,39.37
+1000102,2024-01-27,Beauty,504,Moisturizer,North,641523,Bank Transfer,2,26.86
+1000103,2024-03-31,Clothing,202,Jeans,South,805482,Debit Card,4,45.34
+1000104,2024-11-19,Home,301,Blender,West,656150,Credit Card,4,42.10
+1000105,2023-01-28,Beauty,503,Perfume,West,671153,PayPal,5,55.20
+1000106,2024-03-22,Clothing,202,Jeans,North,736350,Cash,3,52.68
+1000107,2024-02-01,Beauty,503,Perfume,West,900219,Credit Card,2,60.28
+1000108,2024-05-28,Clothing,202,Jeans,East,973489,PayPal,4,45.62
+1000109,2024-10-13,Beauty,503,Perfume,North,914134,PayPal,4,56.86
+1000110,2024-09-13,Clothing,201,T-Shirt,North,613139,Bank Transfer,2,20.99
+1000111,2024-10-24,Home,304,Vacuum,South,971392,PayPal,5,161.89
+1000112,2024-10-02,Beauty,501,Lipstick,South,871723,Credit Card,5,17.98
+1000113,2023-04-03,Clothing,202,Jeans,East,809288,Debit Card,4,45.68
+1000114,2024-03-22,Books,403,Cookbook,North,754037,PayPal,4,27.22
+1000115,2024-02-07,Beauty,504,Moisturizer,North,672560,Bank Transfer,3,25.84
+1000116,2024-02-18,Clothing,202,Jeans,West,526246,Bank Transfer,5,50.01
+1000117,2023-08-06,Home,304,Vacuum,West,842186,Cash,4,135.11
+1000118,2023-01-05,Books,401,Fiction Novel,East,993835,Bank Transfer,2,15.84
+1000119,2024-09-23,Books,403,Cookbook,West,744939,Cash,4,27.41
+1000120,2023-03-19,Beauty,504,Moisturizer,South,859008,Bank Transfer,2,27.27
+1000121,2024-07-20,Books,403,Cookbook,East,662951,Credit Card,2,23.61
+1000122,2023-03-21,Electronics,103,Headphones,East,556673,Credit Card,2,143.40
+1000123,2023-11-10,Beauty,504,Moisturizer,North,581014,PayPal,5,25.18
+1000124,2024-11-11,Books,403,Cookbook,South,630002,Bank Transfer,1,25.71
+1000125,2023-07-07,Home,301,Blender,South,683310,Debit Card,4,39.14
+1000126,2023-11-05,Home,302,Coffee Maker,South,707072,Debit Card,1,81.94
+1000127,2023-03-23,Beauty,501,Lipstick,North,954163,Debit Card,5,18.62
+1000128,2024-09-17,Home,301,Blender,South,950341,PayPal,3,42.43
+1000129,2024-09-29,Home,301,Blender,South,568590,Cash,5,36.74
+1000130,2023-03-03,Clothing,201,T-Shirt,West,706405,Debit Card,5,21.73
+1000131,2023-09-11,Books,402,Science Textbook,South,676488,PayPal,2,80.36
+1000132,2023-03-08,Home,302,Coffee Maker,South,849134,Debit Card,5,86.88
+1000133,2024-10-22,Beauty,504,Moisturizer,South,943563,Bank Transfer,4,24.86
+1000134,2023-04-07,Books,401,Fiction Novel,East,978264,PayPal,4,15.49
+1000135,2023-12-20,Books,401,Fiction Novel,North,853630,Bank Transfer,3,14.87
+1000136,2023-03-03,Beauty,504,Moisturizer,West,793005,Credit Card,3,22.89
+1000137,2023-04-05,Home,301,Blender,West,645916,Bank Transfer,5,44.00
+1000138,2024-09-23,Books,403,Cookbook,South,678010,Cash,4,23.45
+1000139,2024-07-23,Beauty,503,Perfume,North,693963,Cash,1,58.22
+1000140,2024-06-21,Electronics,103,Headphones,West,765135,PayPal,2,160.75
+1000141,2023-03-15,Electronics,101,Smartphone,South,953927,Debit Card,1,727.88
+1000142,2024-10-20,Beauty,501,Lipstick,East,578203,Bank Transfer,2,16.31
+1000143,2023-07-15,Home,304,Vacuum,North,893291,Cash,5,
+1000144,2024-12-23,Electronics,102,Laptop,South,684466,PayPal,3,1151.37
+1000145,2024-10-19,Books,401,Fiction Novel,South,982106,Cash,3,14.15
+1000146,2024-07-13,Clothing,202,Jeans,South,524332,Bank Transfer,4,47.19
+1000147,2024-09-01,Clothing,203,Jacket,South,540483,Credit Card,5,83.60
+1000148,2024-02-11,Home,302,Coffee Maker,West,887825,Credit Card,1,81.60
+1000149,2024-01-02,Clothing,202,Jeans,West,745266,Cash,2,52.06
+1000150,2023-05-03,Books,403,Cookbook,East,958532,Bank Transfer,1,22.54
+1000151,2024-02-05,Books,403,Cookbook,East,764617,Bank Transfer,3,25.82
+1000152,2024-09-09,Books,401,Fiction Novel,North,671282,PayPal,2,14.17
+1000153,2023-02-16,Beauty,501,Lipstick,North,863226,Cash,5,17.90
+1000154,2024-07-23,Clothing,203,Jacket,East,619916,Cash,1,
+1000155,2023-12-12,Home,302,Coffee Maker,South,890000,Bank Transfer,2,83.51
+1000156,2023-11-09,Clothing,202,Jeans,North,792397,Credit Card,1,49.12
+1000157,2023-07-13,Books,401,Fiction Novel,East,571739,Bank Transfer,3,15.07
+1000158,2024-04-17,Beauty,504,Moisturizer,South,697238,Cash,1,26.42
+1000159,2023-12-18,Books,403,Cookbook,East,826551,Credit Card,4,24.82
+1000160,2023-10-02,Books,401,Fiction Novel,North,887334,Bank Transfer,3,14.84
+1000161,2024-08-05,Home,302,Coffee Maker,North,826918,PayPal,5,87.90
+1000162,2023-03-14,Home,304,Vacuum,East,879322,Debit Card,5,146.37
+1000163,2023-11-20,Electronics,101,Smartphone,West,633631,PayPal,3,764.26
+1000164,2024-02-27,Books,401,Fiction Novel,South,975820,PayPal,4,15.04
+1000165,2023-04-01,Books,401,Fiction Novel,South,999613,PayPal,3,15.69
+1000166,2024-09-02,Books,401,Fiction Novel,North,692073,Credit Card,5,15.06
+1000167,2024-06-22,Books,401,Fiction Novel,North,878549,Debit Card,2,15.12
+1000168,2024-03-19,Home,302,Coffee Maker,North,773318,Credit Card,4,73.70
+1000169,2024-08-08,Clothing,203,Jacket,East,744453,Debit Card,2,83.16
+1000170,2023-09-01,Home,302,Coffee Maker,North,754492,Debit Card,3,73.59
+1000171,2023-05-03,Electronics,102,Laptop,North,859516,Bank Transfer,2,1195.15
+1000172,2023-09-20,Beauty,503,Perfume,West,895220,Debit Card,4,61.74
+1000173,2023-06-22,Electronics,101,Smartphone,South,624047,PayPal,5,729.31
+1000174,2024-05-17,Home,302,Coffee Maker,East,583010,Bank Transfer,1,79.76
+1000175,2024-07-05,Books,403,Cookbook,South,843203,Debit Card,1,24.25
+1000176,2024-10-27,Home,301,Blender,North,984502,Debit Card,2,36.90
+1000177,2024-10-02,Clothing,201,T-Shirt,South,668438,Debit Card,3,21.88
+1000178,2023-04-26,Clothing,202,Jeans,West,539674,Credit Card,2,53.70
+1000179,2024-04-23,Home,304,Vacuum,North,594030,Credit Card,1,151.09
+1000180,2024-03-28,Clothing,201,T-Shirt,North,508645,Credit Card,5,18.35
+1000181,2024-01-24,Beauty,501,Lipstick,East,737943,Cash,5,16.97
+1000182,2023-03-05,Beauty,504,Moisturizer,East,930197,Debit Card,4,27.31
+1000183,2024-07-21,Clothing,201,T-Shirt,East,752287,Cash,2,18.51
+1000184,2024-01-15,Home,304,Vacuum,East,754485,Cash,1,162.34
+1000185,2023-02-13,Home,302,Coffee Maker,North,837829,Credit Card,4,76.71
+1000186,2023-04-12,Beauty,501,Lipstick,East,793351,PayPal,5,18.92
+1000187,2023-05-02,Electronics,101,Smartphone,South,572332,PayPal,2,710.04
+1000188,2023-02-06,Electronics,102,Laptop,East,551998,Cash,4,1098.05
+1000189,2023-10-14,Home,302,Coffee Maker,West,945999,Bank Transfer,1,87.04
+1000190,2023-07-05,Clothing,201,T-Shirt,East,547543,Credit Card,4,19.74
+1000191,2024-07-03,Electronics,102,Laptop,West,511778,Credit Card,4,1229.06
+1000192,2023-03-02,Electronics,102,Laptop,East,551218,Cash,3,1106.19
+1000193,2024-10-19,Home,301,Blender,West,736065,Bank Transfer,5,38.32
+1000194,2023-09-28,Clothing,203,Jacket,East,577724,Cash,4,82.94
+1000195,2024-12-04,Books,401,Fiction Novel,East,863853,Bank Transfer,3,15.12
+1000196,2023-10-07,Clothing,203,Jacket,South,551712,Bank Transfer,2,76.68
+1000197,2023-07-15,Books,403,Cookbook,South,636343,Credit Card,4,25.61
+1000198,2024-05-14,Clothing,203,Jacket,East,589793,Debit Card,1,79.83
+1000199,2024-08-21,Home,302,Coffee Maker,West,952172,Debit Card,2,87.38
+1000200,2024-04-13,Home,302,Coffee Maker,South,796024,Bank Transfer,5,80.18
+1000201,2024-06-06,Clothing,201,T-Shirt,South,690899,Bank Transfer,5,20.65
+1000202,2024-06-07,Home,304,Vacuum,South,542347,PayPal,3,149.74
+1000203,2023-07-28,Beauty,501,Lipstick,West,882627,Cash,4,19.59
+1000204,2023-09-08,Electronics,101,Smartphone,West,883136,Credit Card,1,728.06
+1000205,2023-05-27,Electronics,103,Headphones,East,881360,Credit Card,5,149.19
+1000206,2024-06-23,Clothing,201,T-Shirt,South,762750,Bank Transfer,5,20.73
+1000207,2023-08-06,Beauty,504,Moisturizer,South,710960,Bank Transfer,1,26.51
+1000208,2024-09-30,Clothing,201,T-Shirt,West,585987,Debit Card,5,19.54
+1000209,2023-10-21,Electronics,103,Headphones,West,975953,Bank Transfer,2,158.10
+1000210,2023-03-10,Electronics,101,Smartphone,East,695566,Debit Card,3,705.90
+1000211,2024-09-20,Beauty,504,Moisturizer,West,561594,PayPal,,27.22
+1000212,2024-07-27,Beauty,501,Lipstick,North,931264,Debit Card,3,
+1000213,2024-10-05,Beauty,501,Lipstick,West,888632,PayPal,5,16.47
+1000214,2024-03-25,Home,301,Blender,South,637150,Credit Card,2,39.85
+1000215,2023-04-12,Beauty,503,Perfume,East,890853,Credit Card,4,59.56
+1000216,2024-06-21,Clothing,201,T-Shirt,South,618284,Cash,1,21.88
+1000217,2024-08-30,Home,301,Blender,West,914975,Bank Transfer,5,37.40
+1000218,2024-11-30,Electronics,103,Headphones,East,936185,Bank Transfer,5,159.40
+1000219,2023-01-09,Books,402,Science Textbook,North,644623,Bank Transfer,1,77.28
+1000220,2023-11-03,Clothing,203,Jacket,East,502107,Bank Transfer,2,78.60
+1000221,2023-07-30,Books,401,Fiction Novel,South,780585,Cash,3,14.63
+1000222,2023-05-14,Books,402,Science Textbook,North,804039,Bank Transfer,5,81.69
+1000223,2023-09-06,Clothing,201,T-Shirt,West,516443,Debit Card,2,20.68
+1000224,2023-08-15,Electronics,101,Smartphone,South,588310,Bank Transfer,1,639.90
+1000225,2024-11-21,Books,402,Science Textbook,West,846103,Debit Card,5,84.94
+1000226,2023-11-28,Books,402,Science Textbook,West,670792,Bank Transfer,5,73.18
+1000227,2024-09-28,Home,301,Blender,North,958700,Debit Card,2,42.60
+1000228,2024-01-25,Beauty,501,Lipstick,North,633682,Credit Card,4,17.56
+1000229,2023-05-24,Books,401,Fiction Novel,East,837577,Bank Transfer,2,15.06
+1000230,2023-04-09,Home,301,Blender,West,923898,Credit Card,5,42.23
+1000231,2023-10-09,Books,403,Cookbook,East,681288,Cash,2,26.92
+1000232,2023-12-27,Books,403,Cookbook,South,803958,PayPal,5,27.31
+1000233,2023-02-20,Home,304,Vacuum,North,899493,Credit Card,3,148.55
+1000234,2024-03-18,Beauty,501,Lipstick,South,997092,Cash,2,16.30
+1000235,2023-04-30,Home,302,Coffee Maker,West,761917,Credit Card,2,80.79
+1000236,2024-08-19,Beauty,503,Perfume,West,846327,Credit Card,5,64.34
+1000237,2024-01-15,Beauty,501,Lipstick,North,839128,Debit Card,1,17.89
+1000238,2023-05-29,Beauty,501,Lipstick,South,591314,Bank Transfer,1,19.73
+1000239,2023-01-30,Clothing,201,T-Shirt,West,650895,PayPal,4,19.71
+1000240,2024-08-29,Beauty,504,Moisturizer,East,790094,Credit Card,3,25.65
+1000241,2023-05-09,Clothing,201,T-Shirt,North,695757,Bank Transfer,3,19.40
+1000242,2023-10-29,Home,304,Vacuum,West,691752,Debit Card,1,138.34
+1000243,2023-11-13,Books,403,Cookbook,North,901450,Bank Transfer,1,24.17
+1000244,2023-04-04,Home,302,Coffee Maker,North,889831,Debit Card,4,83.45
+1000245,2024-08-07,Clothing,202,Jeans,East,736531,Bank Transfer,3,50.15
+1000246,2023-01-27,Clothing,202,Jeans,East,701439,Credit Card,4,48.00
+1000247,2023-11-04,Electronics,101,Smartphone,West,510166,Cash,3,699.10
+1000248,2024-12-18,Home,302,Coffee Maker,West,711324,Bank Transfer,4,86.25
+1000249,2024-02-18,Beauty,503,Perfume,North,784684,PayPal,4,61.11
+1000250,2023-03-24,Clothing,203,Jacket,North,854184,Credit Card,4,82.35
+1000251,2024-12-07,Beauty,501,Lipstick,North,697896,Credit Card,,19.11
+1000252,2023-06-02,Beauty,504,Moisturizer,North,981049,Credit Card,1,23.28
+1000253,2024-09-18,Clothing,203,Jacket,North,887694,Bank Transfer,5,73.14
+1000254,2023-09-24,Books,401,Fiction Novel,South,506335,PayPal,4,15.71
+1000255,2023-06-04,Home,304,Vacuum,East,813751,Cash,1,135.77
+1000256,2024-01-08,Beauty,503,Perfume,West,846222,PayPal,4,61.95
+1000257,2023-05-01,Clothing,203,Jacket,East,742047,Debit Card,1,81.16
+1000258,2024-03-02,Electronics,102,Laptop,South,666284,Debit Card,4,1166.79
+1000259,2024-09-22,Clothing,201,T-Shirt,South,670677,PayPal,1,19.19
+1000260,2024-11-30,Beauty,503,Perfume,North,748204,PayPal,4,57.99
+1000261,2023-04-26,Electronics,102,Laptop,East,800157,Bank Transfer,2,1155.54
+1000262,2023-02-13,Home,304,Vacuum,East,806432,Credit Card,2,157.30
+1000263,2023-03-31,Beauty,503,Perfume,East,680356,Cash,2,61.14
+1000264,2024-06-24,Beauty,504,Moisturizer,West,795013,Debit Card,1,25.34
+1000265,2024-03-13,Beauty,503,Perfume,North,858407,Cash,2,54.03
+1000266,2023-07-18,Home,301,Blender,East,651563,Bank Transfer,1,40.00
+1000267,2023-03-27,Home,304,Vacuum,East,762839,Credit Card,2,154.27
+1000268,2024-04-18,Electronics,103,Headphones,West,690381,PayPal,5,152.10
+1000269,2024-03-19,Home,301,Blender,North,686777,Credit Card,5,36.52
+1000270,2024-03-18,Home,304,Vacuum,North,544301,Bank Transfer,3,161.22
+1000271,2023-02-25,Clothing,202,Jeans,East,649984,PayPal,3,47.49
+1000272,2024-03-18,Clothing,203,Jacket,East,574498,Credit Card,4,79.49
+1000273,2024-09-13,Books,402,Science Textbook,North,917461,Bank Transfer,3,80.63
+1000274,2023-05-12,Clothing,203,Jacket,West,846131,Bank Transfer,1,77.68
+1000275,2024-10-07,Beauty,504,Moisturizer,South,885383,PayPal,2,26.63
+1000276,2023-11-26,Electronics,103,Headphones,South,640685,Credit Card,1,148.78
+1000277,2024-12-08,Electronics,102,Laptop,West,634625,PayPal,2,1239.05
+1000278,2023-12-31,Electronics,101,Smartphone,West,999185,Cash,1,705.70
+1000279,2023-08-18,Home,302,Coffee Maker,East,879857,Bank Transfer,4,79.39
+1000280,2023-06-30,Clothing,201,T-Shirt,South,888641,PayPal,1,19.46
+1000281,2023-12-15,Books,402,Science Textbook,East,503553,Credit Card,2,78.91
+1000282,2024-07-19,Clothing,203,Jacket,,711581,Bank Transfer,5,86.85
+1000283,2024-07-31,Beauty,503,Perfume,East,861441,Bank Transfer,4,55.30
+1000284,2024-06-17,Electronics,103,Headphones,East,778428,Credit Card,5,142.49
+1000285,2024-06-23,Books,403,Cookbook,North,932622,Bank Transfer,1,25.27
+1000286,2023-02-12,Electronics,102,Laptop,West,690121,PayPal,2,1110.08
+1000287,2023-09-11,Beauty,504,Moisturizer,West,987591,Cash,3,24.40
+1000288,2024-05-18,Beauty,504,Moisturizer,South,996093,PayPal,4,27.28
+1000289,2024-08-24,Books,402,Science Textbook,West,605408,Credit Card,1,87.39
+1000290,2024-11-08,Home,302,Coffee Maker,South,918718,Cash,5,86.13
+1000291,2024-10-30,Clothing,202,Jeans,South,849951,Cash,3,48.99
+1000292,2023-09-13,Electronics,102,Laptop,,532662,Credit Card,2,1269.95
+1000293,2024-10-18,Electronics,103,Headphones,West,886090,Cash,4,140.06
+1000294,2024-06-09,Books,402,Science Textbook,East,891213,Credit Card,2,78.12
+1000295,2023-11-04,Electronics,101,Smartphone,South,930118,Bank Transfer,4,741.51
+1000296,2023-01-29,Electronics,102,Laptop,North,657579,Cash,3,1213.11
+1000297,2023-07-22,Beauty,503,Perfume,East,985679,Cash,1,55.16
+1000298,2023-09-28,Home,304,Vacuum,North,885355,Cash,4,135.18
+1000299,2024-12-19,Books,403,Cookbook,East,896176,Bank Transfer,5,23.09
+1000300,2024-08-22,Books,403,Cookbook,North,606286,Cash,5,26.99
+1000301,2024-01-31,Beauty,501,Lipstick,South,780045,Bank Transfer,3,19.26
+1000302,2024-09-05,Beauty,501,Lipstick,South,528862,Bank Transfer,1,16.45
+1000303,2024-11-17,Electronics,103,Headphones,West,999285,PayPal,2,153.26
+1000304,2024-08-09,Clothing,201,T-Shirt,North,827086,Bank Transfer,4,19.96
+1000305,2023-10-18,Home,301,Blender,South,738387,PayPal,1,37.28
+1000306,2024-06-09,Electronics,101,Smartphone,South,560175,Credit Card,4,702.90
+1000307,2023-06-18,Home,301,Blender,East,866557,PayPal,2,40.05
+1000308,2024-06-17,Electronics,102,Laptop,North,530496,Bank Transfer,2,1094.34
+1000309,2023-08-09,Clothing,203,Jacket,East,837874,Bank Transfer,5,80.27
+1000310,2023-10-01,,402,Science Textbook,South,610685,Debit Card,3,85.34
+1000311,2024-11-11,Home,304,Vacuum,West,530798,PayPal,5,149.52
+1000312,2023-07-04,Clothing,203,Jacket,North,683705,Bank Transfer,3,80.27
+1000313,2024-01-28,Electronics,103,Headphones,East,854309,Debit Card,3,144.54
+1000314,2024-11-18,Books,403,Cookbook,North,789789,Debit Card,1,25.18
+1000315,2024-06-17,Electronics,103,Headphones,West,990827,PayPal,5,151.77
+1000316,2023-07-25,Beauty,504,Moisturizer,North,679542,Cash,1,26.01
+1000317,2024-10-19,Clothing,202,Jeans,North,936906,PayPal,4,48.16
+1000318,2024-01-19,Beauty,501,Lipstick,East,797629,Debit Card,1,
+1000319,2024-06-02,Electronics,102,Laptop,West,556982,Cash,1,1308.12
+1000320,2023-02-21,Home,302,Coffee Maker,West,527159,Debit Card,5,72.95
+1000321,2024-01-15,Beauty,503,Perfume,East,585062,Credit Card,2,65.22
+1000322,2024-06-23,Books,403,Cookbook,East,950451,PayPal,4,26.84
+1000323,2023-12-02,Electronics,103,Headphones,South,959867,Cash,5,156.36
+1000324,2024-08-11,Books,403,Cookbook,North,741823,Credit Card,4,27.44
+1000325,2023-09-22,Beauty,504,Moisturizer,North,995024,Cash,5,24.81
+1000326,2023-07-19,Books,403,Cookbook,West,783340,Debit Card,2,25.97
+1000327,2023-07-01,Clothing,203,Jacket,South,964211,Credit Card,3,75.26
+1000328,2024-03-26,Clothing,203,Jacket,West,504349,Credit Card,5,85.63
+1000329,2023-11-02,Home,302,Coffee Maker,East,872260,Cash,4,75.43
+1000330,2024-10-19,Clothing,203,Jacket,South,806173,Debit Card,1,84.66
+1000331,2024-11-19,Electronics,103,Headphones,South,544217,Cash,4,141.69
+1000332,2024-01-09,Books,402,Science Textbook,South,928299,Credit Card,1,77.40
+1000333,2024-04-05,Beauty,501,Lipstick,West,530991,Bank Transfer,4,18.82
+1000334,2024-05-05,Electronics,103,Headphones,North,986827,Debit Card,2,144.46
+1000335,2023-09-02,Clothing,202,Jeans,North,728715,Bank Transfer,1,53.52
+1000336,2023-01-10,Beauty,503,Perfume,East,963761,Debit Card,4,58.72
+1000337,2024-12-08,Books,401,Fiction Novel,East,822851,Bank Transfer,4,15.10
+1000338,2024-08-06,Electronics,102,Laptop,North,978427,Debit Card,4,1130.52
+1000339,2024-09-12,Books,402,Science Textbook,East,544888,PayPal,2,87.81
+1000340,2023-04-18,Electronics,103,Headphones,North,576809,Bank Transfer,2,149.18
+1000341,2024-07-16,Clothing,202,Jeans,West,529638,Cash,4,53.07
+1000342,2024-09-05,Books,403,Cookbook,West,921714,Debit Card,2,27.23
+1000343,2024-03-24,Home,302,Coffee Maker,West,678789,Cash,1,80.39
+1000344,2023-06-30,Home,302,Coffee Maker,East,917925,Credit Card,4,86.27
+1000345,2024-10-23,Home,302,Coffee Maker,North,586212,Cash,2,73.42
+1000346,2024-01-16,Beauty,504,Moisturizer,,807823,Debit Card,2,25.34
+1000347,2023-01-13,Home,302,Coffee Maker,West,995875,Bank Transfer,2,80.10
+1000348,2024-01-05,Beauty,504,Moisturizer,North,600395,PayPal,1,27.43
+1000349,2023-07-11,Beauty,503,Perfume,South,784261,Cash,5,57.62
+1000350,2023-04-25,Home,301,Blender,North,732514,Debit Card,5,43.14
+1000351,2024-06-22,Clothing,203,Jacket,West,765302,Credit Card,4,81.40
+1000352,2024-04-24,Electronics,103,Headphones,South,559949,PayPal,5,137.23
+1000353,2023-12-21,Home,304,Vacuum,East,868546,Debit Card,1,163.92
+1000354,2024-08-17,Clothing,201,T-Shirt,North,517476,Cash,1,18.24
+1000355,2023-06-19,Clothing,203,Jacket,East,650447,Cash,4,86.40
+1000356,2023-02-14,Home,302,Coffee Maker,West,784420,Cash,1,81.76
+1000357,2023-10-06,Home,301,Blender,South,507336,Bank Transfer,1,38.80
+1000358,2024-05-17,Electronics,102,Laptop,West,935355,Debit Card,5,1234.74
+1000359,2023-02-03,Books,403,Cookbook,West,824310,PayPal,4,22.90
+1000360,2023-08-20,,501,Lipstick,East,986793,Bank Transfer,3,19.33
+1000361,2023-03-14,Beauty,504,Moisturizer,West,967219,Debit Card,,26.62
+1000362,2024-03-27,Beauty,503,Perfume,West,696523,Cash,4,61.80
+1000363,2023-08-03,Beauty,503,Perfume,West,917373,Cash,1,57.11
+1000364,2024-10-08,Clothing,201,T-Shirt,North,862307,Debit Card,3,20.98
+1000365,2023-01-21,Home,304,Vacuum,South,879467,Credit Card,3,138.41
+1000366,2024-05-04,,203,Jacket,East,717150,Bank Transfer,4,79.97
+1000367,2023-03-09,Home,302,Coffee Maker,East,830810,Debit Card,5,84.81
+1000368,2024-06-29,Books,402,Science Textbook,East,847671,PayPal,4,74.25
+1000369,2024-09-11,Books,402,Science Textbook,East,730365,Credit Card,5,77.01
+1000370,2024-06-07,Clothing,202,Jeans,North,774111,Credit Card,4,54.27
+1000371,2024-12-04,Electronics,102,Laptop,South,833611,Bank Transfer,3,1112.69
+1000372,2023-10-26,Books,401,Fiction Novel,South,549900,PayPal,2,15.13
+1000373,2024-11-01,Clothing,201,T-Shirt,North,517148,Debit Card,2,20.86
+1000374,2023-03-13,Electronics,101,Smartphone,West,612521,Debit Card,1,693.82
+1000375,2023-07-21,Clothing,202,Jeans,South,540906,Debit Card,4,47.27
+1000376,2024-01-31,Beauty,503,Perfume,South,544204,Bank Transfer,2,61.48
+1000377,2024-10-01,Books,403,Cookbook,South,845632,Cash,2,26.07
+1000378,2024-01-16,Beauty,503,Perfume,East,878754,PayPal,1,63.15
+1000379,2024-08-03,Electronics,101,Smartphone,West,795414,Credit Card,4,704.76
+1000380,2023-03-03,Home,301,Blender,North,589343,Bank Transfer,3,39.73
+1000381,2023-07-23,Clothing,201,T-Shirt,South,896267,Debit Card,3,21.03
+1000382,2024-08-16,Books,403,Cookbook,West,670992,PayPal,3,22.88
+1000383,2024-01-25,,403,Cookbook,North,634904,Credit Card,3,23.34
+1000384,2023-07-06,Clothing,203,Jacket,South,642561,Bank Transfer,3,76.18
+1000385,2023-09-06,Beauty,504,Moisturizer,North,647402,PayPal,3,23.93
+1000386,2023-04-15,Electronics,103,Headphones,South,722006,Bank Transfer,1,161.71
+1000387,2023-12-19,Home,302,Coffee Maker,West,734364,PayPal,4,86.65
+1000388,2024-07-26,Electronics,103,Headphones,West,859525,PayPal,4,158.43
+1000389,2024-12-15,Beauty,503,Perfume,East,669823,Cash,3,61.78
+1000390,2023-08-28,Electronics,101,Smartphone,South,820777,Bank Transfer,2,691.40
+1000391,2023-05-26,Beauty,504,Moisturizer,North,843530,Bank Transfer,1,24.32
+1000392,2023-01-09,Books,402,Science Textbook,South,630267,Cash,2,78.44
+1000393,2023-07-31,Home,301,Blender,East,909960,Credit Card,5,43.19
+1000394,2024-10-23,Electronics,101,Smartphone,East,907703,Debit Card,4,686.19
+1000395,2023-12-22,Beauty,501,Lipstick,North,572521,PayPal,3,19.20
+1000396,2024-11-02,Clothing,202,Jeans,East,605559,Credit Card,3,45.53
+1000397,2024-08-15,Clothing,203,Jacket,West,915005,Cash,2,79.79
+1000398,2023-12-20,Home,301,Blender,West,703810,Cash,5,42.88
+1000399,2024-10-27,Books,401,Fiction Novel,South,894131,Bank Transfer,5,14.69
+1000400,2024-05-18,Electronics,101,Smartphone,North,847626,PayPal,1,639.98
+1000401,2023-11-17,Home,304,Vacuum,West,739820,Credit Card,3,148.68
+1000402,2024-02-02,Home,302,Coffee Maker,East,591845,Bank Transfer,3,73.24
+1000403,2023-11-09,Clothing,203,Jacket,South,539986,Bank Transfer,4,73.80
+1000404,2023-11-29,Home,304,Vacuum,West,758454,Bank Transfer,5,146.85
+1000405,2023-05-05,Home,304,Vacuum,North,525393,PayPal,5,135.07
+1000406,2023-04-08,Books,401,Fiction Novel,West,713413,Debit Card,4,16.27
+1000407,2024-03-16,Beauty,504,Moisturizer,East,803578,Debit Card,5,23.62
+1000408,2024-03-06,Clothing,201,T-Shirt,,667971,Debit Card,3,21.69
+1000409,2023-12-07,Home,304,Vacuum,North,910276,Bank Transfer,4,154.49
+1000410,2023-09-07,Clothing,202,Jeans,East,939864,PayPal,3,53.65
+1000411,2024-09-14,Home,302,Coffee Maker,North,967917,Credit Card,4,79.35
+1000412,2023-01-20,Beauty,503,Perfume,North,629041,Debit Card,2,54.88
+1000413,2023-02-11,Beauty,504,Moisturizer,West,672416,Cash,1,26.56
+1000414,2024-07-07,Books,401,Fiction Novel,East,670546,Debit Card,3,16.22
+1000415,2023-03-30,Beauty,503,Perfume,West,620154,PayPal,1,57.59
+1000416,2024-06-12,Books,402,Science Textbook,South,869366,Debit Card,5,87.90
+1000417,2024-07-12,Beauty,501,Lipstick,North,577833,PayPal,2,17.75
+1000418,2024-11-06,Clothing,201,T-Shirt,West,914345,PayPal,3,19.06
+1000419,2024-07-01,Books,402,Science Textbook,North,881402,Credit Card,5,85.79
+1000420,2023-01-28,Beauty,503,Perfume,South,652460,Bank Transfer,3,62.00
+1000421,2023-12-24,Electronics,102,Laptop,West,892570,Debit Card,5,1166.54
+1000422,2024-05-20,Home,304,Vacuum,West,890264,Debit Card,1,144.45
+1000423,2023-12-14,Home,301,Blender,East,972100,Debit Card,1,38.10
+1000424,2023-10-19,Books,402,Science Textbook,North,608407,Credit Card,5,77.11
+1000425,2024-05-30,Home,304,Vacuum,East,775104,PayPal,1,
+1000426,2023-02-01,Books,402,Science Textbook,West,792129,Bank Transfer,1,84.98
+1000427,2024-04-25,Home,304,Vacuum,South,869448,Debit Card,4,143.06
+1000428,2023-07-05,Electronics,102,Laptop,West,568617,PayPal,5,1223.14
+1000429,2023-01-13,,301,Blender,South,837256,Credit Card,3,36.71
+1000430,2023-10-02,Books,402,Science Textbook,East,945687,PayPal,5,78.78
+1000431,2024-07-20,Home,301,Blender,North,788381,Debit Card,3,36.13
+1000432,2024-10-13,Beauty,504,Moisturizer,North,729725,Cash,5,25.55
+1000433,2023-01-30,Beauty,503,Perfume,East,526255,Bank Transfer,3,62.90
+1000434,2024-08-15,Clothing,201,T-Shirt,East,695927,Debit Card,1,19.39
+1000435,2023-10-04,Home,301,Blender,East,658306,PayPal,3,39.59
+1000436,2024-03-18,Electronics,103,Headphones,South,530758,Credit Card,3,137.96
+1000437,2024-10-17,Beauty,501,Lipstick,,538787,Bank Transfer,5,19.69
+1000438,2023-07-03,Home,302,Coffee Maker,East,677360,Debit Card,2,83.89
+1000439,2023-03-08,Home,302,Coffee Maker,North,662067,Bank Transfer,1,87.21
+1000440,2023-08-09,Clothing,201,T-Shirt,East,809497,Bank Transfer,5,19.30
+1000441,2024-04-26,Books,401,Fiction Novel,East,528617,PayPal,5,15.40
+1000442,2024-05-30,Books,403,Cookbook,West,626311,PayPal,2,26.07
+1000443,2023-07-04,Electronics,101,Smartphone,West,669494,Debit Card,3,738.64
+1000444,2024-12-10,Books,402,Science Textbook,South,736204,Bank Transfer,2,86.65
+1000445,2024-09-07,Books,403,Cookbook,East,595546,Cash,3,26.51
+1000446,2023-11-07,Books,401,Fiction Novel,East,571344,Bank Transfer,4,14.05
+1000447,2024-11-07,Electronics,101,Smartphone,East,949924,Bank Transfer,3,747.36
+1000448,2023-04-30,Electronics,103,Headphones,West,800543,Bank Transfer,4,142.99
+1000449,2023-07-21,Home,301,Blender,North,712385,Cash,2,40.34
+1000450,2024-11-01,Home,302,Coffee Maker,East,932909,Bank Transfer,1,77.63
+1000451,2023-11-28,Home,302,Coffee Maker,North,591090,PayPal,5,78.32
+1000452,2024-01-31,Books,402,Science Textbook,West,556442,Bank Transfer,5,76.03
+1000453,2024-02-25,Books,403,Cookbook,West,580290,Credit Card,3,25.67
+1000454,2024-10-03,Books,402,Science Textbook,North,709219,Credit Card,3,80.99
+1000455,2023-07-31,Electronics,103,Headphones,South,688769,Credit Card,3,148.14
+1000456,2024-02-04,Home,302,Coffee Maker,,990736,Cash,2,81.94
+1000457,2023-12-18,Home,304,Vacuum,East,544318,Debit Card,4,157.16
+1000458,2023-02-14,Electronics,103,Headphones,East,680586,PayPal,3,139.71
+1000459,2024-06-23,Clothing,202,Jeans,East,814424,Debit Card,5,45.17
+1000460,2023-07-26,Books,401,Fiction Novel,East,622080,Credit Card,3,13.76
+1000461,2024-02-27,Books,403,Cookbook,North,654159,Bank Transfer,5,26.58
+1000462,2023-07-05,Clothing,202,Jeans,North,709508,Bank Transfer,1,54.83
+1000463,2023-11-03,Clothing,203,Jacket,South,828665,Credit Card,3,72.57
+1000464,2023-06-07,Beauty,503,Perfume,East,601455,Debit Card,4,63.68
+1000465,2023-09-19,Books,402,Science Textbook,South,634570,Bank Transfer,1,76.41
+1000466,2023-08-08,Home,304,Vacuum,West,763168,Debit Card,4,139.06
+1000467,2024-01-13,Books,401,Fiction Novel,East,505156,Cash,5,15.63
+1000468,2024-08-03,Electronics,102,Laptop,West,843349,Debit Card,2,1221.48
+1000469,2024-04-17,Clothing,202,Jeans,North,623614,PayPal,1,47.12
+1000470,2023-04-29,Electronics,101,Smartphone,South,919904,PayPal,5,651.58
+1000471,2023-01-06,Clothing,202,Jeans,East,680114,Credit Card,1,50.31
+1000472,2023-04-15,Home,302,Coffee Maker,West,619148,Cash,5,82.00
+1000473,2024-10-09,Electronics,101,Smartphone,West,827530,PayPal,3,676.52
+1000474,2023-08-08,Beauty,504,Moisturizer,North,695887,Debit Card,4,23.14
+1000475,2023-04-11,Electronics,103,Headphones,South,657897,Credit Card,3,162.45
+1000476,2024-10-04,Beauty,501,Lipstick,South,963257,Debit Card,4,16.85
+1000477,2024-11-10,Home,304,Vacuum,West,963847,Cash,5,138.94
+1000478,2024-11-18,Clothing,201,T-Shirt,North,752269,Bank Transfer,4,20.19
+1000479,2024-12-07,Home,301,Blender,North,589311,Bank Transfer,4,38.54
+1000480,2023-01-30,Books,401,Fiction Novel,South,601390,Credit Card,1,15.19
+1000481,2023-01-19,Electronics,101,Smartphone,East,671093,Cash,2,674.17
+1000482,2023-01-02,Home,302,Coffee Maker,West,927934,Credit Card,3,85.60
+1000483,2023-07-29,Books,401,Fiction Novel,West,514671,Cash,3,14.66
+1000484,2024-08-03,Home,301,Blender,East,731665,Bank Transfer,2,40.68
+1000485,2024-06-22,Beauty,503,Perfume,East,969612,Debit Card,4,63.48
+1000486,2024-01-03,Books,402,Science Textbook,North,975658,Bank Transfer,4,73.45
+1000487,2024-04-15,Electronics,101,Smartphone,South,988011,Bank Transfer,5,707.76
+1000488,2023-09-21,Electronics,103,Headphones,West,845828,Debit Card,1,135.78
+1000489,2024-02-08,Electronics,103,Headphones,North,863089,Cash,5,152.81
+1000490,2023-03-30,Electronics,101,Smartphone,West,876804,Bank Transfer,4,728.58
+1000491,2023-10-02,Beauty,501,Lipstick,West,928483,Bank Transfer,4,19.55
+1000492,2024-07-07,Clothing,202,Jeans,West,691153,Debit Card,1,46.93
+1000493,2024-11-07,Electronics,102,Laptop,North,554778,Bank Transfer,1,1204.52
+1000494,2024-07-24,Beauty,503,Perfume,East,995134,Debit Card,2,55.47
+1000495,2023-11-25,Electronics,102,Laptop,North,544138,Bank Transfer,2,1082.34
+1000496,2023-05-11,Beauty,503,Perfume,East,604207,Debit Card,2,57.87
+1000497,2024-08-15,Books,401,Fiction Novel,South,930712,Cash,4,14.26
+1000498,2023-02-25,Beauty,503,Perfume,West,608848,Debit Card,5,58.81
+1000499,2024-09-17,Clothing,203,Jacket,West,632781,Bank Transfer,2,87.93
+1000500,2023-06-23,Electronics,103,Headphones,South,714956,Bank Transfer,4,160.60
+1000501,2023-06-15,Beauty,503,Perfume,South,650111,Bank Transfer,4,56.67
+1000502,2024-05-20,Beauty,501,Lipstick,East,849218,PayPal,3,17.74
+1000503,2024-07-30,Electronics,103,Headphones,East,872578,Credit Card,3,155.34
+1000504,2023-06-25,Clothing,203,Jacket,North,614448,Cash,5,86.15
+1000505,2023-12-04,Electronics,103,Headphones,South,910063,Credit Card,1,140.02
+1000506,2023-05-15,Electronics,101,Smartphone,South,689719,Cash,5,691.56
+1000507,2023-08-31,Home,301,Blender,South,806962,Credit Card,4,43.77
+1000508,2023-01-11,Electronics,101,Smartphone,North,919952,Bank Transfer,5,700.83
+1000509,2023-04-21,Beauty,504,Moisturizer,South,993289,PayPal,3,25.99
+1000510,2023-05-25,Clothing,203,Jacket,East,840673,Debit Card,1,72.47
+1000511,2023-08-05,Home,301,Blender,East,727894,Credit Card,5,40.13
+1000512,2023-07-15,Electronics,102,Laptop,North,578598,Credit Card,3,1208.22
+1000513,2024-02-12,Electronics,103,Headphones,South,530904,Debit Card,1,163.73
+1000514,2023-08-09,Electronics,102,Laptop,North,846868,Cash,1,1264.97
+1000515,2023-08-24,Books,403,Cookbook,North,955142,Credit Card,4,24.50
+1000516,2023-03-20,Clothing,201,T-Shirt,South,835107,PayPal,3,20.89
+1000517,2024-06-06,Books,403,Cookbook,East,548092,PayPal,4,22.51
+1000518,2023-07-29,Books,403,Cookbook,North,525334,Debit Card,4,26.78
+1000519,2024-11-11,Home,304,Vacuum,South,993002,PayPal,4,147.42
+1000520,2023-10-24,Clothing,201,T-Shirt,South,629995,Cash,5,21.19
+1000521,2024-03-10,Clothing,202,Jeans,East,806293,Bank Transfer,5,50.72
+1000522,2023-06-28,Electronics,103,Headphones,North,744512,Credit Card,5,148.53
+1000523,2023-05-21,Home,304,Vacuum,East,538412,Cash,5,140.40
+1000524,2024-07-22,Beauty,503,Perfume,East,872792,Debit Card,3,58.40
+1000525,2024-09-10,Beauty,503,Perfume,North,530663,Bank Transfer,3,54.64
+1000526,2024-11-19,Books,403,Cookbook,North,908516,Credit Card,3,26.48
+1000527,2023-11-30,Home,302,Coffee Maker,East,725065,Bank Transfer,2,83.53
+1000528,2023-09-25,Clothing,201,T-Shirt,West,581796,Credit Card,4,18.83
+1000529,2023-11-28,Clothing,203,Jacket,East,615788,Cash,3,77.46
+1000530,2023-06-18,Beauty,504,Moisturizer,South,681712,PayPal,3,23.27
+1000531,2023-06-29,Electronics,101,Smartphone,North,866611,Cash,2,663.51
+1000532,2024-07-23,Beauty,504,Moisturizer,West,744340,Credit Card,5,26.60
+1000533,2024-05-03,Beauty,503,Perfume,East,593508,PayPal,1,61.23
+1000534,2024-02-25,Clothing,202,Jeans,West,577383,Credit Card,1,50.92
+1000535,2024-02-21,Electronics,101,Smartphone,East,552915,Credit Card,2,705.59
+1000536,2024-08-17,Books,403,Cookbook,West,822777,PayPal,4,26.40
+1000537,2024-10-24,Books,401,Fiction Novel,South,889780,Cash,1,15.14
+1000538,2024-11-28,Books,403,Cookbook,South,750285,Credit Card,5,27.10
+1000539,2023-09-03,Books,401,Fiction Novel,South,708117,Debit Card,5,14.43
+1000540,2024-06-05,Books,401,Fiction Novel,East,504115,Cash,4,15.90
+1000541,2024-09-11,Electronics,102,Laptop,South,670066,Bank Transfer,2,1294.60
+1000542,2023-04-06,Clothing,203,Jacket,North,749700,PayPal,1,79.14
+1000543,2024-09-09,Home,301,Blender,West,531729,Cash,1,38.97
+1000544,2024-01-11,Books,403,Cookbook,North,919537,PayPal,2,22.52
+1000545,2023-03-15,Books,402,Science Textbook,North,958770,Cash,5,72.87
+1000546,2023-09-16,Beauty,503,Perfume,South,710609,Cash,1,57.90
+1000547,2023-12-31,Home,302,Coffee Maker,West,599454,Credit Card,3,75.01
+1000548,2023-03-04,Clothing,201,T-Shirt,North,959372,PayPal,3,21.01
+1000549,2024-02-18,Home,304,Vacuum,West,530992,PayPal,2,164.46
+1000550,2023-11-22,Home,302,Coffee Maker,South,844889,Cash,4,72.66
+1000551,2024-10-16,Beauty,503,Perfume,North,610037,PayPal,5,64.45
+1000552,2024-08-05,Books,403,Cookbook,North,517202,Debit Card,2,24.66
+1000553,2024-04-20,Clothing,201,T-Shirt,North,657237,Bank Transfer,5,21.34
+1000554,2023-07-01,Electronics,102,Laptop,North,747555,Credit Card,1,1195.43
+1000555,2023-06-02,Home,301,Blender,North,682513,Debit Card,5,40.68
+1000556,2024-11-17,Books,401,Fiction Novel,East,960130,Bank Transfer,1,14.51
+1000557,2024-11-21,Beauty,501,Lipstick,East,947193,PayPal,4,16.78
+1000558,2023-05-23,Books,403,Cookbook,North,954589,Debit Card,2,26.78
+1000559,2024-08-30,Clothing,201,T-Shirt,South,506481,Cash,3,21.07
+1000560,2024-07-20,Books,403,Cookbook,South,887694,Bank Transfer,4,26.49
+1000561,2023-08-06,Beauty,503,Perfume,South,980573,Cash,3,57.52
+1000562,2023-11-04,Beauty,501,Lipstick,North,941882,Credit Card,2,19.49
+1000563,2024-07-15,Beauty,504,Moisturizer,West,772405,Debit Card,3,24.90
+1000564,2023-02-08,Home,304,Vacuum,South,855378,Cash,2,163.29
+1000565,2023-06-27,Electronics,101,Smartphone,West,873355,Cash,1,716.47
+1000566,2024-11-27,Beauty,503,Perfume,West,522478,Debit Card,4,55.66
+1000567,2024-12-06,Books,401,Fiction Novel,West,833351,PayPal,2,14.74
+1000568,2023-03-05,Beauty,503,Perfume,South,689602,Cash,3,62.17
+1000569,2023-03-10,Beauty,503,Perfume,South,547699,Credit Card,2,55.38
+1000570,2023-12-22,Clothing,202,Jeans,East,928978,Debit Card,3,45.07
+1000571,2024-11-13,Clothing,202,Jeans,North,695624,Debit Card,3,50.30
+1000572,2024-08-03,Clothing,202,Jeans,West,961192,Bank Transfer,2,45.21
+1000573,2023-01-24,Electronics,101,Smartphone,South,971826,Bank Transfer,1,655.42
+1000574,2023-06-27,Electronics,103,Headphones,West,621266,PayPal,5,142.10
+1000575,2024-06-08,Beauty,503,Perfume,South,581003,PayPal,5,64.12
+1000576,2024-08-05,Beauty,503,Perfume,West,969563,PayPal,3,60.59
+1000577,2023-04-03,Electronics,102,Laptop,South,883332,Bank Transfer,1,1111.20
+1000578,2023-04-27,Clothing,203,Jacket,West,924262,Cash,1,84.84
+1000579,2024-01-06,Home,304,Vacuum,West,992584,Bank Transfer,1,159.57
+1000580,2023-03-10,Clothing,201,T-Shirt,East,976869,Bank Transfer,5,18.63
+1000581,2024-04-25,Clothing,201,T-Shirt,West,590233,Cash,2,20.01
+1000582,2024-12-08,Clothing,203,Jacket,East,823279,Bank Transfer,5,87.06
+1000583,2024-06-29,Books,401,Fiction Novel,South,857081,Credit Card,3,15.55
+1000584,2023-12-21,Home,301,Blender,East,618745,Cash,1,36.57
+1000585,2024-01-22,Beauty,503,Perfume,West,797309,Bank Transfer,2,56.89
+1000586,2023-08-04,Home,302,Coffee Maker,East,942564,Credit Card,1,81.53
+1000587,2024-02-25,Electronics,102,Laptop,West,695884,PayPal,2,1194.20
+1000588,2023-05-16,Home,302,Coffee Maker,East,637504,Debit Card,5,87.83
+1000589,2024-11-20,Books,403,Cookbook,East,510907,PayPal,1,25.63
+1000590,2024-09-28,Electronics,103,Headphones,North,681891,PayPal,5,145.52
+1000591,2023-12-17,Home,302,Coffee Maker,West,871681,PayPal,1,77.69
+1000592,2023-06-30,Books,403,Cookbook,West,560554,PayPal,3,25.14
+1000593,2024-10-07,Books,402,Science Textbook,North,967880,Cash,4,81.64
+1000594,2024-10-26,Home,304,Vacuum,East,974644,Cash,4,142.03
+1000595,2023-03-14,Electronics,101,Smartphone,South,699499,Debit Card,5,662.61
+1000596,2023-08-21,Clothing,202,Jeans,West,562543,Bank Transfer,2,48.04
+1000597,2024-02-26,Electronics,101,Smartphone,East,835161,Debit Card,1,712.80
+1000598,2024-06-19,Clothing,203,Jacket,East,634928,PayPal,2,84.87
+1000599,2024-03-22,Electronics,102,Laptop,North,748716,Cash,2,1182.14
+1000600,2024-08-31,Electronics,102,Laptop,North,917877,Debit Card,1,1290.80
+1000601,2024-09-30,Clothing,202,Jeans,West,511527,PayPal,5,47.65
+1000602,2024-10-08,Electronics,102,Laptop,West,599741,Bank Transfer,5,1112.10
+1000603,2023-03-04,Clothing,201,T-Shirt,North,605839,Cash,2,21.45
+1000604,2024-04-05,Beauty,501,Lipstick,North,682940,Debit Card,3,17.65
+1000605,2024-11-08,,201,T-Shirt,,788337,Cash,4,18.64
+1000606,2024-02-29,Home,301,Blender,East,720327,Cash,3,37.83
+1000607,2023-10-19,Electronics,101,Smartphone,West,546215,Credit Card,1,
+1000608,2024-10-10,Home,301,Blender,North,868384,Bank Transfer,3,42.34
+1000609,2023-11-30,Home,302,Coffee Maker,North,862092,PayPal,5,86.00
+1000610,2024-10-05,Home,301,Blender,South,526697,Cash,1,40.21
+1000611,2024-08-26,Home,301,Blender,South,662915,Debit Card,2,42.49
+1000612,2024-12-12,Home,301,Blender,South,736228,PayPal,4,39.43
+1000613,2023-08-19,Books,401,Fiction Novel,North,678673,Credit Card,1,14.60
+1000614,2023-10-05,Beauty,501,Lipstick,West,759475,Bank Transfer,5,18.59
+1000615,2024-06-13,Beauty,503,Perfume,West,734987,Cash,2,55.04
+1000616,2023-10-25,Books,403,Cookbook,East,672086,Debit Card,2,24.53
+1000617,2023-06-04,Beauty,501,Lipstick,West,761148,Debit Card,5,17.93
+1000618,2024-09-17,Clothing,201,T-Shirt,East,940002,PayPal,4,19.16
+1000619,2023-06-04,Home,302,Coffee Maker,North,948354,Bank Transfer,5,83.87
+1000620,2023-02-21,Books,402,Science Textbook,North,626666,Bank Transfer,5,73.43
+1000621,2024-06-23,Home,301,Blender,South,579500,PayPal,4,39.46
+1000622,2023-06-11,Beauty,504,Moisturizer,South,643097,Bank Transfer,2,23.10
+1000623,2023-03-26,Books,401,Fiction Novel,East,740910,Cash,3,14.43
+1000624,2024-02-08,Beauty,503,Perfume,East,536540,Bank Transfer,1,55.42
+1000625,2023-12-19,Home,301,Blender,South,713340,Credit Card,1,41.88
+1000626,2023-09-20,Clothing,201,T-Shirt,North,614158,Debit Card,1,18.53
+1000627,2024-06-24,Beauty,503,Perfume,East,944847,PayPal,3,56.40
+1000628,2023-08-28,Electronics,101,Smartphone,East,918159,PayPal,1,630.96
+1000629,2023-11-17,Electronics,101,Smartphone,East,637664,Bank Transfer,2,635.53
+1000630,2024-10-28,Clothing,201,T-Shirt,West,699338,Credit Card,5,20.13
+1000631,2024-02-14,Beauty,504,Moisturizer,North,548876,PayPal,3,24.91
+1000632,2023-05-11,Books,401,Fiction Novel,North,937208,Credit Card,4,15.92
+1000633,2023-11-24,Books,401,Fiction Novel,East,557750,PayPal,1,15.30
+1000634,2023-05-02,Electronics,101,Smartphone,South,806170,PayPal,5,748.65
+1000635,2023-07-03,Clothing,201,T-Shirt,South,584729,Cash,2,21.98
+1000636,2023-10-07,Beauty,503,Perfume,North,785558,Bank Transfer,2,58.75
+1000637,2024-09-30,Electronics,103,Headphones,,518979,Debit Card,1,160.73
+1000638,2023-09-19,Beauty,504,Moisturizer,North,682682,Debit Card,2,22.90
+1000639,2024-04-13,Electronics,102,Laptop,East,655482,PayPal,4,1245.90
+1000640,2023-01-04,Home,302,Coffee Maker,South,689692,Cash,5,82.86
+1000641,2024-12-28,Clothing,203,Jacket,North,519515,PayPal,3,73.41
+1000642,2024-08-23,Electronics,101,Smartphone,South,511512,Cash,4,677.48
+1000643,2024-11-24,Electronics,103,Headphones,West,933367,Debit Card,5,152.54
+1000644,2024-02-25,Books,403,Cookbook,North,980926,PayPal,1,24.86
+1000645,2023-09-09,Clothing,203,Jacket,South,822554,Bank Transfer,4,77.96
+1000646,2024-02-24,Home,302,Coffee Maker,East,698775,Debit Card,1,75.97
+1000647,2023-05-27,Beauty,504,Moisturizer,South,823027,Debit Card,4,24.74
+1000648,2023-10-27,Beauty,501,Lipstick,West,967579,Bank Transfer,3,18.34
+1000649,2024-06-20,Electronics,102,Laptop,East,500204,Bank Transfer,4,1116.99
+1000650,2023-02-04,Beauty,501,Lipstick,West,985686,PayPal,2,16.23
+1000651,2024-09-07,Home,302,Coffee Maker,South,935377,PayPal,5,79.69
+1000652,2024-02-24,Beauty,501,Lipstick,East,555909,Cash,1,16.79
+1000653,2024-04-13,Home,301,Blender,North,898164,Cash,2,38.07
+1000654,2023-06-29,Beauty,504,Moisturizer,West,756336,Cash,4,23.10
+1000655,2023-06-17,Electronics,102,Laptop,East,974832,Bank Transfer,3,1221.80
+1000656,2024-12-09,Beauty,503,Perfume,North,808102,PayPal,3,64.36
+1000657,2023-10-30,Beauty,504,Moisturizer,West,979460,PayPal,1,26.84
+1000658,2023-12-14,Electronics,103,Headphones,South,807672,Cash,1,143.10
+1000659,2023-09-12,Books,401,Fiction Novel,West,563666,Debit Card,3,16.02
+1000660,2024-06-10,Clothing,201,T-Shirt,North,789145,Debit Card,4,21.84
+1000661,2023-03-11,Clothing,201,T-Shirt,North,661901,Cash,3,18.51
+1000662,2023-06-29,Electronics,102,Laptop,East,862534,PayPal,4,1138.19
+1000663,2024-12-23,Electronics,102,Laptop,South,864079,PayPal,3,1139.43
+1000664,2024-11-27,Clothing,203,Jacket,North,994816,PayPal,2,79.14
+1000665,2024-03-30,Clothing,201,T-Shirt,North,923658,Debit Card,2,19.35
+1000666,2024-08-11,Books,403,Cookbook,West,571691,Cash,5,25.30
+1000667,2024-08-12,Beauty,504,Moisturizer,West,981053,Cash,4,24.48
+1000668,2023-08-25,Clothing,202,Jeans,West,628274,PayPal,2,51.87
+1000669,2024-02-19,Clothing,202,Jeans,East,619598,Bank Transfer,2,45.95
+1000670,2023-07-19,Beauty,504,Moisturizer,South,603197,Bank Transfer,5,26.72
+1000671,2024-05-03,Books,403,Cookbook,South,682649,Debit Card,5,26.11
+1000672,2024-05-28,Clothing,203,Jacket,West,803111,Debit Card,5,83.90
+1000673,2023-01-05,Beauty,501,Lipstick,West,745768,Debit Card,2,17.11
+1000674,2023-05-05,Books,401,Fiction Novel,North,600496,Credit Card,3,14.65
+1000675,2024-12-22,Beauty,504,Moisturizer,West,725067,Bank Transfer,1,26.53
+1000676,2024-04-04,Electronics,102,Laptop,West,564049,Credit Card,1,1290.49
+1000677,2023-06-28,Books,401,Fiction Novel,East,509710,Bank Transfer,4,14.37
+1000678,2023-12-07,Beauty,503,Perfume,North,827551,Debit Card,2,
+1000679,2023-04-01,Books,403,Cookbook,East,551410,Credit Card,5,23.97
+1000680,2024-03-23,Clothing,202,Jeans,East,824795,Bank Transfer,3,45.70
+1000681,2023-12-11,Clothing,203,Jacket,East,872497,Cash,1,87.86
+1000682,2023-09-24,Home,301,Blender,West,912982,PayPal,1,39.46
+1000683,2023-06-28,Electronics,102,Laptop,West,845578,Cash,4,1211.46
+1000684,2023-04-30,Books,402,Science Textbook,East,747321,Bank Transfer,4,83.66
+1000685,2024-10-30,Electronics,103,Headphones,North,599266,Debit Card,5,161.77
+1000686,2024-05-20,Beauty,504,Moisturizer,North,561577,Cash,5,27.14
+1000687,2024-10-13,Beauty,504,Moisturizer,East,551730,PayPal,4,22.60
+1000688,2024-02-19,Home,302,Coffee Maker,East,654655,Bank Transfer,3,85.41
+1000689,2023-06-23,Home,304,Vacuum,North,672931,Bank Transfer,1,141.39
+1000690,2024-07-24,Books,403,Cookbook,East,734946,Cash,2,22.92
+1000691,2023-04-03,Clothing,201,T-Shirt,North,874434,Debit Card,4,20.93
+1000692,2024-03-28,Home,301,Blender,North,809331,Credit Card,5,38.97
+1000693,2024-08-22,Clothing,201,T-Shirt,East,685425,Debit Card,1,21.27
+1000694,2023-10-17,Clothing,203,Jacket,South,698773,Debit Card,4,74.55
+1000695,2024-12-09,Books,402,Science Textbook,North,820485,PayPal,4,82.80
+1000696,2023-02-10,Electronics,101,Smartphone,North,685586,PayPal,2,689.78
+1000697,2024-08-03,Electronics,101,Smartphone,South,679352,Cash,1,716.11
+1000698,2023-02-01,Clothing,202,Jeans,North,626818,Credit Card,5,45.53
+1000699,2023-03-17,Electronics,102,Laptop,North,812721,Credit Card,1,1165.65
+1000700,2023-01-12,Clothing,202,Jeans,East,822341,Credit Card,5,49.84
+1000701,2024-09-21,Home,302,Coffee Maker,North,755024,Debit Card,1,82.40
+1000702,2024-05-22,Beauty,504,Moisturizer,South,502214,Credit Card,5,23.81
+1000703,2024-10-20,Beauty,504,Moisturizer,North,733888,Bank Transfer,2,23.88
+1000704,2023-12-13,Books,402,Science Textbook,West,529028,Debit Card,5,87.34
+1000705,2024-08-15,Electronics,103,Headphones,West,603614,PayPal,1,164.32
+1000706,2023-05-15,Clothing,203,Jacket,East,567221,Cash,2,84.68
+1000707,2024-02-08,Home,302,Coffee Maker,West,970871,Bank Transfer,3,83.45
+1000708,2023-11-26,Beauty,503,Perfume,West,516603,Debit Card,1,63.01
+1000709,2024-02-27,Beauty,501,Lipstick,East,758413,Cash,1,18.75
+1000710,2023-11-15,Books,402,Science Textbook,North,917548,Credit Card,1,87.05
+1000711,2024-09-03,Clothing,201,T-Shirt,East,511379,Cash,1,21.53
+1000712,2024-09-19,Clothing,201,T-Shirt,South,861827,Debit Card,4,21.87
+1000713,2024-08-31,Home,304,Vacuum,North,753062,Bank Transfer,4,138.90
+1000714,2024-03-28,Electronics,103,Headphones,North,717058,Debit Card,2,155.21
+1000715,2024-06-02,Home,302,Coffee Maker,North,843847,PayPal,3,75.57
+1000716,2024-07-31,Home,302,Coffee Maker,West,841300,Cash,1,74.84
+1000717,2024-06-20,Electronics,103,Headphones,West,761428,Credit Card,1,158.45
+1000718,2024-07-17,Electronics,102,Laptop,South,762839,Credit Card,1,1164.67
+1000719,2023-06-17,Books,401,Fiction Novel,East,962020,Debit Card,3,14.98
+1000720,2023-09-05,Home,304,Vacuum,South,587239,Cash,5,154.68
+1000721,2024-08-03,Clothing,203,Jacket,West,692787,PayPal,4,72.05
+1000722,2024-02-04,Clothing,201,T-Shirt,West,653816,Debit Card,1,19.53
+1000723,2023-03-13,Home,304,Vacuum,South,976697,Cash,2,143.59
+1000724,2024-05-04,Home,304,Vacuum,North,715299,PayPal,1,157.57
+1000725,2024-07-17,Books,403,Cookbook,South,574924,PayPal,1,27.00
+1000726,2023-11-18,Home,304,Vacuum,North,817492,Credit Card,2,156.89
+1000727,2023-02-23,Books,403,Cookbook,West,754198,PayPal,1,24.07
+1000728,2023-05-22,Books,402,Science Textbook,North,919820,PayPal,4,78.21
+1000729,2023-01-20,Books,402,Science Textbook,East,567301,Debit Card,4,79.22
+1000730,2023-12-26,Books,403,Cookbook,West,764392,PayPal,5,23.56
+1000731,2024-08-06,Beauty,501,Lipstick,North,801817,PayPal,5,17.69
+1000732,2023-07-30,Home,304,Vacuum,North,779037,PayPal,3,145.02
+1000733,2024-07-01,,402,Science Textbook,East,755982,Debit Card,1,81.65
+1000734,2024-07-30,Clothing,201,T-Shirt,South,965920,Credit Card,2,19.35
+1000735,2024-02-18,Clothing,202,Jeans,North,659509,PayPal,5,45.49
+1000736,2024-12-12,Books,403,Cookbook,West,681045,Bank Transfer,5,26.31
+1000737,2023-10-08,Beauty,501,Lipstick,West,641039,Cash,4,17.08
+1000738,2024-05-09,Electronics,103,Headphones,West,590463,Credit Card,4,163.71
+1000739,2023-06-14,Home,302,Coffee Maker,West,704870,Credit Card,2,85.63
+1000740,2024-01-09,Electronics,103,Headphones,West,822263,Bank Transfer,1,146.00
+1000741,2024-06-28,Beauty,501,Lipstick,East,991172,Credit Card,4,17.22
+1000742,2024-02-21,Electronics,103,Headphones,North,718753,Credit Card,1,144.26
+1000743,2023-08-30,Electronics,102,Laptop,West,834267,Bank Transfer,5,1179.99
+1000744,2023-05-25,Books,403,Cookbook,South,662989,PayPal,1,26.00
+1000745,2023-03-28,Home,301,Blender,North,559824,Bank Transfer,3,41.55
+1000746,2023-06-25,Clothing,202,Jeans,West,669194,Debit Card,5,47.29
+1000747,2024-03-05,Home,302,Coffee Maker,South,626354,Bank Transfer,1,87.24
+1000748,2023-11-29,Books,401,Fiction Novel,West,898735,Cash,3,14.64
+1000749,2024-05-20,Books,401,Fiction Novel,West,511442,Bank Transfer,3,14.53
+1000750,2024-05-01,Clothing,202,Jeans,West,903644,Bank Transfer,2,48.11
+1000751,2023-06-19,Home,301,Blender,West,810730,Bank Transfer,5,38.02
+1000752,2023-12-08,Electronics,102,Laptop,East,966914,PayPal,5,1106.96
+1000753,2024-06-29,Electronics,101,Smartphone,North,782802,PayPal,2,653.19
+1000754,2024-04-16,Clothing,203,Jacket,South,956930,PayPal,3,73.15
+1000755,2023-10-03,Beauty,501,Lipstick,South,970466,Cash,3,18.15
+1000756,2024-07-02,Clothing,203,Jacket,South,563572,Cash,1,78.29
+1000757,2023-03-05,Home,304,Vacuum,West,717401,Credit Card,2,155.32
+1000758,2024-11-03,Beauty,504,Moisturizer,West,788017,Debit Card,1,26.54
+1000759,2023-03-26,Beauty,503,Perfume,North,551514,Credit Card,5,63.97
+1000760,2024-01-12,Clothing,201,T-Shirt,West,691386,Debit Card,1,21.02
+1000761,2024-12-04,Beauty,503,Perfume,South,856234,PayPal,2,64.09
+1000762,2024-04-03,Home,304,Vacuum,West,877174,Cash,1,147.85
+1000763,2024-12-08,Books,401,Fiction Novel,South,804915,Credit Card,1,15.00
+1000764,2024-11-11,Beauty,501,Lipstick,South,855079,Debit Card,4,17.17
+1000765,2023-01-16,Home,304,Vacuum,East,612534,Cash,1,143.02
+1000766,2024-12-21,Electronics,101,Smartphone,South,926800,PayPal,5,740.76
+1000767,2023-04-30,Electronics,103,Headphones,South,821948,Credit Card,4,142.77
+1000768,2023-03-10,Home,304,Vacuum,East,667376,Cash,5,154.62
+1000769,2024-07-30,Electronics,101,Smartphone,West,657556,Cash,5,648.03
+1000770,2023-05-14,Beauty,503,Perfume,South,696129,Credit Card,1,62.36
+1000771,2024-03-23,Beauty,504,Moisturizer,East,717558,Credit Card,2,25.89
+1000772,2023-12-04,Books,402,Science Textbook,South,852272,Cash,5,72.57
+1000773,2023-07-22,Clothing,202,Jeans,South,546491,Bank Transfer,3,46.71
+1000774,2024-12-27,Home,301,Blender,North,694736,Debit Card,4,39.02
+1000775,2024-12-05,Electronics,101,Smartphone,South,692428,Debit Card,4,704.65
+1000776,2024-02-06,Beauty,504,Moisturizer,North,937285,Credit Card,4,27.44
+1000777,2023-05-19,Beauty,501,Lipstick,East,625541,Credit Card,3,16.87
+1000778,2023-02-19,Home,301,Blender,East,999136,Credit Card,3,39.92
+1000779,2024-02-27,Beauty,501,Lipstick,East,933528,Credit Card,2,16.27
+1000780,2024-10-17,Electronics,101,Smartphone,West,854862,Cash,4,745.58
+1000781,2023-01-14,Books,402,Science Textbook,North,579887,Debit Card,5,86.24
+1000782,2024-12-05,Books,403,Cookbook,West,826547,Debit Card,3,23.22
+1000783,2023-02-15,Clothing,202,Jeans,East,976143,PayPal,2,48.26
+1000784,2023-08-05,Electronics,102,Laptop,West,941023,Cash,4,1275.14
+1000785,2024-10-23,Clothing,203,Jacket,East,630226,Debit Card,3,85.43
+1000786,2024-06-04,Electronics,101,Smartphone,East,798053,Bank Transfer,3,694.30
+1000787,2024-05-13,Electronics,102,Laptop,East,926722,Bank Transfer,1,1082.92
+1000788,2024-03-22,Beauty,501,Lipstick,West,695780,Cash,4,18.95
+1000789,2023-04-21,Clothing,203,Jacket,West,874078,PayPal,4,73.77
+1000790,2023-04-26,Beauty,503,Perfume,North,581700,Debit Card,1,56.10
+1000791,2024-08-01,Electronics,103,Headphones,South,707869,Bank Transfer,1,136.26
+1000792,2024-03-19,Books,403,Cookbook,East,575307,PayPal,2,23.86
+1000793,2023-07-19,Electronics,101,Smartphone,West,973536,Debit Card,3,749.88
+1000794,2024-10-08,Home,304,Vacuum,South,588318,Credit Card,1,146.98
+1000795,2023-03-11,Electronics,101,Smartphone,South,688123,Bank Transfer,5,713.55
+1000796,2023-07-18,Books,403,Cookbook,East,838245,Credit Card,5,25.07
+1000797,2024-07-28,Books,403,Cookbook,South,730865,PayPal,3,26.86
+1000798,2024-07-28,Clothing,201,T-Shirt,East,608830,Credit Card,4,20.18
+1000799,2023-01-31,Electronics,102,Laptop,South,658941,Cash,3,1145.12
+1000800,2023-09-02,Books,403,Cookbook,South,883271,Debit Card,5,26.11
+1000801,2024-06-16,Books,401,Fiction Novel,North,690220,Cash,5,14.15
+1000802,2024-02-18,Home,302,Coffee Maker,East,756196,Cash,5,84.07
+1000803,2023-10-07,Beauty,503,Perfume,West,761230,Credit Card,2,60.01
+1000804,2023-05-30,Beauty,503,Perfume,East,626893,Debit Card,3,62.08
+1000805,2024-12-15,Electronics,103,Headphones,East,513712,Debit Card,3,162.28
+1000806,2023-05-18,Books,403,Cookbook,South,832202,PayPal,3,23.84
+1000807,2024-09-11,Beauty,504,Moisturizer,North,742125,Bank Transfer,3,23.77
+1000808,2024-01-24,Books,403,Cookbook,East,918824,Debit Card,5,23.49
+1000809,2024-06-02,Home,304,Vacuum,South,815227,PayPal,1,155.77
+1000810,2024-11-08,Home,304,Vacuum,West,515783,Credit Card,5,149.35
+1000811,2023-04-27,Beauty,503,Perfume,East,801821,Debit Card,5,64.73
+1000812,2023-02-01,Books,402,Science Textbook,North,984050,Debit Card,4,78.91
+1000813,2023-02-23,Clothing,202,Jeans,East,829973,PayPal,5,54.21
+1000814,2024-12-13,Home,301,Blender,South,670590,Bank Transfer,1,43.59
+1000815,2024-07-19,Clothing,202,Jeans,North,647680,PayPal,2,45.38
+1000816,2024-07-15,Books,401,Fiction Novel,South,541603,Credit Card,3,15.80
+1000817,2023-06-02,Clothing,203,Jacket,South,799241,Cash,3,76.07
+1000818,2024-08-21,Electronics,102,Laptop,South,678601,Cash,1,1218.99
+1000819,2023-08-27,Electronics,101,Smartphone,North,812783,Bank Transfer,4,737.94
+1000820,2024-08-23,Books,402,Science Textbook,West,572155,Cash,4,74.95
+1000821,2023-02-19,Books,401,Fiction Novel,South,614887,Bank Transfer,4,15.76
+1000822,2024-01-19,Home,304,Vacuum,North,573860,Credit Card,3,162.38
+1000823,2023-05-01,Home,301,Blender,West,902101,PayPal,2,38.51
+1000824,2023-06-28,Beauty,503,Perfume,East,879548,Bank Transfer,1,54.95
+1000825,2023-07-03,Electronics,101,Smartphone,East,528032,Bank Transfer,1,677.42
+1000826,2023-04-02,Home,304,Vacuum,West,503849,Debit Card,4,157.76
+1000827,2024-04-18,,101,Smartphone,North,732273,Bank Transfer,3,663.99
+1000828,2023-04-28,Clothing,202,Jeans,West,860503,Debit Card,4,46.78
+1000829,2023-06-15,Home,304,Vacuum,South,695587,Debit Card,4,163.25
+1000830,2023-05-13,Electronics,102,Laptop,South,830851,Cash,1,1287.77
+1000831,2024-08-11,Books,403,Cookbook,South,509659,PayPal,2,26.61
+1000832,2023-01-28,Home,302,Coffee Maker,East,622646,Bank Transfer,2,86.98
+1000833,2023-05-05,Electronics,102,Laptop,West,880984,Debit Card,3,1269.19
+1000834,2024-09-06,Beauty,504,Moisturizer,West,808361,Cash,1,24.01
+1000835,2023-03-06,Clothing,203,Jacket,South,855169,Bank Transfer,2,75.28
+1000836,2024-05-04,Electronics,103,Headphones,North,558605,Bank Transfer,5,150.27
+1000837,2023-01-27,Clothing,203,Jacket,South,717774,Credit Card,4,77.54
+1000838,2024-06-29,Beauty,504,Moisturizer,West,810708,Bank Transfer,2,24.76
+1000839,2024-01-23,Home,301,Blender,North,950002,Debit Card,4,37.37
+1000840,2024-09-05,Clothing,202,Jeans,East,646354,Credit Card,5,46.03
+1000841,2023-06-13,Home,304,Vacuum,East,512472,Credit Card,3,160.38
+1000842,2023-05-20,Books,402,Science Textbook,South,609810,Debit Card,1,76.42
+1000843,2024-04-24,Clothing,203,Jacket,North,951137,Cash,1,75.61
+1000844,2023-12-10,Home,301,Blender,East,784277,Credit Card,2,43.84
+1000845,2024-06-10,Beauty,504,Moisturizer,South,814118,Bank Transfer,1,24.72
+1000846,2024-08-09,Clothing,202,Jeans,South,936085,Cash,2,48.76
+1000847,2024-12-16,Home,302,Coffee Maker,South,767575,Debit Card,1,87.81
+1000848,2023-05-13,Beauty,503,Perfume,South,941797,Debit Card,5,64.31
+1000849,2023-11-21,Electronics,101,Smartphone,East,866786,Bank Transfer,1,661.47
+1000850,2023-06-08,Electronics,102,Laptop,North,550338,PayPal,2,1119.14
+1000851,2023-09-05,Home,301,Blender,West,774819,Credit Card,4,39.86
+1000852,2023-03-29,Books,401,Fiction Novel,South,705237,PayPal,1,15.76
+1000853,2024-06-15,Books,401,Fiction Novel,North,860770,Cash,4,14.23
+1000854,2023-08-05,Books,403,Cookbook,North,967042,PayPal,4,23.18
+1000855,2023-08-24,Electronics,103,Headphones,East,701046,Bank Transfer,1,154.82
+1000856,2023-05-27,Books,403,Cookbook,North,567339,Credit Card,5,27.13
+1000857,2023-08-02,Clothing,201,T-Shirt,East,836302,Cash,3,20.51
+1000858,2023-08-02,Books,403,Cookbook,West,871955,Bank Transfer,2,22.93
+1000859,2024-08-20,Home,302,Coffee Maker,North,601483,Debit Card,4,72.88
+1000860,2024-06-19,Electronics,103,Headphones,North,843418,Credit Card,4,157.95
+1000861,2023-01-14,Books,401,Fiction Novel,South,653387,Cash,5,14.28
+1000862,2023-05-18,Electronics,103,Headphones,North,767090,Bank Transfer,2,138.88
+1000863,2024-11-08,Clothing,203,Jacket,East,727953,Bank Transfer,5,77.78
+1000864,2023-08-10,Electronics,102,Laptop,West,653867,Credit Card,2,1241.53
+1000865,2024-10-04,Home,302,Coffee Maker,South,570747,PayPal,5,72.51
+1000866,2023-08-21,Home,301,Blender,East,690258,Cash,3,43.81
+1000867,2023-05-05,Electronics,103,Headphones,North,684662,Credit Card,2,159.68
+1000868,2023-11-05,Beauty,501,Lipstick,South,662074,Cash,1,17.53
+1000869,2024-11-23,Home,304,Vacuum,West,594950,Credit Card,5,161.15
+1000870,2023-06-04,Electronics,103,Headphones,West,588859,Credit Card,3,150.22
+1000871,2023-02-12,Beauty,501,Lipstick,South,781740,Cash,2,17.16
+1000872,2023-05-26,Beauty,504,Moisturizer,North,581533,Bank Transfer,3,22.77
+1000873,2024-11-19,Beauty,503,Perfume,North,838443,Cash,2,60.32
+1000874,2024-05-05,,102,Laptop,North,778083,Bank Transfer,1,1186.83
+1000875,2024-03-29,Clothing,202,Jeans,East,625009,Cash,1,52.59
+1000876,2023-09-08,Clothing,203,Jacket,East,810395,Debit Card,1,78.71
+1000877,2024-06-03,Home,301,Blender,East,580952,Cash,5,36.62
+1000878,2023-08-03,Beauty,504,Moisturizer,South,711666,PayPal,2,26.85
+1000879,2023-05-23,Home,301,Blender,South,613992,Bank Transfer,1,41.22
+1000880,2024-12-23,Clothing,203,Jacket,South,891214,PayPal,3,80.76
+1000881,2023-01-11,Electronics,103,Headphones,West,982382,Credit Card,1,149.34
+1000882,2023-02-23,Home,304,Vacuum,West,560175,Credit Card,5,158.15
+1000883,2023-07-15,Clothing,203,Jacket,North,688772,Cash,5,86.10
+1000884,2023-04-18,Books,403,Cookbook,East,825644,PayPal,2,25.40
+1000885,2024-12-01,Electronics,101,Smartphone,North,767523,Cash,1,641.37
+1000886,2023-12-26,Clothing,202,Jeans,West,853363,Cash,5,50.60
+1000887,2024-11-07,Clothing,201,T-Shirt,South,556851,Cash,3,19.70
+1000888,2024-09-21,Books,401,Fiction Novel,North,684412,Debit Card,3,16.34
+1000889,2023-12-01,Electronics,101,Smartphone,South,772606,PayPal,4,669.17
+1000890,2024-03-11,Books,401,Fiction Novel,South,905868,Credit Card,4,14.15
+1000891,2023-06-27,Electronics,102,Laptop,East,539592,Debit Card,4,
+1000892,2024-11-30,Beauty,504,Moisturizer,North,585699,Debit Card,3,24.46
+1000893,2024-11-29,Electronics,102,Laptop,North,519578,Credit Card,1,1107.23
+1000894,2024-07-27,Beauty,504,Moisturizer,North,609893,PayPal,5,
+1000895,2024-03-19,Home,302,Coffee Maker,North,569827,Debit Card,3,78.03
+1000896,2023-09-24,Beauty,504,Moisturizer,South,930643,Cash,4,23.53
+1000897,2024-11-21,Electronics,102,Laptop,East,914772,Bank Transfer,1,1281.11
+1000898,2024-10-07,Electronics,101,Smartphone,North,907977,PayPal,2,649.04
+1000899,2023-08-07,Books,402,Science Textbook,South,915194,Cash,5,74.29
+1000900,2024-01-26,Home,304,Vacuum,South,863428,Debit Card,4,159.86
+1000901,2023-12-16,Home,304,Vacuum,,754089,Credit Card,1,142.58
+1000902,2024-08-07,Electronics,103,Headphones,West,856308,Bank Transfer,2,164.01
+1000903,2024-06-29,Electronics,102,Laptop,South,592354,PayPal,2,1284.47
+1000904,2024-06-24,Electronics,103,Headphones,,855403,Cash,2,135.64
+1000905,2023-05-29,Books,403,Cookbook,West,561594,Credit Card,4,25.38
+1000906,2024-11-01,Books,403,Cookbook,East,807773,Bank Transfer,5,26.02
+1000907,2023-03-04,Books,401,Fiction Novel,East,813791,PayPal,3,14.53
+1000908,2023-10-21,Home,304,Vacuum,West,730857,PayPal,3,142.99
+1000909,2023-02-23,Clothing,201,T-Shirt,West,993459,Cash,1,18.12
+1000910,2024-11-03,,503,Perfume,South,770778,Bank Transfer,3,58.76
+1000911,2023-07-02,Books,401,Fiction Novel,East,720299,Bank Transfer,5,14.77
+1000912,2023-06-09,Books,401,Fiction Novel,East,686878,Bank Transfer,5,14.00
+1000913,2024-05-31,Home,301,Blender,West,710431,PayPal,1,39.35
+1000914,2024-08-13,Books,402,Science Textbook,South,684167,Debit Card,1,74.78
+1000915,2024-05-19,Books,403,Cookbook,South,868198,Bank Transfer,2,
+1000916,2023-07-04,Clothing,201,T-Shirt,South,986460,Debit Card,2,19.47
+1000917,2024-08-09,Books,402,Science Textbook,North,811894,Cash,5,80.77
+1000918,2024-02-20,Home,302,Coffee Maker,South,987204,Bank Transfer,2,80.83
+1000919,2024-06-21,Books,401,Fiction Novel,East,709755,Bank Transfer,2,14.88
+1000920,2023-11-15,Clothing,202,Jeans,West,926311,PayPal,4,46.60
+1000921,2023-11-03,Beauty,503,Perfume,South,639649,Debit Card,4,60.25
+1000922,2023-12-19,Books,403,Cookbook,East,658358,Bank Transfer,3,22.93
+1000923,2024-02-05,Home,301,Blender,South,542543,Cash,1,40.20
+1000924,2023-05-30,Beauty,501,Lipstick,South,753049,Debit Card,1,16.57
+1000925,2023-01-21,Beauty,501,Lipstick,West,701643,Bank Transfer,4,16.72
+1000926,2024-03-12,Beauty,501,Lipstick,West,778988,Bank Transfer,4,17.23
+1000927,2023-01-06,Beauty,504,Moisturizer,East,910484,Debit Card,5,25.91
+1000928,2024-05-19,Clothing,202,Jeans,West,778091,PayPal,4,46.78
+1000929,2024-01-31,Books,402,Science Textbook,South,945022,Credit Card,1,74.59
+1000930,2023-04-23,Books,403,Cookbook,East,749803,Cash,3,25.12
+1000931,2023-09-08,Beauty,501,Lipstick,South,957595,Debit Card,1,16.34
+1000932,2024-10-10,Books,401,Fiction Novel,West,962880,Credit Card,2,15.63
+1000933,2023-10-15,Electronics,102,Laptop,South,765890,Debit Card,1,1188.50
+1000934,2024-12-02,Electronics,103,Headphones,West,510303,Debit Card,5,154.31
+1000935,2023-12-21,Electronics,103,Headphones,West,881540,Bank Transfer,2,143.41
+1000936,2024-09-11,Books,402,Science Textbook,West,828315,Bank Transfer,3,81.20
+1000937,2024-11-18,Books,402,Science Textbook,West,615744,PayPal,5,87.95
+1000938,2024-04-22,Electronics,101,Smartphone,East,533508,PayPal,1,745.98
+1000939,2024-09-24,Clothing,201,T-Shirt,West,503936,Bank Transfer,5,21.82
+1000940,2023-08-05,Home,301,Blender,East,675200,PayPal,1,36.33
+1000941,2024-11-24,Beauty,504,Moisturizer,West,812336,Bank Transfer,5,23.53
+1000942,2023-04-09,Home,302,Coffee Maker,West,630792,Debit Card,2,74.76
+1000943,2023-09-23,Electronics,102,Laptop,West,532863,PayPal,1,1254.26
+1000944,2023-08-27,Beauty,504,Moisturizer,West,571448,Cash,5,27.00
+1000945,2024-12-09,Clothing,202,Jeans,South,923915,Debit Card,5,52.47
+1000946,2024-09-08,Beauty,501,Lipstick,East,931106,Cash,5,19.36
+1000947,2024-06-17,Home,301,Blender,East,932762,Credit Card,1,36.96
+1000948,2024-05-10,Electronics,102,Laptop,North,714577,Cash,2,1262.97
+1000949,2023-08-21,Clothing,203,Jacket,South,718744,Cash,4,75.44
+1000950,2023-12-10,Home,302,Coffee Maker,East,507869,Debit Card,2,74.16
+1000951,2024-09-19,Clothing,202,Jeans,South,945028,Debit Card,1,46.08
+1000952,2024-03-29,Clothing,203,Jacket,West,859379,Bank Transfer,4,
+1000953,2024-10-25,Beauty,503,Perfume,South,628515,Credit Card,2,59.71
+1000954,2023-09-09,Home,304,Vacuum,North,559569,Cash,2,163.35
+1000955,2023-05-19,Beauty,501,Lipstick,East,771733,Credit Card,5,18.50
+1000956,2023-08-26,Home,302,Coffee Maker,South,842506,Cash,2,77.70
+1000957,2024-01-17,Home,304,Vacuum,North,586131,Credit Card,3,151.80
+1000958,2024-04-12,Clothing,201,T-Shirt,East,803699,Bank Transfer,2,21.16
+1000959,2024-03-12,Beauty,501,Lipstick,South,981229,Cash,2,16.63
+1000960,2023-04-15,Home,304,Vacuum,East,694042,PayPal,5,145.95
+1000961,2024-05-18,Clothing,203,Jacket,East,666248,PayPal,3,75.50
+1000962,2023-02-25,Home,302,Coffee Maker,North,733774,Credit Card,2,78.79
+1000963,2024-02-18,Electronics,102,Laptop,West,918104,Debit Card,4,1309.55
+1000964,2023-08-26,Electronics,101,Smartphone,North,805593,Cash,3,724.67
+1000965,2024-07-14,Books,401,Fiction Novel,North,680100,Cash,2,14.82
+1000966,2023-12-30,Beauty,504,Moisturizer,North,508034,Bank Transfer,3,22.96
+1000967,2024-04-18,Electronics,103,Headphones,East,506837,Cash,3,159.98
+1000968,2023-05-22,Beauty,503,Perfume,West,809273,PayPal,2,57.46
+1000969,2023-10-09,Electronics,101,Smartphone,South,652361,Bank Transfer,3,649.90
+1000970,2023-06-24,Books,403,Cookbook,East,809244,Debit Card,1,26.64
+1000971,2023-01-25,Beauty,504,Moisturizer,North,896499,Debit Card,3,26.89
+1000972,2024-10-08,,103,Headphones,South,857739,Bank Transfer,1,159.89
+1000973,2023-01-12,Clothing,203,Jacket,East,516125,Credit Card,4,79.73
+1000974,2024-06-17,Home,302,Coffee Maker,South,894672,Debit Card,4,73.82
+1000975,2024-10-06,Electronics,103,Headphones,West,904014,Bank Transfer,5,135.96
+1000976,2023-05-26,,402,Science Textbook,North,628297,Credit Card,5,74.66
+1000977,2023-10-07,Electronics,102,Laptop,North,756243,Credit Card,5,1274.48
+1000978,2023-10-22,Beauty,501,Lipstick,West,911443,Debit Card,4,18.87
+1000979,2023-09-06,Clothing,201,T-Shirt,West,647464,Bank Transfer,3,19.72
+1000980,2023-11-09,Electronics,103,Headphones,East,560240,PayPal,4,153.02
+1000981,2023-11-27,Electronics,102,Laptop,East,560286,Debit Card,2,1216.26
+1000982,2023-08-29,Beauty,504,Moisturizer,South,894786,Debit Card,3,25.16
+1000983,2023-03-15,Electronics,101,Smartphone,East,554335,Credit Card,3,765.51
+1000984,2024-11-19,Beauty,503,Perfume,North,853135,Bank Transfer,4,55.76
+1000985,2024-09-26,Home,301,Blender,South,740528,Cash,3,36.62
+1000986,2023-05-31,Clothing,202,Jeans,South,879844,Debit Card,3,46.74
+1000987,2023-09-03,Beauty,501,Lipstick,East,595166,Cash,4,17.19
+1000988,2023-01-24,Beauty,503,Perfume,East,600705,Credit Card,2,61.15
+1000989,2024-08-11,Beauty,501,Lipstick,South,773551,Debit Card,4,18.56
+1000990,2023-08-25,Clothing,202,Jeans,West,737360,Bank Transfer,5,51.76
+1000991,2023-03-27,Clothing,201,T-Shirt,East,597933,Cash,2,19.84
+1000992,2024-07-06,Electronics,103,Headphones,North,767175,PayPal,3,151.69
+1000993,2023-01-26,Beauty,501,Lipstick,East,908434,PayPal,4,19.25
+1000994,2024-06-16,Electronics,102,Laptop,North,912907,Cash,4,1112.47
+1000995,2023-12-30,Books,402,Science Textbook,West,631932,PayPal,3,85.12
+1000996,2024-10-17,Beauty,504,Moisturizer,East,755156,Credit Card,4,22.80
+1000997,2023-08-02,Beauty,504,Moisturizer,North,646130,Debit Card,3,25.06
+1000998,2023-04-15,Clothing,203,Jacket,North,713866,PayPal,4,87.85
+1000999,2023-04-28,Books,401,Fiction Novel,North,682420,PayPal,2,14.18
+1001000,2023-01-01,Beauty,501,Lipstick,North,533512,Cash,3,17.77
+1001001,2024-03-20,Beauty,501,Lipstick,South,564026,Cash,3,16.45
+1001002,2024-01-04,Clothing,202,Jeans,East,587888,Cash,1,52.70
+1001003,2024-12-03,Electronics,103,Headphones,East,571245,PayPal,2,153.20
+1001004,2024-02-17,Books,401,Fiction Novel,North,667887,Cash,5,15.60
+1001005,2024-08-04,Beauty,504,Moisturizer,South,561694,Cash,2,27.18
+1001006,2024-11-18,Home,301,Blender,West,534966,Bank Transfer,5,39.92
+1001007,2024-10-05,Books,403,Cookbook,North,898241,PayPal,4,25.75
+1001008,2024-08-31,Books,403,Cookbook,West,565568,PayPal,1,27.11
+1001009,2024-05-02,Home,302,Coffee Maker,South,625673,Credit Card,3,81.99
+1001010,2023-03-17,Beauty,501,Lipstick,West,897363,Bank Transfer,1,16.34
+1001011,2023-01-25,Beauty,501,Lipstick,West,534867,PayPal,2,16.69
+1001012,2023-04-09,Beauty,503,Perfume,West,941384,Cash,2,60.61
+1001013,2024-12-27,Beauty,503,Perfume,West,623223,PayPal,5,65.48
+1001014,2023-05-23,Books,402,Science Textbook,South,957095,Bank Transfer,2,80.18
+1001015,2024-07-22,Beauty,504,Moisturizer,North,644931,Cash,4,25.74
+1001016,2024-06-13,Beauty,503,Perfume,West,838086,Debit Card,2,55.08
+1001017,2023-10-19,Beauty,504,Moisturizer,West,624192,Bank Transfer,3,25.72
+1001018,2024-11-04,Clothing,203,Jacket,East,678936,Bank Transfer,4,82.48
+1001019,2024-02-28,Beauty,501,Lipstick,North,792411,Bank Transfer,4,17.32
+1001020,2023-11-14,Electronics,103,Headphones,South,588261,PayPal,5,145.05
+1001021,2024-04-01,Electronics,103,Headphones,East,619828,Cash,5,137.34
+1001022,2023-09-12,Books,402,Science Textbook,East,823747,Cash,1,84.03
+1001023,2023-05-04,Home,302,Coffee Maker,East,770536,PayPal,4,72.59
+1001024,2023-07-16,Books,402,Science Textbook,North,992118,Credit Card,2,77.24
+1001025,2024-03-03,Electronics,101,Smartphone,North,692312,Bank Transfer,3,643.94
+1001026,2024-05-30,Clothing,203,Jacket,East,994259,PayPal,1,75.86
+1001027,2023-07-01,Home,301,Blender,South,520520,Bank Transfer,5,39.53
+1001028,2024-02-11,Electronics,103,Headphones,North,816218,Cash,5,143.86
+1001029,2024-05-10,Electronics,102,Laptop,South,672253,Credit Card,2,1233.49
+1001030,2024-07-30,Electronics,102,Laptop,East,769436,Cash,4,1159.82
+1001031,2024-05-02,Electronics,102,Laptop,North,582479,Bank Transfer,5,1219.30
+1001032,2024-12-03,Beauty,504,Moisturizer,West,544626,Bank Transfer,5,26.18
+1001033,2024-11-05,Clothing,201,T-Shirt,South,767484,Credit Card,1,21.94
+1001034,2023-08-12,Books,401,Fiction Novel,East,987506,Bank Transfer,1,16.47
+1001035,2023-03-27,Home,301,Blender,South,928712,Cash,4,36.92
+1001036,2023-08-18,Home,301,Blender,East,866414,Credit Card,5,38.15
+1001037,2023-08-28,Home,304,Vacuum,North,549786,Bank Transfer,2,139.85
+1001038,2023-12-12,Beauty,504,Moisturizer,West,568519,Bank Transfer,3,25.90
+1001039,2024-04-26,Home,301,Blender,East,830076,Credit Card,2,41.57
+1001040,2024-10-23,Clothing,201,T-Shirt,South,799500,Credit Card,4,20.78
+1001041,2024-11-03,Clothing,203,Jacket,North,762647,Credit Card,4,80.33
+1001042,2024-03-15,Electronics,101,Smartphone,West,696573,Credit Card,1,647.88
+1001043,2023-09-17,Beauty,501,Lipstick,North,812403,Bank Transfer,5,19.19
+1001044,2023-08-05,Books,402,Science Textbook,East,910213,PayPal,2,84.90
+1001045,2023-05-14,Clothing,203,Jacket,North,759313,Bank Transfer,2,74.94
+1001046,2024-12-14,Home,302,Coffee Maker,South,888694,PayPal,1,81.92
+1001047,2023-01-19,Beauty,504,Moisturizer,East,598794,Debit Card,,23.83
+1001048,2023-12-11,Electronics,102,Laptop,North,953203,Cash,4,1150.86
+1001049,2023-04-16,Electronics,101,Smartphone,South,994275,Bank Transfer,2,651.57
+1001050,2023-08-16,Books,402,Science Textbook,East,662510,Credit Card,5,76.15
+1001051,2023-03-03,Books,402,Science Textbook,West,633530,Cash,4,85.92
+1001052,2023-02-27,Home,304,Vacuum,South,503152,Debit Card,3,156.20
+1001053,2024-07-15,Books,401,Fiction Novel,South,858289,Credit Card,5,15.79
+1001054,2024-10-04,Home,302,Coffee Maker,West,907936,Cash,2,73.73
+1001055,2024-05-15,Books,403,Cookbook,East,651867,Credit Card,2,25.51
+1001056,2024-04-04,Electronics,103,Headphones,West,897978,Cash,1,136.18
+1001057,2023-08-13,Home,301,Blender,West,549558,Cash,4,38.36
+1001058,2023-11-09,Books,403,Cookbook,North,727525,Credit Card,2,26.23
+1001059,2023-12-08,Clothing,203,Jacket,East,812227,Credit Card,2,75.63
+1001060,2024-05-25,Electronics,103,Headphones,West,677441,Bank Transfer,5,160.84
+1001061,2023-09-29,Clothing,201,T-Shirt,East,602887,PayPal,5,20.57
+1001062,2023-08-12,Electronics,103,Headphones,South,853264,PayPal,2,140.02
+1001063,2023-06-03,Beauty,504,Moisturizer,South,992382,Cash,2,27.33
+1001064,2024-02-10,Electronics,103,Headphones,West,777287,Credit Card,2,152.66
+1001065,2023-12-08,Electronics,102,Laptop,West,503543,PayPal,1,1209.18
+1001066,2024-12-10,Electronics,103,Headphones,South,646103,Bank Transfer,2,147.20
+1001067,2023-03-21,Electronics,101,Smartphone,East,952595,Cash,2,725.02
+1001068,2024-07-03,Home,301,Blender,East,814427,PayPal,3,37.82
+1001069,2024-07-06,Books,401,Fiction Novel,South,691710,Bank Transfer,2,14.33
+1001070,2024-04-13,Clothing,201,T-Shirt,South,760550,Credit Card,2,20.56
+1001071,2024-01-12,Electronics,103,Headphones,East,601922,Cash,4,162.83
+1001072,2023-12-26,Clothing,201,T-Shirt,West,563423,PayPal,4,20.33
+1001073,2024-07-20,Books,401,Fiction Novel,South,727190,Debit Card,3,16.31
+1001074,2023-05-30,Electronics,101,Smartphone,West,656612,PayPal,3,644.09
+1001075,2024-04-06,Beauty,503,Perfume,South,632255,Debit Card,5,65.20
+1001076,2023-01-03,Home,301,Blender,South,756075,Cash,5,36.97
+1001077,2023-02-24,Beauty,501,Lipstick,North,649061,Cash,4,17.57
+1001078,2024-03-05,Home,302,Coffee Maker,East,672205,Cash,2,75.86
+1001079,2024-11-25,Beauty,504,Moisturizer,South,633553,Cash,1,25.20
+1001080,2023-02-01,Home,304,Vacuum,West,505214,Cash,3,135.66
+1001081,2024-12-06,Electronics,103,Headphones,South,849046,PayPal,5,143.83
+1001082,2024-03-08,Clothing,201,T-Shirt,West,613638,Cash,5,18.80
+1001083,2023-06-02,Beauty,504,Moisturizer,East,889627,PayPal,2,22.51
+1001084,2023-02-27,Books,401,Fiction Novel,North,859276,Debit Card,5,14.16
+1001085,2024-07-15,Beauty,501,Lipstick,South,965044,PayPal,3,18.84
+1001086,2023-05-04,Books,402,Science Textbook,North,702108,Debit Card,1,87.35
+1001087,2024-04-09,Home,302,Coffee Maker,East,922255,Debit Card,1,82.55
+1001088,2023-08-18,Electronics,101,Smartphone,East,646551,PayPal,4,688.24
+1001089,2024-06-01,Clothing,201,T-Shirt,North,598353,Debit Card,3,19.50
+1001090,2023-09-06,Beauty,503,Perfume,East,629094,Cash,4,55.36
+1001091,2023-05-02,Electronics,101,Smartphone,North,512724,Bank Transfer,3,630.89
+1001092,2023-04-14,Clothing,203,Jacket,East,719575,Cash,2,87.24
+1001093,2023-09-20,Clothing,203,Jacket,South,566634,Debit Card,1,85.70
+1001094,2023-07-02,Books,401,Fiction Novel,South,994161,Bank Transfer,4,14.42
+1001095,2023-11-02,Beauty,503,Perfume,South,869953,Debit Card,4,64.45
+1001096,2023-03-05,Electronics,103,Headphones,East,950722,Debit Card,3,162.69
+1001097,2024-11-20,Beauty,503,Perfume,North,967270,PayPal,2,58.61
+1001098,2024-01-25,Beauty,504,Moisturizer,East,800452,Credit Card,3,26.77
+1001099,2024-12-04,Beauty,501,Lipstick,South,909537,Bank Transfer,3,19.51
+1001100,2023-04-29,Books,403,Cookbook,North,565954,Bank Transfer,1,26.38
+1001101,2023-12-08,Books,401,Fiction Novel,West,569515,Debit Card,5,16.48
+1001102,2024-07-18,Beauty,504,Moisturizer,East,631945,Cash,3,26.13
+1001103,2023-08-31,Beauty,501,Lipstick,West,553359,Cash,3,16.20
+1001104,2023-05-08,Electronics,102,Laptop,South,687214,PayPal,4,1149.16
+1001105,2023-09-18,Clothing,203,Jacket,South,601626,Cash,4,86.20
+1001106,2023-09-15,Home,304,Vacuum,North,726219,PayPal,3,143.81
+1001107,2024-10-27,Electronics,103,Headphones,West,825135,PayPal,3,161.68
+1001108,2024-09-04,Clothing,203,Jacket,West,848433,Debit Card,5,74.51
+1001109,2024-04-19,Books,401,Fiction Novel,East,794730,Credit Card,5,14.05
+1001110,2024-12-11,Electronics,103,Headphones,South,501706,Credit Card,3,148.87
+1001111,2023-12-05,Clothing,203,Jacket,North,783272,Cash,1,85.76
+1001112,2023-02-16,Home,302,Coffee Maker,South,700076,Credit Card,2,87.66
+1001113,2023-06-28,Beauty,504,Moisturizer,North,955751,Debit Card,4,27.41
+1001114,2024-04-26,Electronics,102,Laptop,East,895257,Credit Card,4,1308.04
+1001115,2023-08-30,Clothing,201,T-Shirt,West,993523,Debit Card,1,19.26
+1001116,2024-12-14,Books,403,Cookbook,South,837592,Bank Transfer,5,26.02
+1001117,2023-04-08,Beauty,503,Perfume,North,830237,Debit Card,1,56.17
+1001118,2023-10-22,Beauty,501,Lipstick,West,519302,Bank Transfer,3,19.78
+1001119,2023-07-20,Beauty,501,Lipstick,South,795180,Cash,2,16.77
+1001120,2023-11-30,Home,304,Vacuum,North,530125,Credit Card,5,144.60
+1001121,2023-01-01,Beauty,504,Moisturizer,North,595623,PayPal,1,22.55
+1001122,2024-06-30,Clothing,202,Jeans,East,854386,PayPal,3,49.31
+1001123,2024-04-15,Clothing,201,T-Shirt,East,660168,Credit Card,3,19.02
+1001124,2024-12-28,Clothing,202,Jeans,South,695135,Debit Card,3,48.33
+1001125,2023-09-16,Clothing,201,T-Shirt,South,867051,Bank Transfer,5,21.63
+1001126,2023-09-18,Electronics,102,Laptop,East,643202,Credit Card,1,1195.61
+1001127,2023-12-14,Electronics,102,Laptop,South,656116,Debit Card,4,1221.86
+1001128,2024-02-22,Home,301,Blender,North,715695,Cash,4,43.72
+1001129,2023-04-22,Beauty,501,Lipstick,East,714484,Debit Card,5,19.27
+1001130,2023-03-17,Books,401,Fiction Novel,West,932463,Debit Card,5,15.63
+1001131,2024-12-30,Beauty,504,Moisturizer,West,986609,Credit Card,1,26.60
+1001132,2023-03-30,Home,304,Vacuum,West,503042,Credit Card,5,141.28
+1001133,2024-11-02,Books,403,Cookbook,South,596969,Credit Card,5,25.14
+1001134,2023-05-05,Beauty,504,Moisturizer,South,694821,Debit Card,4,23.99
+1001135,2023-09-11,Beauty,501,Lipstick,South,698395,Bank Transfer,4,18.97
+1001136,2024-04-19,Beauty,503,Perfume,East,685959,Bank Transfer,2,56.92
+1001137,2024-04-13,Home,304,Vacuum,East,973652,Debit Card,3,138.83
+1001138,2023-05-26,Electronics,102,Laptop,South,601588,Bank Transfer,2,1226.10
+1001139,2023-07-29,Home,301,Blender,East,570552,Credit Card,2,38.65
+1001140,2024-01-05,Electronics,102,Laptop,South,954170,PayPal,4,1265.25
+1001141,2024-05-27,Clothing,202,Jeans,South,570677,Cash,3,53.92
+1001142,2023-11-19,Home,301,Blender,West,745496,Debit Card,3,41.78
+1001143,2023-09-28,Electronics,101,Smartphone,South,895332,Bank Transfer,2,745.73
+1001144,2024-09-08,Beauty,504,Moisturizer,South,711559,Credit Card,1,23.29
+1001145,2024-09-24,Clothing,203,Jacket,West,893394,Cash,5,87.65
+1001146,2023-11-05,Home,302,Coffee Maker,East,573945,Cash,3,82.19
+1001147,2023-09-30,Beauty,503,Perfume,North,566181,Cash,2,56.25
+1001148,2023-12-21,Beauty,504,Moisturizer,West,695261,PayPal,3,23.72
+1001149,2024-04-02,Home,302,Coffee Maker,East,767394,Debit Card,4,82.71
+1001150,2024-12-07,Books,403,Cookbook,East,573602,Bank Transfer,1,24.14
+1001151,2023-07-24,Electronics,102,Laptop,North,731436,Debit Card,4,1154.46
+1001152,2024-01-04,Clothing,201,T-Shirt,South,570738,Cash,4,19.60
+1001153,2023-05-09,Beauty,503,Perfume,East,839725,Bank Transfer,1,61.64
+1001154,2023-03-20,Electronics,103,Headphones,South,556534,Bank Transfer,2,146.45
+1001155,2023-07-13,Beauty,501,Lipstick,South,536363,Cash,,18.96
+1001156,2024-08-20,Home,304,Vacuum,North,584808,Cash,5,158.37
+1001157,2023-04-25,Home,304,Vacuum,East,659051,Bank Transfer,5,139.33
+1001158,2023-10-11,Electronics,101,Smartphone,North,590417,PayPal,4,710.45
+1001159,2023-02-08,Beauty,501,Lipstick,East,818200,PayPal,4,18.24
+1001160,2023-01-26,Home,304,Vacuum,East,554405,Cash,2,144.81
+1001161,2024-01-03,Home,304,Vacuum,South,611380,Credit Card,5,135.25
+1001162,2023-05-02,Clothing,202,Jeans,South,854247,PayPal,2,49.10
+1001163,2023-01-25,Beauty,501,Lipstick,North,913189,Credit Card,5,17.05
+1001164,2024-07-18,Electronics,101,Smartphone,South,645371,PayPal,5,748.22
+1001165,2024-05-14,Home,301,Blender,North,970709,Debit Card,1,39.55
+1001166,2023-11-28,Beauty,503,Perfume,North,826107,Bank Transfer,1,61.98
+1001167,2024-09-26,Books,403,Cookbook,North,548489,Debit Card,5,27.00
+1001168,2024-08-22,Home,304,Vacuum,South,502689,PayPal,1,142.09
+1001169,2024-12-02,Books,403,Cookbook,South,553649,PayPal,2,27.19
+1001170,2023-09-06,Beauty,501,Lipstick,North,882328,PayPal,3,16.83
+1001171,2023-10-23,Clothing,202,Jeans,South,679957,Cash,1,53.48
+1001172,2024-09-22,Home,302,Coffee Maker,West,981640,Debit Card,4,81.70
+1001173,2023-04-08,Electronics,101,Smartphone,East,907535,Cash,4,700.23
+1001174,2024-02-04,Beauty,503,Perfume,South,545379,Cash,4,56.76
+1001175,2023-02-06,Home,304,Vacuum,West,841799,Debit Card,5,141.54
+1001176,2023-02-26,Electronics,102,Laptop,North,812925,Cash,1,1319.45
+1001177,2023-01-02,Home,302,Coffee Maker,South,674613,Debit Card,2,79.94
+1001178,2024-02-01,Home,304,Vacuum,North,536213,Cash,2,157.69
+1001179,2023-10-07,Clothing,202,Jeans,North,848813,Credit Card,2,49.72
+1001180,2023-02-09,Books,401,Fiction Novel,North,782230,Credit Card,5,15.68
+1001181,2024-09-21,Beauty,501,Lipstick,North,600048,Cash,5,17.40
+1001182,2024-09-16,Beauty,501,Lipstick,South,643151,Debit Card,3,17.93
+1001183,2023-08-03,Clothing,203,Jacket,South,894119,Debit Card,1,78.99
+1001184,2024-11-19,Beauty,503,Perfume,South,999918,Bank Transfer,1,54.21
+1001185,2023-12-18,Electronics,101,Smartphone,North,678174,Cash,2,675.26
+1001186,2023-06-17,Beauty,503,Perfume,North,938002,PayPal,1,62.99
+1001187,2024-04-04,Clothing,203,Jacket,South,657388,Debit Card,4,77.31
+1001188,2023-03-18,Clothing,201,T-Shirt,North,653747,Credit Card,4,18.97
+1001189,2023-02-28,Home,304,Vacuum,West,816542,PayPal,5,140.86
+1001190,2023-02-19,Beauty,504,Moisturizer,North,588227,Cash,4,24.83
+1001191,2023-10-15,Home,301,Blender,West,863116,PayPal,3,37.53
+1001192,2024-03-09,Books,403,Cookbook,South,908537,Debit Card,4,24.44
+1001193,2023-01-14,Home,304,Vacuum,East,660120,Cash,2,144.20
+1001194,2023-07-04,Home,302,Coffee Maker,North,537234,Bank Transfer,4,83.05
+1001195,2023-08-13,Home,302,Coffee Maker,West,673864,Bank Transfer,3,83.48
+1001196,2024-02-01,Home,304,Vacuum,West,726271,Debit Card,3,136.78
+1001197,2023-01-02,Clothing,203,Jacket,East,648363,Debit Card,1,72.31
+1001198,2023-02-20,Home,304,Vacuum,East,846647,Credit Card,2,154.33
+1001199,2023-03-24,Beauty,504,Moisturizer,West,559028,Credit Card,3,25.64
+1001200,2023-03-14,Beauty,504,Moisturizer,East,528549,Credit Card,3,23.37
+1001201,2024-08-02,Electronics,101,Smartphone,West,961766,Debit Card,1,645.70
+1001202,2024-05-16,Clothing,201,T-Shirt,South,644158,Cash,2,19.77
+1001203,2024-07-21,Home,301,Blender,West,888221,Credit Card,2,39.19
+1001204,2024-12-22,Electronics,102,Laptop,South,710136,Cash,1,1250.79
+1001205,2024-08-01,Clothing,201,T-Shirt,North,928403,Credit Card,4,18.52
+1001206,2024-10-15,Home,301,Blender,West,937226,Bank Transfer,2,39.69
+1001207,2023-12-19,Beauty,503,Perfume,South,583237,PayPal,4,58.60
+1001208,2024-03-30,Books,402,Science Textbook,East,812550,Bank Transfer,1,73.14
+1001209,2023-07-25,Electronics,101,Smartphone,West,583137,PayPal,4,745.14
+1001210,2023-06-09,Home,301,Blender,West,516648,Cash,2,37.26
+1001211,2023-09-04,Electronics,103,Headphones,North,671749,PayPal,1,155.03
+1001212,2023-11-05,Beauty,504,Moisturizer,East,928781,Credit Card,3,25.68
+1001213,2023-08-23,Books,401,Fiction Novel,East,919994,Cash,5,14.51
+1001214,2023-03-28,Home,301,Blender,South,823212,Cash,1,40.65
+1001215,2023-07-08,Home,304,Vacuum,South,528038,Debit Card,3,161.02
+1001216,2023-01-11,Books,402,Science Textbook,North,590207,PayPal,1,77.06
+1001217,2024-09-03,Clothing,203,Jacket,South,633326,Bank Transfer,3,76.62
+1001218,2023-10-06,Home,301,Blender,West,591047,PayPal,5,43.51
+1001219,2023-05-28,Electronics,101,Smartphone,North,939364,Credit Card,1,666.94
+1001220,2024-03-05,Books,401,Fiction Novel,North,699963,Cash,1,15.89
+1001221,2023-10-31,Clothing,202,Jeans,East,779604,Bank Transfer,4,52.28
+1001222,2023-05-01,Books,403,Cookbook,West,581402,PayPal,1,27.07
+1001223,2023-06-06,Beauty,501,Lipstick,East,560419,Bank Transfer,3,18.12
+1001224,2024-07-29,Electronics,101,Smartphone,West,972495,Bank Transfer,4,695.03
+1001225,2024-09-20,Clothing,201,T-Shirt,East,530149,Credit Card,4,21.23
+1001226,2023-09-04,Books,403,Cookbook,East,868952,Debit Card,5,
+1001227,2023-02-11,Clothing,201,T-Shirt,North,904376,PayPal,5,19.20
+1001228,2023-04-02,Books,403,Cookbook,North,537319,Cash,5,23.55
+1001229,2024-06-18,Electronics,103,Headphones,South,589596,PayPal,1,155.42
+1001230,2024-02-22,Clothing,203,Jacket,North,574199,PayPal,5,74.63
+1001231,2023-08-29,Electronics,103,Headphones,South,818269,PayPal,4,138.88
+1001232,2023-09-10,Home,301,Blender,South,603994,Debit Card,2,39.39
+1001233,2023-07-02,Books,401,Fiction Novel,North,790174,PayPal,1,16.09
+1001234,2024-12-25,Electronics,102,Laptop,West,625729,Cash,2,1316.46
+1001235,2023-08-26,Books,402,Science Textbook,North,662903,Cash,1,76.78
+1001236,2024-11-05,Clothing,203,Jacket,West,736120,Credit Card,5,81.36
+1001237,2023-09-21,Books,403,Cookbook,East,989344,Bank Transfer,2,25.79
+1001238,2024-05-20,Electronics,101,Smartphone,West,770630,Debit Card,2,707.22
+1001239,2024-03-19,Beauty,501,Lipstick,East,616436,Debit Card,5,17.17
+1001240,2023-08-10,Beauty,503,Perfume,West,933333,Bank Transfer,2,63.59
+1001241,2023-09-28,Clothing,201,T-Shirt,South,789575,Credit Card,4,18.46
+1001242,2023-06-22,Electronics,103,Headphones,West,758338,PayPal,3,159.18
+1001243,2024-02-03,Clothing,202,Jeans,East,688514,Credit Card,3,49.01
+1001244,2023-07-05,Beauty,501,Lipstick,North,755597,PayPal,3,17.04
+1001245,2023-07-24,Home,302,Coffee Maker,South,547305,PayPal,5,77.77
+1001246,2024-11-07,Clothing,203,Jacket,East,841822,Bank Transfer,2,85.99
+1001247,2024-11-28,Home,302,Coffee Maker,,676243,Bank Transfer,3,85.03
+1001248,2024-11-26,Beauty,501,Lipstick,West,501373,Cash,5,17.81
+1001249,2024-07-09,Books,403,Cookbook,North,557542,Bank Transfer,5,25.31
+1001250,2024-09-22,Books,401,Fiction Novel,West,853127,Cash,2,
+1001251,2024-05-06,Beauty,504,Moisturizer,East,953484,Credit Card,2,
+1001252,2023-08-25,Home,304,Vacuum,East,895327,Cash,2,158.96
+1001253,2024-11-28,Beauty,504,Moisturizer,West,977814,Credit Card,5,24.61
+1001254,2024-04-19,Books,401,Fiction Novel,West,709979,PayPal,1,15.84
+1001255,2023-06-29,Clothing,203,Jacket,North,599151,PayPal,4,80.09
+1001256,2024-02-06,Clothing,202,Jeans,South,568734,Bank Transfer,3,52.34
+1001257,2024-08-18,Home,301,Blender,North,620782,Bank Transfer,3,41.83
+1001258,2023-08-02,Home,304,Vacuum,East,595970,Cash,4,138.73
+1001259,2023-03-11,Books,402,Science Textbook,West,706525,Cash,3,78.11
+1001260,2023-09-22,Clothing,203,Jacket,West,801933,Bank Transfer,3,82.08
+1001261,2024-09-13,Electronics,103,Headphones,East,715716,Credit Card,3,144.60
+1001262,2024-11-18,Home,301,Blender,North,560738,Credit Card,1,36.43
+1001263,2023-01-16,Electronics,101,Smartphone,West,683042,Cash,5,683.79
+1001264,2024-05-06,Electronics,101,Smartphone,North,754319,Cash,1,690.73
+1001265,2023-08-29,Home,304,Vacuum,North,761345,Credit Card,3,145.72
+1001266,2023-08-05,,201,T-Shirt,East,875981,Cash,3,21.53
+1001267,2023-10-29,Beauty,503,Perfume,North,616010,Credit Card,1,61.31
+1001268,2024-05-27,Clothing,203,Jacket,South,549272,Credit Card,1,73.97
+1001269,2024-02-26,Home,304,Vacuum,North,579559,Bank Transfer,3,164.50
+1001270,2024-02-28,Beauty,504,Moisturizer,North,520496,Bank Transfer,3,26.04
+1001271,2024-01-06,Beauty,501,Lipstick,East,978249,Credit Card,2,17.14
+1001272,2024-03-25,Clothing,203,Jacket,South,950459,Bank Transfer,1,84.75
+1001273,2023-10-29,Electronics,102,Laptop,West,619492,Bank Transfer,4,1260.56
+1001274,2023-10-27,Beauty,504,Moisturizer,North,988688,Credit Card,2,26.74
+1001275,2023-03-27,Beauty,504,Moisturizer,North,990131,PayPal,2,24.38
+1001276,2024-03-26,Beauty,504,Moisturizer,South,872074,Bank Transfer,5,24.63
+1001277,2024-02-05,Home,304,Vacuum,West,608065,Credit Card,5,146.87
+1001278,2024-09-08,Books,403,Cookbook,South,514818,Bank Transfer,1,27.19
+1001279,2023-05-05,Beauty,504,Moisturizer,North,502345,Credit Card,2,25.88
+1001280,2023-06-21,Books,402,Science Textbook,West,644518,Bank Transfer,3,83.66
+1001281,2023-03-09,Books,402,Science Textbook,East,979882,PayPal,2,77.15
+1001282,2023-11-20,Home,301,Blender,North,536401,Debit Card,3,38.46
+1001283,2023-03-04,Home,304,Vacuum,West,655557,PayPal,2,140.90
+1001284,2024-06-19,Clothing,202,Jeans,East,922361,Debit Card,2,45.74
+1001285,2023-07-11,Books,403,Cookbook,North,616272,Credit Card,4,25.19
+1001286,2024-12-26,Home,301,Blender,North,957078,Bank Transfer,2,36.88
+1001287,2024-09-19,Books,403,Cookbook,West,694683,PayPal,5,26.33
+1001288,2023-02-06,Beauty,504,Moisturizer,East,921587,Bank Transfer,5,23.76
+1001289,2024-11-12,Beauty,501,Lipstick,South,817034,Debit Card,3,19.71
+1001290,2024-10-18,Home,304,Vacuum,East,591590,PayPal,3,144.60
+1001291,2024-06-25,Electronics,103,Headphones,East,955840,Cash,4,148.93
+1001292,2024-06-30,Clothing,201,T-Shirt,North,747861,Credit Card,5,18.96
+1001293,2024-02-22,Books,403,Cookbook,East,735192,Bank Transfer,5,25.22
+1001294,2023-01-14,Beauty,501,Lipstick,West,994766,Debit Card,1,19.34
+1001295,2023-05-19,Electronics,101,Smartphone,East,828949,Bank Transfer,1,705.70
+1001296,2023-01-31,Beauty,501,Lipstick,North,751263,Bank Transfer,2,18.39
+1001297,2024-05-01,Electronics,102,Laptop,North,522060,Bank Transfer,4,1243.14
+1001298,2023-10-01,Clothing,202,Jeans,North,899669,Bank Transfer,2,46.09
+1001299,2023-01-17,Clothing,201,T-Shirt,South,608757,Cash,2,20.06
+1001300,2023-12-13,Home,304,Vacuum,South,729348,Credit Card,3,151.50
+1001301,2024-08-14,Clothing,202,Jeans,South,835646,Bank Transfer,3,51.60
+1001302,2023-06-06,Electronics,101,Smartphone,South,637434,Bank Transfer,4,671.48
+1001303,2024-04-03,Home,304,Vacuum,South,608545,Bank Transfer,3,145.51
+1001304,2024-07-20,Beauty,503,Perfume,East,647230,Debit Card,5,61.55
+1001305,2024-12-26,Electronics,103,Headphones,South,855683,Debit Card,2,137.83
+1001306,2024-06-12,Beauty,503,Perfume,South,961882,Cash,5,60.92
+1001307,2023-11-04,Books,402,Science Textbook,North,776908,PayPal,2,79.16
+1001308,2023-12-13,Clothing,202,Jeans,North,750323,Credit Card,4,51.69
+1001309,2023-04-11,Electronics,102,Laptop,West,655407,Bank Transfer,2,1272.25
+1001310,2023-07-24,Electronics,102,Laptop,North,551128,PayPal,5,1241.02
+1001311,2024-05-11,Home,304,Vacuum,West,898320,Debit Card,5,148.68
+1001312,2023-06-09,Books,401,Fiction Novel,North,954485,Cash,3,13.53
+1001313,2023-01-02,Electronics,102,Laptop,East,564966,Debit Card,4,1298.11
+1001314,2024-02-04,Clothing,201,T-Shirt,North,716112,Debit Card,1,21.99
+1001315,2024-01-10,Home,302,Coffee Maker,South,759367,Credit Card,4,73.53
+1001316,2024-09-10,Home,301,Blender,East,633512,Cash,1,37.16
+1001317,2024-08-08,Electronics,101,Smartphone,East,523958,Debit Card,4,704.77
+1001318,2024-05-11,Home,302,Coffee Maker,West,693556,Cash,3,73.73
+1001319,2023-04-16,Beauty,504,Moisturizer,North,993186,PayPal,3,23.25
+1001320,2024-09-03,Home,302,Coffee Maker,East,846387,Credit Card,5,82.59
+1001321,2023-08-23,Beauty,503,Perfume,North,792489,Credit Card,4,63.05
+1001322,2023-03-16,Beauty,503,Perfume,North,717757,Credit Card,2,57.51
+1001323,2024-03-12,Beauty,501,Lipstick,East,816876,Debit Card,1,18.03
+1001324,2024-01-02,Beauty,501,Lipstick,West,713723,Credit Card,1,16.28
+1001325,2024-11-22,Electronics,102,Laptop,North,841800,Debit Card,3,1179.76
+1001326,2023-02-18,Clothing,202,Jeans,North,548890,Bank Transfer,1,50.34
+1001327,2023-03-31,Books,401,Fiction Novel,North,757114,Credit Card,4,14.90
+1001328,2024-07-07,Beauty,503,Perfume,East,688713,PayPal,3,63.79
+1001329,2024-02-29,Home,302,Coffee Maker,South,918046,Debit Card,3,79.92
+1001330,2023-12-14,Electronics,103,Headphones,East,746155,Bank Transfer,2,135.49
+1001331,2023-11-09,Beauty,503,Perfume,West,751059,Credit Card,4,55.20
+1001332,2024-02-27,Clothing,203,Jacket,North,892457,PayPal,5,86.33
+1001333,2024-02-19,Home,302,Coffee Maker,East,789281,PayPal,5,78.43
+1001334,2024-03-21,Beauty,501,Lipstick,North,834760,Cash,1,19.23
+1001335,2023-04-11,Electronics,101,Smartphone,East,774822,Cash,1,636.47
+1001336,2024-10-02,Beauty,504,Moisturizer,North,928766,Credit Card,5,26.04
+1001337,2023-06-27,Electronics,101,Smartphone,North,572957,Bank Transfer,4,732.09
+1001338,2023-05-10,Electronics,103,Headphones,West,750883,Debit Card,3,140.12
+1001339,2023-09-25,Books,403,Cookbook,West,730920,Bank Transfer,4,23.18
+1001340,2024-03-24,Clothing,201,T-Shirt,South,616965,Credit Card,4,19.32
+1001341,2024-06-16,Beauty,504,Moisturizer,East,864829,Bank Transfer,2,25.33
+1001342,2023-12-25,Clothing,202,Jeans,South,619439,PayPal,3,52.72
+1001343,2023-07-20,Home,302,Coffee Maker,East,674934,Debit Card,2,85.02
+1001344,2023-09-28,Home,304,Vacuum,West,517272,Bank Transfer,1,152.42
+1001345,2024-09-08,Books,401,Fiction Novel,West,966958,Bank Transfer,1,16.14
+1001346,2023-09-10,Electronics,102,Laptop,North,891749,Bank Transfer,2,1168.20
+1001347,2023-10-07,Clothing,203,Jacket,North,635095,Debit Card,1,79.39
+1001348,2023-09-02,Electronics,103,Headphones,South,659016,Debit Card,5,141.85
+1001349,2024-12-30,Beauty,501,Lipstick,South,589840,Debit Card,5,19.75
+1001350,2024-03-04,Home,302,Coffee Maker,East,583419,PayPal,2,87.86
+1001351,2023-04-26,Clothing,203,Jacket,West,806536,Debit Card,5,87.26
+1001352,2024-11-10,Home,301,Blender,South,747860,PayPal,5,42.80
+1001353,2024-03-21,Books,403,Cookbook,West,767748,PayPal,5,27.00
+1001354,2023-01-09,,103,Headphones,South,630554,Debit Card,1,141.60
+1001355,2023-05-23,Home,304,Vacuum,South,576067,Credit Card,1,141.17
+1001356,2024-07-12,Beauty,501,Lipstick,South,997614,PayPal,3,18.98
+1001357,2023-02-25,Home,302,Coffee Maker,North,597322,Debit Card,5,87.51
+1001358,2023-07-14,Books,401,Fiction Novel,North,528959,PayPal,2,14.90
+1001359,2023-05-04,Home,301,Blender,East,657737,PayPal,5,43.96
+1001360,2023-04-17,Home,302,Coffee Maker,South,605685,Debit Card,2,75.49
+1001361,2023-11-29,Beauty,503,Perfume,North,820773,Cash,3,60.64
+1001362,2023-08-18,Clothing,203,Jacket,West,523175,Cash,5,83.06
+1001363,2024-08-11,Home,304,Vacuum,South,911682,Debit Card,3,144.83
+1001364,2024-07-31,Beauty,503,Perfume,West,962039,Cash,5,62.35
+1001365,2023-04-24,Beauty,503,Perfume,East,946307,PayPal,4,54.85
+1001366,2023-05-05,Books,402,Science Textbook,South,567017,Cash,5,86.29
+1001367,2024-08-08,Electronics,103,Headphones,East,751680,PayPal,5,139.18
+1001368,2024-03-19,Home,301,Blender,South,592558,Cash,4,41.68
+1001369,2023-08-28,Books,402,Science Textbook,South,691045,PayPal,4,72.49
+1001370,2023-01-08,Home,304,Vacuum,South,592873,Credit Card,4,161.91
+1001371,2023-12-22,Beauty,503,Perfume,South,831825,Credit Card,1,55.83
+1001372,2023-09-29,Books,401,Fiction Novel,West,593561,Credit Card,4,14.11
+1001373,2024-10-19,Electronics,102,Laptop,East,923641,Debit Card,4,1315.02
+1001374,2023-12-22,Home,304,Vacuum,West,506661,Debit Card,1,162.50
+1001375,2023-08-19,Electronics,103,Headphones,South,696891,Cash,2,135.13
+1001376,2024-03-18,Clothing,203,Jacket,West,975795,Bank Transfer,2,73.61
+1001377,2024-07-17,Home,304,Vacuum,East,798602,Debit Card,2,159.09
+1001378,2024-06-26,Beauty,501,Lipstick,North,582016,Cash,3,17.91
+1001379,2024-01-04,Books,402,Science Textbook,South,787097,Bank Transfer,1,87.62
+1001380,2023-12-31,Electronics,103,Headphones,East,652755,Bank Transfer,3,154.52
+1001381,2024-08-27,Electronics,103,Headphones,East,505921,Credit Card,1,141.87
+1001382,2024-12-21,Beauty,504,Moisturizer,South,828974,Cash,1,25.69
+1001383,2023-08-01,Home,304,Vacuum,West,738899,Cash,5,147.52
+1001384,2024-06-09,Beauty,501,Lipstick,South,926461,Cash,3,17.71
+1001385,2023-09-26,Clothing,203,Jacket,West,616032,PayPal,2,
+1001386,2024-01-10,Beauty,504,Moisturizer,West,851588,Debit Card,3,24.56
+1001387,2024-10-27,Books,401,Fiction Novel,North,828188,Bank Transfer,2,14.41
+1001388,2024-07-01,Beauty,503,Perfume,West,572303,Bank Transfer,2,64.20
+1001389,2023-10-28,Clothing,202,Jeans,South,834103,Bank Transfer,4,53.50
+1001390,2023-01-15,Clothing,201,T-Shirt,East,742074,Bank Transfer,1,18.90
+1001391,2024-09-26,Beauty,501,Lipstick,South,927553,Credit Card,5,17.89
+1001392,2024-08-03,Books,402,Science Textbook,East,821001,Cash,5,87.74
+1001393,2024-07-05,Books,402,Science Textbook,East,975389,Bank Transfer,5,77.44
+1001394,2024-03-07,Beauty,503,Perfume,West,802717,Debit Card,4,65.65
+1001395,2024-05-31,Books,402,Science Textbook,South,659541,Bank Transfer,1,85.75
+1001396,2024-04-15,Books,402,Science Textbook,North,515486,PayPal,3,73.93
+1001397,2024-02-20,Electronics,101,Smartphone,East,946945,PayPal,1,690.09
+1001398,2023-03-14,Electronics,101,Smartphone,East,648454,Credit Card,5,742.38
+1001399,2024-04-03,Beauty,501,Lipstick,North,847910,Bank Transfer,5,18.47
+1001400,2023-03-18,Books,402,Science Textbook,South,542336,Cash,2,75.81
+1001401,2024-11-11,Books,401,Fiction Novel,West,562138,Cash,1,14.72
+1001402,2023-01-31,Electronics,101,Smartphone,East,993170,PayPal,5,755.89
+1001403,2024-09-25,Electronics,103,Headphones,,771075,Cash,4,158.77
+1001404,2023-07-07,Books,403,Cookbook,West,511325,Cash,3,23.79
+1001405,2024-09-21,Home,302,Coffee Maker,West,559680,Debit Card,1,74.68
+1001406,2023-06-23,Clothing,203,Jacket,East,803507,Credit Card,4,80.66
+1001407,2024-05-08,Beauty,503,Perfume,South,897592,PayPal,2,58.30
+1001408,2023-04-06,Clothing,203,Jacket,North,616892,Bank Transfer,5,76.92
+1001409,2024-02-05,Home,302,Coffee Maker,North,514310,Bank Transfer,1,85.12
+1001410,2023-05-14,Electronics,102,Laptop,East,803903,Cash,4,1222.91
+1001411,2024-07-21,Books,402,Science Textbook,East,777943,PayPal,3,77.11
+1001412,2023-03-20,Books,402,Science Textbook,South,795841,Credit Card,2,84.83
+1001413,2024-05-23,Clothing,201,T-Shirt,East,704157,Credit Card,3,19.92
+1001414,2024-12-27,Electronics,102,Laptop,East,855625,Bank Transfer,1,1249.00
+1001415,2024-10-19,Home,304,Vacuum,West,960789,Credit Card,2,157.93
+1001416,2024-12-17,Home,304,Vacuum,West,832775,Debit Card,1,139.21
+1001417,2024-02-11,Home,301,Blender,North,814966,PayPal,1,38.98
+1001418,2023-07-19,Electronics,103,Headphones,East,593466,Credit Card,4,147.54
+1001419,2023-08-29,Books,401,Fiction Novel,South,624998,Bank Transfer,5,15.71
+1001420,2024-01-27,Electronics,101,Smartphone,West,947380,Credit Card,1,635.05
+1001421,2024-12-05,Electronics,103,Headphones,North,726451,Debit Card,2,140.08
+1001422,2023-07-09,Clothing,203,Jacket,South,934659,Bank Transfer,5,80.78
+1001423,2023-10-27,Home,302,Coffee Maker,West,986079,PayPal,4,72.98
+1001424,2024-10-02,Clothing,201,T-Shirt,West,788331,PayPal,2,20.27
+1001425,2023-02-11,Home,304,Vacuum,South,657799,Cash,1,146.81
+1001426,2024-09-06,Clothing,201,T-Shirt,North,848892,Bank Transfer,1,20.54
+1001427,2024-11-19,Clothing,201,T-Shirt,North,547803,Cash,5,21.47
+1001428,2024-09-14,Books,403,Cookbook,West,782218,Cash,4,26.13
+1001429,2023-08-01,Electronics,102,Laptop,North,793020,Bank Transfer,5,1267.12
+1001430,2024-10-09,Clothing,201,T-Shirt,North,705540,Debit Card,4,20.03
+1001431,2023-06-18,Clothing,203,Jacket,North,552989,Credit Card,1,77.44
+1001432,2024-03-21,Clothing,202,Jeans,North,775910,Bank Transfer,5,45.35
+1001433,2023-12-18,Beauty,501,Lipstick,West,948281,PayPal,2,16.72
+1001434,2023-08-09,Beauty,504,Moisturizer,South,686298,Cash,2,23.47
+1001435,2023-02-15,Electronics,102,Laptop,North,709390,PayPal,2,1314.73
+1001436,2023-01-15,Clothing,203,Jacket,West,791392,PayPal,4,84.78
+1001437,2024-11-07,Home,302,Coffee Maker,South,906980,Bank Transfer,1,73.06
+1001438,2023-10-14,Books,401,Fiction Novel,West,690414,PayPal,5,16.39
+1001439,2023-06-15,Home,304,Vacuum,South,907102,Cash,3,139.49
+1001440,2024-05-17,Home,304,Vacuum,North,826340,Bank Transfer,5,156.03
+1001441,2023-08-28,Home,304,Vacuum,North,627316,Bank Transfer,4,155.59
+1001442,2024-07-31,Electronics,102,Laptop,East,956410,PayPal,2,1198.91
+1001443,2023-12-31,Beauty,501,Lipstick,South,583749,Debit Card,4,18.72
+1001444,2023-07-23,Books,401,Fiction Novel,West,719955,Debit Card,3,13.64
+1001445,2023-05-12,Home,302,Coffee Maker,,897110,Credit Card,3,72.30
+1001446,2023-07-12,Electronics,102,Laptop,West,531291,PayPal,2,1274.20
+1001447,2024-04-07,Clothing,202,Jeans,East,994499,Bank Transfer,2,51.91
+1001448,2023-04-08,Clothing,202,Jeans,North,935526,Bank Transfer,2,51.56
+1001449,2024-10-11,Beauty,504,Moisturizer,West,837286,Debit Card,5,23.11
+1001450,2024-12-21,Beauty,501,Lipstick,North,821719,Bank Transfer,4,16.31
+1001451,2024-08-08,Books,401,Fiction Novel,East,684602,Bank Transfer,5,15.49
+1001452,2023-01-31,Home,301,Blender,North,748677,Credit Card,3,37.72
+1001453,2023-08-20,Books,403,Cookbook,East,689833,Debit Card,2,22.82
+1001454,2024-11-22,Books,402,Science Textbook,,578618,Cash,1,72.95
+1001455,2024-04-19,Home,304,Vacuum,East,963051,Cash,1,159.80
+1001456,2024-04-18,Electronics,102,Laptop,East,787592,Bank Transfer,,1171.34
+1001457,2024-02-21,Beauty,504,Moisturizer,South,741833,Cash,3,26.85
+1001458,2023-04-04,Beauty,501,Lipstick,West,695753,Debit Card,1,19.14
+1001459,2024-01-21,Beauty,503,Perfume,North,998374,Credit Card,2,66.00
+1001460,2023-10-21,Beauty,504,Moisturizer,North,622823,Debit Card,3,25.24
+1001461,2024-09-02,Home,302,Coffee Maker,South,962903,Bank Transfer,4,85.98
+1001462,2023-07-29,Clothing,203,Jacket,North,664580,Credit Card,2,79.53
+1001463,2024-02-10,Beauty,501,Lipstick,East,858192,PayPal,4,19.58
+1001464,2023-03-16,Beauty,501,Lipstick,West,867516,Bank Transfer,2,16.53
+1001465,2023-02-05,Home,301,Blender,West,854502,PayPal,2,41.98
+1001466,2023-05-14,Beauty,503,Perfume,North,819640,Credit Card,3,58.70
+1001467,2023-05-29,Home,304,Vacuum,West,678978,PayPal,1,139.13
+1001468,2023-11-20,Beauty,504,Moisturizer,North,671133,PayPal,4,25.67
+1001469,2023-10-22,Home,302,Coffee Maker,North,999478,Debit Card,1,76.44
+1001470,2023-12-29,Books,403,Cookbook,South,974476,Debit Card,1,22.54
+1001471,2023-10-11,Electronics,102,Laptop,North,918335,PayPal,5,1314.31
+1001472,2023-01-30,Beauty,501,Lipstick,North,636198,Cash,3,19.00
+1001473,2023-10-02,Clothing,201,T-Shirt,East,596334,Cash,3,19.97
+1001474,2024-08-20,Home,301,Blender,West,707351,Cash,4,40.32
+1001475,2023-05-03,Beauty,501,Lipstick,East,813853,PayPal,2,18.76
+1001476,2024-05-06,Electronics,102,Laptop,North,692738,Credit Card,4,1242.93
+1001477,2023-05-01,Home,301,Blender,North,861055,Cash,1,37.27
+1001478,2023-08-24,Books,401,Fiction Novel,East,903669,Debit Card,3,14.36
+1001479,2024-02-24,Clothing,201,T-Shirt,East,503904,Cash,4,19.10
+1001480,2023-04-14,Clothing,203,Jacket,West,815845,Credit Card,3,82.42
+1001481,2024-08-21,Home,302,Coffee Maker,North,699398,Bank Transfer,1,72.25
+1001482,2024-06-06,Clothing,201,T-Shirt,East,686371,PayPal,3,18.40
+1001483,2024-12-27,Books,402,Science Textbook,East,820060,PayPal,4,82.63
+1001484,2024-06-02,Beauty,503,Perfume,South,953596,Debit Card,2,64.96
+1001485,2024-05-20,Electronics,101,Smartphone,North,735668,Credit Card,2,706.86
+1001486,2024-02-27,Clothing,203,Jacket,East,878576,PayPal,3,73.54
+1001487,2023-02-22,Clothing,203,Jacket,South,859530,Cash,5,87.76
+1001488,2023-10-01,Beauty,501,Lipstick,North,980316,Bank Transfer,4,17.21
+1001489,2023-12-07,Home,301,Blender,South,658480,Bank Transfer,4,36.37
+1001490,2023-11-13,Home,301,Blender,East,701204,Cash,3,39.22
+1001491,2024-07-31,Beauty,504,Moisturizer,North,736498,PayPal,3,22.67
+1001492,2024-09-06,Beauty,501,Lipstick,West,804204,Cash,1,18.77
+1001493,2023-07-16,Books,402,Science Textbook,North,682191,PayPal,5,77.61
+1001494,2023-01-02,Home,304,Vacuum,North,532118,PayPal,2,154.84
+1001495,2023-03-10,Home,302,Coffee Maker,East,891125,Cash,3,79.65
+1001496,2023-05-23,Beauty,503,Perfume,East,606777,Debit Card,1,54.88
+1001497,2023-02-07,Electronics,102,Laptop,South,870730,Bank Transfer,5,1219.35
+1001498,2024-07-02,Home,304,Vacuum,West,934846,Bank Transfer,5,156.81
+1001499,2024-09-02,Beauty,501,Lipstick,North,885354,PayPal,4,17.92
+1001500,2023-06-14,Beauty,501,Lipstick,North,889483,Bank Transfer,4,19.41
+1001501,2024-12-26,Electronics,101,Smartphone,West,831397,Bank Transfer,2,757.74
+1001502,2024-09-23,Books,402,Science Textbook,East,823205,Debit Card,1,82.18
+1001503,2023-02-27,Books,401,Fiction Novel,South,973165,Credit Card,1,13.54
+1001504,2024-12-11,Beauty,503,Perfume,South,939943,Debit Card,5,57.65
+1001505,2023-10-09,Electronics,102,Laptop,West,894263,Bank Transfer,4,1259.65
+1001506,2024-11-09,Home,301,Blender,West,980975,Cash,3,42.02
+1001507,2023-02-23,Books,403,Cookbook,West,931534,Cash,5,27.29
+1001508,2024-03-18,Books,403,Cookbook,West,908624,Credit Card,3,26.52
+1001509,2024-03-31,Books,403,Cookbook,South,828404,Credit Card,4,23.16
+1001510,2024-02-23,Books,402,Science Textbook,North,541869,Bank Transfer,2,79.78
+1001511,2023-02-14,Electronics,101,Smartphone,West,607400,PayPal,1,643.13
+1001512,2024-01-18,Home,301,Blender,,798140,Cash,2,37.60
+1001513,2024-03-28,Beauty,503,Perfume,East,853844,Cash,2,55.67
+1001514,2023-08-26,Electronics,103,Headphones,North,646288,Bank Transfer,5,161.00
+1001515,2024-06-04,Clothing,201,T-Shirt,West,929884,Bank Transfer,4,18.66
+1001516,2023-08-01,Electronics,102,Laptop,South,932904,Cash,2,1132.49
+1001517,2024-05-10,Electronics,103,Headphones,East,529212,Bank Transfer,3,161.00
+1001518,2023-01-24,Beauty,501,Lipstick,West,846644,Debit Card,5,17.31
+1001519,2023-05-30,Books,403,Cookbook,North,815845,Cash,4,27.43
+1001520,2024-09-15,Books,403,Cookbook,East,777596,Credit Card,3,25.47
+1001521,2023-06-09,Beauty,503,Perfume,East,619956,Debit Card,4,55.46
+1001522,2023-07-28,Beauty,504,Moisturizer,West,626308,Cash,1,25.95
+1001523,2023-07-12,Clothing,201,T-Shirt,South,647329,Bank Transfer,2,21.35
+1001524,2023-03-11,Beauty,504,Moisturizer,East,883873,PayPal,2,25.65
+1001525,2024-06-29,Electronics,101,Smartphone,North,905436,Cash,2,768.46
+1001526,2024-04-04,Clothing,201,T-Shirt,West,507622,Cash,4,21.54
+1001527,2023-01-19,Beauty,503,Perfume,West,507147,PayPal,4,56.90
+1001528,2024-08-01,Electronics,101,Smartphone,South,678742,PayPal,4,734.59
+1001529,2023-11-19,Clothing,203,Jacket,East,691194,Cash,4,84.63
+1001530,2024-08-03,Home,304,Vacuum,North,829177,Credit Card,2,159.90
+1001531,2023-11-13,Clothing,201,T-Shirt,South,550455,Credit Card,2,20.52
+1001532,2024-09-24,Home,304,Vacuum,West,907579,Credit Card,4,149.28
+1001533,2024-12-08,Home,304,Vacuum,North,993161,Debit Card,1,151.87
+1001534,2024-09-09,Books,401,Fiction Novel,West,822288,Debit Card,1,14.88
+1001535,2023-03-09,Home,304,Vacuum,East,646904,Cash,2,159.19
+1001536,2023-10-10,Home,304,Vacuum,West,887523,Cash,2,154.93
+1001537,2023-06-11,Electronics,101,Smartphone,East,504117,Bank Transfer,5,710.75
+1001538,2024-04-30,Books,401,Fiction Novel,South,545814,Cash,1,14.65
+1001539,2024-10-16,Clothing,201,T-Shirt,West,845901,Debit Card,5,20.48
+1001540,2023-04-18,Books,403,Cookbook,South,600547,PayPal,5,24.87
+1001541,2023-11-29,Home,304,Vacuum,North,659458,PayPal,5,149.65
+1001542,2023-08-08,Home,304,Vacuum,North,678303,Debit Card,2,146.23
+1001543,2023-01-08,Clothing,203,Jacket,West,580540,Credit Card,2,85.01
+1001544,2024-01-21,Books,403,Cookbook,North,769802,Credit Card,2,25.73
+1001545,2023-07-15,Clothing,203,Jacket,North,857147,Credit Card,4,72.61
+1001546,2023-07-24,Beauty,503,Perfume,East,666530,PayPal,4,54.16
+1001547,2023-08-06,Home,301,Blender,North,640676,Debit Card,1,40.21
+1001548,2023-09-17,Electronics,101,Smartphone,West,644144,Credit Card,2,693.47
+1001549,2024-03-02,Books,402,Science Textbook,North,566804,Debit Card,1,84.15
+1001550,2024-02-09,Electronics,102,Laptop,West,633723,Cash,5,1119.00
+1001551,2024-05-02,Clothing,201,T-Shirt,East,944415,PayPal,4,18.41
+1001552,2024-07-20,Books,403,Cookbook,North,959041,Credit Card,3,27.11
+1001553,2023-12-30,Books,401,Fiction Novel,North,979199,Debit Card,4,14.48
+1001554,2024-09-04,Beauty,503,Perfume,North,583728,Cash,5,60.28
+1001555,2023-01-10,Home,302,Coffee Maker,West,578273,Debit Card,1,77.92
+1001556,2023-01-28,Beauty,504,Moisturizer,South,959293,Debit Card,1,23.04
+1001557,2024-08-10,Beauty,504,Moisturizer,South,574497,Credit Card,4,23.18
+1001558,2024-04-22,Beauty,501,Lipstick,West,699049,Debit Card,3,19.30
+1001559,2023-02-25,Clothing,203,Jacket,South,863270,PayPal,1,80.53
+1001560,2023-12-06,Home,301,Blender,North,888841,Credit Card,1,43.98
+1001561,2023-11-02,Beauty,503,Perfume,East,895208,Debit Card,4,61.55
+1001562,2023-12-03,Beauty,503,Perfume,West,683096,PayPal,3,55.22
+1001563,2023-01-16,Clothing,203,Jacket,North,658154,Bank Transfer,4,81.81
+1001564,2024-01-26,Home,301,Blender,West,849643,PayPal,1,43.28
+1001565,2023-01-31,Electronics,102,Laptop,West,914745,Cash,2,1230.72
+1001566,2024-12-06,Electronics,102,Laptop,North,660487,PayPal,5,1146.70
+1001567,2024-01-18,Clothing,201,T-Shirt,West,725554,Cash,1,19.65
+1001568,2024-06-21,Clothing,202,Jeans,North,987350,PayPal,1,53.95
+1001569,2024-05-30,Books,402,Science Textbook,West,733443,Debit Card,4,79.49
+1001570,2023-02-27,Books,403,Cookbook,East,797107,Debit Card,4,24.29
+1001571,2024-11-25,Electronics,102,Laptop,East,988693,Cash,2,1174.12
+1001572,2023-01-17,Electronics,101,Smartphone,South,915435,Debit Card,2,765.22
+1001573,2024-01-22,Beauty,504,Moisturizer,West,752041,Credit Card,1,26.97
+1001574,2024-05-31,Books,402,Science Textbook,North,608549,Credit Card,3,72.37
+1001575,2024-07-15,Home,301,Blender,East,891016,Debit Card,2,
+1001576,2023-12-07,Beauty,501,Lipstick,North,705396,Cash,5,17.71
+1001577,2024-03-28,Beauty,501,Lipstick,East,914410,PayPal,2,19.70
+1001578,2024-08-21,Beauty,504,Moisturizer,North,874059,Debit Card,3,26.09
+1001579,2024-01-03,Home,301,Blender,North,887354,PayPal,5,42.73
+1001580,2023-07-04,Electronics,101,Smartphone,East,757134,Debit Card,4,755.15
+1001581,2024-08-29,Electronics,102,Laptop,East,985384,Cash,2,1163.40
+1001582,2024-11-10,Beauty,501,Lipstick,South,648881,Bank Transfer,1,18.73
+1001583,2023-11-12,Clothing,203,Jacket,West,709157,Bank Transfer,5,80.47
+1001584,2023-01-07,Clothing,202,Jeans,East,781995,Cash,2,46.81
+1001585,2023-10-01,Clothing,201,T-Shirt,East,678783,PayPal,4,19.73
+1001586,2023-01-22,Electronics,103,Headphones,North,620880,PayPal,2,163.51
+1001587,2024-10-24,Clothing,203,Jacket,South,752603,Debit Card,3,80.72
+1001588,2023-05-25,Books,403,Cookbook,South,736890,Bank Transfer,2,26.96
+1001589,2024-03-15,Electronics,101,Smartphone,East,754146,Cash,3,700.61
+1001590,2024-11-01,Electronics,103,Headphones,South,713191,Bank Transfer,5,150.55
+1001591,2023-09-29,Clothing,202,Jeans,South,919069,Bank Transfer,3,52.37
+1001592,2024-07-25,Books,402,Science Textbook,North,940723,Bank Transfer,3,81.39
+1001593,2024-02-19,Home,304,Vacuum,West,903281,Debit Card,5,143.95
+1001594,2023-01-06,Beauty,504,Moisturizer,North,777366,Debit Card,4,23.99
+1001595,2023-08-05,Electronics,101,Smartphone,East,557178,Credit Card,3,703.40
+1001596,2024-11-19,Books,402,Science Textbook,South,583558,Debit Card,3,75.28
+1001597,2024-12-27,Clothing,202,Jeans,East,932718,PayPal,3,54.85
+1001598,2024-10-10,Home,302,Coffee Maker,South,795791,Bank Transfer,2,81.85
+1001599,2023-12-08,Clothing,202,Jeans,North,529184,Debit Card,5,45.02
+1001600,2023-08-24,Books,401,Fiction Novel,West,774754,Cash,4,13.69
+1001601,2024-08-24,Electronics,101,Smartphone,North,621209,Cash,4,730.47
+1001602,2024-08-14,Home,302,Coffee Maker,East,778087,PayPal,5,87.34
+1001603,2024-05-07,Clothing,203,Jacket,North,692210,Credit Card,1,86.42
+1001604,2024-05-01,Home,301,Blender,East,715563,Bank Transfer,4,36.60
+1001605,2023-11-02,Clothing,203,Jacket,South,988688,Cash,1,75.48
+1001606,2023-02-05,Electronics,102,Laptop,East,600539,Bank Transfer,3,1247.30
+1001607,2023-10-16,Clothing,201,T-Shirt,South,826141,Credit Card,4,18.32
+1001608,2024-07-21,Beauty,504,Moisturizer,South,688116,Credit Card,2,24.95
+1001609,2023-10-09,Books,401,Fiction Novel,South,725331,Debit Card,5,14.60
+1001610,2023-04-25,Books,403,Cookbook,West,770126,PayPal,4,26.41
+1001611,2023-07-16,Beauty,501,Lipstick,West,937115,PayPal,2,17.94
+1001612,2023-06-25,Electronics,101,Smartphone,East,542567,Credit Card,3,651.07
+1001613,2024-08-04,Home,302,Coffee Maker,South,560676,Debit Card,5,87.02
+1001614,2024-03-14,Books,402,Science Textbook,South,782066,Cash,2,80.63
+1001615,2024-07-12,Electronics,101,Smartphone,West,550964,Credit Card,3,
+1001616,2023-06-29,Home,304,Vacuum,South,931379,Bank Transfer,4,140.06
+1001617,2023-10-18,Clothing,202,Jeans,West,646374,Credit Card,3,48.79
+1001618,2024-10-20,Beauty,501,Lipstick,North,747415,PayPal,3,19.44
+1001619,2023-01-01,Home,301,Blender,East,873462,Bank Transfer,2,43.19
+1001620,2023-04-15,Electronics,101,Smartphone,North,827117,Bank Transfer,4,632.40
+1001621,2023-09-30,Electronics,103,Headphones,West,620109,Credit Card,2,155.87
+1001622,2023-01-16,Books,402,Science Textbook,South,594165,Cash,4,86.36
+1001623,2023-10-29,Beauty,503,Perfume,West,764656,Bank Transfer,3,63.71
+1001624,2024-06-24,Beauty,504,Moisturizer,North,689885,PayPal,5,22.73
+1001625,2023-08-02,Beauty,501,Lipstick,West,557068,Debit Card,5,18.59
+1001626,2024-07-03,Books,401,Fiction Novel,West,674013,Cash,2,14.96
+1001627,2023-09-14,Beauty,501,Lipstick,West,885203,Bank Transfer,1,18.56
+1001628,2024-10-04,Books,403,Cookbook,South,848587,Bank Transfer,1,26.88
+1001629,2023-08-31,Books,402,Science Textbook,North,890885,Debit Card,5,80.53
+1001630,2023-05-22,Beauty,503,Perfume,North,599008,PayPal,5,61.27
+1001631,2024-07-21,Beauty,504,Moisturizer,West,950164,Bank Transfer,4,26.08
+1001632,2024-06-15,Clothing,203,Jacket,North,956298,PayPal,1,76.36
+1001633,2024-02-10,Beauty,501,Lipstick,North,592060,Credit Card,1,19.72
+1001634,2023-06-29,Beauty,504,Moisturizer,East,896804,Bank Transfer,2,25.26
+1001635,2023-12-15,Clothing,201,T-Shirt,North,948430,PayPal,1,21.05
+1001636,2024-07-25,Home,304,Vacuum,West,888304,Credit Card,1,149.03
+1001637,2024-09-27,Books,402,Science Textbook,North,651174,Cash,2,82.07
+1001638,2024-10-09,Electronics,102,Laptop,East,782497,Debit Card,2,1306.69
+1001639,2023-05-19,Home,304,Vacuum,South,936209,PayPal,2,143.86
+1001640,2023-09-27,Beauty,504,Moisturizer,East,587926,Credit Card,4,25.82
+1001641,2023-10-05,Beauty,501,Lipstick,West,906576,Debit Card,2,19.06
+1001642,2023-07-29,Clothing,202,Jeans,West,727938,Bank Transfer,4,53.44
+1001643,2023-11-05,Beauty,504,Moisturizer,South,904909,Cash,4,26.59
+1001644,2024-01-07,Clothing,202,Jeans,North,939399,Debit Card,5,52.67
+1001645,2023-09-18,Beauty,503,Perfume,West,556951,Cash,4,61.24
+1001646,2023-06-17,Electronics,101,Smartphone,North,519651,Bank Transfer,3,717.32
+1001647,2024-10-17,Clothing,203,Jacket,East,669452,Debit Card,3,75.18
+1001648,2024-01-09,Electronics,101,Smartphone,South,576627,PayPal,3,761.92
+1001649,2024-04-11,Beauty,504,Moisturizer,South,774402,PayPal,5,26.49
+1001650,2024-05-19,Clothing,202,Jeans,East,785044,PayPal,1,50.55
+1001651,2024-10-18,Home,304,Vacuum,East,505748,PayPal,3,143.29
+1001652,2023-02-10,Books,403,Cookbook,North,500020,Cash,3,25.86
+1001653,2023-02-20,Beauty,503,Perfume,West,537772,Cash,3,64.73
+1001654,2024-11-30,Beauty,504,Moisturizer,East,581868,Bank Transfer,4,27.08
+1001655,2024-11-18,Books,403,Cookbook,West,989646,Cash,1,25.43
+1001656,2024-03-24,Beauty,504,Moisturizer,East,849214,Bank Transfer,3,25.89
+1001657,2024-11-05,Books,403,Cookbook,South,674656,Bank Transfer,4,23.83
+1001658,2023-05-03,Books,402,Science Textbook,West,783487,Bank Transfer,2,78.30
+1001659,2023-04-12,Books,403,Cookbook,West,780859,PayPal,1,26.15
+1001660,2023-10-29,Clothing,202,Jeans,West,873089,Debit Card,2,52.56
+1001661,2023-01-21,Clothing,201,T-Shirt,West,629819,Credit Card,2,20.56
+1001662,2023-05-06,Beauty,504,Moisturizer,North,878341,Bank Transfer,2,27.11
+1001663,2023-12-12,Electronics,102,Laptop,South,608966,Debit Card,2,1269.77
+1001664,2023-01-01,Clothing,203,Jacket,East,504057,Cash,5,85.85
+1001665,2023-04-06,Home,302,Coffee Maker,North,915456,PayPal,4,84.22
+1001666,2023-01-25,Home,301,Blender,West,624403,Debit Card,5,37.37
+1001667,2024-03-24,Electronics,103,Headphones,North,651107,Debit Card,2,151.66
+1001668,2023-11-04,Clothing,203,Jacket,South,902483,Credit Card,1,84.68
+1001669,2023-07-09,Books,402,Science Textbook,West,511382,Credit Card,5,79.75
+1001670,2023-08-12,Beauty,504,Moisturizer,North,701006,Credit Card,3,25.17
+1001671,2023-07-18,Electronics,101,Smartphone,East,703055,Bank Transfer,4,738.94
+1001672,2023-06-18,Electronics,102,Laptop,East,985585,PayPal,2,1281.95
+1001673,2024-03-28,Home,304,Vacuum,East,940391,Cash,5,161.14
+1001674,2023-02-05,Electronics,103,Headphones,West,734878,PayPal,3,143.42
+1001675,2024-09-23,Home,304,Vacuum,West,645027,Cash,4,148.78
+1001676,2023-09-30,Beauty,501,Lipstick,North,924267,Credit Card,3,16.49
+1001677,2024-08-01,Electronics,101,Smartphone,West,526850,Debit Card,5,657.87
+1001678,2024-08-15,Clothing,202,Jeans,South,749757,PayPal,2,53.84
+1001679,2023-07-17,Home,302,Coffee Maker,North,639926,PayPal,4,85.60
+1001680,2024-11-22,Books,402,Science Textbook,North,853486,Cash,5,76.84
+1001681,2024-03-27,Books,403,Cookbook,West,781766,Credit Card,1,25.30
+1001682,2023-05-18,Home,301,Blender,East,662427,Bank Transfer,4,40.28
+1001683,2023-11-04,Home,302,Coffee Maker,South,665617,Debit Card,1,86.91
+1001684,2023-08-21,Beauty,503,Perfume,West,809415,Bank Transfer,1,54.03
+1001685,2024-04-13,Beauty,503,Perfume,West,630779,PayPal,1,55.03
+1001686,2023-12-24,Home,301,Blender,South,616225,Credit Card,1,36.48
+1001687,2023-01-12,Beauty,501,Lipstick,East,891094,Debit Card,3,16.30
+1001688,2024-07-25,Home,302,Coffee Maker,South,701387,PayPal,1,83.87
+1001689,2024-05-30,Home,302,Coffee Maker,East,996880,PayPal,5,85.31
+1001690,2023-09-16,Beauty,503,Perfume,West,771529,Cash,4,
+1001691,2024-10-15,Books,403,Cookbook,North,604828,Cash,3,26.49
+1001692,2024-12-09,Home,301,Blender,East,614524,Debit Card,4,37.22
+1001693,2023-04-03,Electronics,101,Smartphone,East,755436,Debit Card,1,688.43
+1001694,2024-12-06,Home,304,Vacuum,North,971582,PayPal,5,157.65
+1001695,2024-08-03,Clothing,203,Jacket,North,781095,Bank Transfer,1,81.38
+1001696,2023-04-17,Electronics,103,Headphones,West,785769,PayPal,1,135.24
+1001697,2024-10-27,Home,304,Vacuum,North,915381,Debit Card,3,155.04
+1001698,2023-04-17,Books,403,Cookbook,East,607866,Credit Card,1,23.75
+1001699,2024-01-23,Books,403,Cookbook,East,885175,Cash,4,24.24
+1001700,2024-03-11,Electronics,102,Laptop,East,622708,Bank Transfer,1,1186.24
+1001701,2024-03-25,Home,301,Blender,North,840823,Credit Card,5,43.93
+1001702,2024-04-19,Beauty,504,Moisturizer,North,826174,Credit Card,4,25.86
+1001703,2024-01-30,Beauty,503,Perfume,North,513119,Credit Card,1,55.53
+1001704,2024-04-30,,101,Smartphone,South,699096,Debit Card,1,736.38
+1001705,2024-02-22,Home,302,Coffee Maker,South,546718,Cash,1,76.54
+1001706,2024-12-17,Beauty,504,Moisturizer,North,588367,Credit Card,5,24.46
+1001707,2024-09-18,Beauty,504,Moisturizer,East,677962,Credit Card,4,25.98
+1001708,2024-05-24,Beauty,501,Lipstick,East,907476,Credit Card,2,18.59
+1001709,2023-10-10,Books,402,Science Textbook,North,971936,Cash,5,82.83
+1001710,2023-06-06,Clothing,202,Jeans,East,542300,Credit Card,1,46.27
+1001711,2024-10-05,Electronics,102,Laptop,East,835234,Cash,1,1242.14
+1001712,2023-07-13,Beauty,504,Moisturizer,North,664169,Debit Card,2,23.77
+1001713,2024-04-08,Clothing,202,Jeans,North,600708,Cash,2,54.79
+1001714,2023-07-25,Home,302,Coffee Maker,North,989516,Cash,5,76.77
+1001715,2023-11-21,Home,301,Blender,West,639220,PayPal,1,40.77
+1001716,2023-09-15,Home,304,Vacuum,South,770019,Bank Transfer,4,137.29
+1001717,2024-01-11,Books,403,Cookbook,South,639746,Debit Card,3,26.31
+1001718,2023-05-06,Electronics,101,Smartphone,East,595940,Cash,1,706.05
+1001719,2023-03-13,Beauty,501,Lipstick,North,681854,Credit Card,3,16.95
+1001720,2024-03-29,Beauty,503,Perfume,East,515908,Debit Card,3,55.67
+1001721,2024-10-12,Clothing,202,Jeans,East,685450,Debit Card,3,47.30
+1001722,2024-12-23,Beauty,504,Moisturizer,North,695303,Bank Transfer,4,23.18
+1001723,2023-03-21,Home,301,Blender,West,540937,Debit Card,1,38.60
+1001724,2023-01-01,Home,304,Vacuum,East,751184,Credit Card,4,140.99
+1001725,2024-12-17,Clothing,202,Jeans,East,932879,Bank Transfer,3,51.95
+1001726,2023-07-22,Beauty,503,Perfume,North,562335,Credit Card,5,59.46
+1001727,2024-08-12,Beauty,503,Perfume,West,729586,PayPal,5,59.00
+1001728,2023-02-27,Clothing,202,Jeans,East,950377,Cash,2,47.08
+1001729,2023-03-01,Home,302,Coffee Maker,North,875722,PayPal,4,78.74
+1001730,2024-05-17,Clothing,202,Jeans,South,653697,Bank Transfer,2,49.14
+1001731,2023-01-26,Electronics,103,Headphones,East,992958,Bank Transfer,3,136.09
+1001732,2024-06-07,Electronics,103,Headphones,,992330,Bank Transfer,5,150.52
+1001733,2024-03-13,Home,301,Blender,West,991676,PayPal,5,40.15
+1001734,2023-12-28,Home,304,Vacuum,South,662969,PayPal,4,162.47
+1001735,2024-03-31,Clothing,202,Jeans,South,670505,Cash,1,48.65
+1001736,2024-04-25,Books,402,Science Textbook,West,882130,Cash,4,75.08
+1001737,2024-03-18,Books,403,Cookbook,South,519183,Debit Card,1,24.44
+1001738,2023-06-06,Books,403,Cookbook,South,563792,Cash,2,25.18
+1001739,2024-07-27,Clothing,202,Jeans,North,516255,Cash,5,46.27
+1001740,2023-02-01,Home,302,Coffee Maker,West,618775,Bank Transfer,1,76.16
+1001741,2023-11-02,Books,402,Science Textbook,East,757417,Credit Card,5,78.86
+1001742,2024-04-14,Electronics,103,Headphones,East,891262,Cash,4,164.79
+1001743,2023-12-24,Home,302,Coffee Maker,North,976608,Bank Transfer,2,78.77
+1001744,2024-11-29,Home,301,Blender,South,946356,Debit Card,2,40.13
+1001745,2024-07-19,Clothing,202,Jeans,West,802387,Bank Transfer,5,54.07
+1001746,2023-09-05,Books,401,Fiction Novel,East,983244,Bank Transfer,4,14.28
+1001747,2024-09-08,Clothing,202,Jeans,South,559118,PayPal,4,50.88
+1001748,2024-12-02,Beauty,503,Perfume,South,578665,Debit Card,3,58.46
+1001749,2023-10-21,Electronics,102,Laptop,West,706097,Cash,4,1194.12
+1001750,2023-03-04,Books,401,Fiction Novel,,984704,Debit Card,4,14.06
+1001751,2023-08-14,Books,402,Science Textbook,West,722179,Bank Transfer,2,78.72
+1001752,2023-05-14,Clothing,201,T-Shirt,North,546413,Bank Transfer,4,18.80
+1001753,2024-09-26,Clothing,201,T-Shirt,South,529965,Credit Card,2,19.49
+1001754,2023-02-11,Beauty,503,Perfume,West,749979,Credit Card,3,61.24
+1001755,2024-07-21,Clothing,203,Jacket,North,999774,PayPal,5,82.45
+1001756,2024-01-27,Electronics,101,Smartphone,West,713981,Debit Card,3,734.07
+1001757,2023-01-27,Books,403,Cookbook,West,716494,Cash,5,25.48
+1001758,2023-05-25,Electronics,102,Laptop,South,824397,Cash,5,1222.97
+1001759,2023-09-27,Electronics,101,Smartphone,North,664798,Bank Transfer,4,676.77
+1001760,2024-08-22,Home,304,Vacuum,East,831709,PayPal,4,148.49
+1001761,2024-11-27,Clothing,203,Jacket,West,949835,Debit Card,3,84.53
+1001762,2023-11-17,Electronics,103,Headphones,West,641833,Credit Card,2,154.23
+1001763,2024-05-15,Home,304,Vacuum,West,766810,Cash,5,148.20
+1001764,2023-05-28,Clothing,201,T-Shirt,East,593705,PayPal,3,20.34
+1001765,2023-10-11,Beauty,501,Lipstick,South,796079,Bank Transfer,1,17.26
+1001766,2024-03-27,Books,401,Fiction Novel,North,657695,Debit Card,5,15.01
+1001767,2024-08-05,Beauty,504,Moisturizer,West,912541,Credit Card,2,27.41
+1001768,2023-04-08,Home,304,Vacuum,North,984099,Cash,2,148.93
+1001769,2023-12-27,Clothing,202,Jeans,East,635609,Bank Transfer,2,50.71
+1001770,2024-07-28,Electronics,101,Smartphone,North,696346,PayPal,3,696.98
+1001771,2023-06-22,Beauty,503,Perfume,West,872487,Credit Card,1,58.18
+1001772,2023-02-25,Home,304,Vacuum,South,596861,Debit Card,5,148.43
+1001773,2023-10-04,Home,301,Blender,West,873485,Credit Card,2,43.09
+1001774,2023-08-06,Clothing,203,Jacket,North,621434,Debit Card,2,82.16
+1001775,2023-03-25,Electronics,102,Laptop,South,870608,Bank Transfer,2,1210.67
+1001776,2023-03-29,Books,403,Cookbook,West,607653,PayPal,3,22.73
+1001777,2024-01-30,Electronics,102,Laptop,East,756542,Cash,3,1198.61
+1001778,2024-07-31,Beauty,504,Moisturizer,East,814573,Bank Transfer,5,25.24
+1001779,2023-05-25,Electronics,102,Laptop,South,513684,Cash,2,1285.35
+1001780,2023-11-01,Electronics,101,Smartphone,North,921539,Cash,2,732.03
+1001781,2023-04-04,Electronics,101,Smartphone,West,790747,Credit Card,5,641.99
+1001782,2023-10-12,Books,401,Fiction Novel,West,887743,Bank Transfer,2,15.37
+1001783,2024-04-25,Clothing,202,Jeans,West,958093,Bank Transfer,1,53.61
+1001784,2023-01-28,Home,304,Vacuum,South,500143,PayPal,5,162.55
+1001785,2023-03-17,Home,304,Vacuum,East,508612,Credit Card,4,158.04
+1001786,2024-07-24,Electronics,101,Smartphone,East,553924,Bank Transfer,1,650.15
+1001787,2024-05-30,Books,403,Cookbook,North,657126,Debit Card,3,22.54
+1001788,2024-07-06,Books,401,Fiction Novel,West,627317,Bank Transfer,2,15.52
+1001789,2024-12-10,Home,304,Vacuum,North,804083,Bank Transfer,4,156.86
+1001790,2024-01-16,Beauty,501,Lipstick,South,733559,PayPal,4,19.44
+1001791,2023-04-14,Home,304,Vacuum,South,899744,PayPal,4,160.90
+1001792,2023-10-31,Clothing,201,T-Shirt,South,911339,Debit Card,1,21.27
+1001793,2023-08-18,Clothing,201,T-Shirt,West,897851,Debit Card,1,21.59
+1001794,2023-08-30,Clothing,201,T-Shirt,South,693195,Credit Card,4,20.33
+1001795,2024-11-11,Beauty,504,Moisturizer,East,879950,PayPal,2,26.38
+1001796,2023-03-15,Books,401,Fiction Novel,South,943080,Bank Transfer,2,15.71
+1001797,2024-12-20,Books,402,Science Textbook,West,644349,PayPal,4,86.60
+1001798,2024-09-11,Home,304,Vacuum,North,902922,Bank Transfer,4,149.97
+1001799,2024-09-01,Books,403,Cookbook,West,887481,Credit Card,1,24.97
+1001800,2023-12-08,Clothing,201,T-Shirt,South,785812,Bank Transfer,5,18.06
+1001801,2023-02-05,Books,403,Cookbook,East,643666,Bank Transfer,3,24.47
+1001802,2024-09-20,Electronics,101,Smartphone,South,541902,Cash,5,631.75
+1001803,2023-09-04,Clothing,201,T-Shirt,South,833030,PayPal,5,21.53
+1001804,2023-04-14,Clothing,202,Jeans,West,749938,Credit Card,3,49.87
+1001805,2023-07-05,Clothing,203,Jacket,West,930901,Debit Card,4,74.54
+1001806,2024-03-05,Home,302,Coffee Maker,North,705320,PayPal,4,82.00
+1001807,2023-07-17,Clothing,202,Jeans,East,775510,Debit Card,3,45.04
+1001808,2023-03-17,Books,402,Science Textbook,South,553869,Cash,5,87.98
+1001809,2024-04-02,Electronics,103,Headphones,North,725350,PayPal,1,145.13
+1001810,2023-09-04,Home,301,Blender,South,582113,Cash,4,39.50
+1001811,2024-10-18,Home,304,Vacuum,East,925941,Cash,1,141.09
+1001812,2023-07-06,Books,402,Science Textbook,East,833559,Cash,3,86.41
+1001813,2024-05-17,Books,403,Cookbook,East,683015,Cash,1,25.04
+1001814,2024-08-25,Home,302,Coffee Maker,South,863687,Cash,1,80.91
+1001815,2023-06-25,Beauty,501,Lipstick,East,580321,PayPal,1,17.90
+1001816,2024-12-26,Books,402,Science Textbook,East,678220,Credit Card,3,78.11
+1001817,2024-06-17,Beauty,504,Moisturizer,North,751908,Credit Card,2,24.56
+1001818,2024-08-29,Beauty,503,Perfume,East,893944,Debit Card,,54.90
+1001819,2023-10-12,Electronics,103,Headphones,West,598564,Bank Transfer,5,155.76
+1001820,2024-11-14,Home,302,Coffee Maker,South,720933,Debit Card,2,80.41
+1001821,2023-07-06,Books,402,Science Textbook,West,998193,Credit Card,1,72.62
+1001822,2024-04-15,Electronics,102,Laptop,South,698872,Debit Card,5,1169.61
+1001823,2024-03-30,Books,401,Fiction Novel,South,503762,Cash,1,14.25
+1001824,2024-06-25,Electronics,103,Headphones,West,567730,Credit Card,5,137.02
+1001825,2023-07-07,Clothing,201,T-Shirt,South,849390,Debit Card,1,18.90
+1001826,2024-10-10,Beauty,501,Lipstick,West,969278,Bank Transfer,2,17.18
+1001827,2023-12-16,Clothing,203,Jacket,West,594752,Bank Transfer,1,75.04
+1001828,2023-05-10,Electronics,102,Laptop,West,560141,PayPal,3,1139.33
+1001829,2023-09-06,Home,301,Blender,West,664591,Bank Transfer,1,38.77
+1001830,2024-04-02,Beauty,503,Perfume,East,621734,Credit Card,5,56.77
+1001831,2024-08-12,Books,403,Cookbook,East,833531,Cash,5,25.36
+1001832,2024-01-26,Beauty,504,Moisturizer,North,745552,Credit Card,3,24.15
+1001833,2024-03-30,Books,403,Cookbook,,858352,PayPal,3,22.95
+1001834,2023-11-27,Clothing,203,Jacket,North,860028,Credit Card,5,83.27
+1001835,2023-07-22,Beauty,501,Lipstick,East,639194,Debit Card,4,17.20
+1001836,2024-05-07,Electronics,103,Headphones,East,714559,PayPal,5,163.54
+1001837,2024-12-30,Books,403,Cookbook,East,973498,Bank Transfer,3,24.45
+1001838,2024-05-10,Home,301,Blender,East,862214,Credit Card,5,43.05
+1001839,2023-09-11,Beauty,504,Moisturizer,South,996699,PayPal,1,23.17
+1001840,2023-04-22,Books,401,Fiction Novel,East,650251,Bank Transfer,3,15.45
+1001841,2024-05-08,Books,402,Science Textbook,South,738833,Debit Card,3,77.97
+1001842,2023-12-16,Beauty,503,Perfume,North,906114,PayPal,3,
+1001843,2024-07-12,Home,304,Vacuum,North,816942,PayPal,1,150.91
+1001844,2024-08-17,Electronics,103,Headphones,West,673190,Debit Card,2,155.02
+1001845,2024-04-07,Beauty,504,Moisturizer,East,765696,Cash,1,26.21
+1001846,2023-07-04,Electronics,101,Smartphone,East,917303,Debit Card,5,684.92
+1001847,2024-07-06,Books,403,Cookbook,West,580531,Bank Transfer,3,23.43
+1001848,2023-12-20,Home,302,Coffee Maker,West,864183,Bank Transfer,5,80.95
+1001849,2023-08-28,Beauty,504,Moisturizer,East,620769,Cash,4,23.98
+1001850,2023-12-16,Books,402,Science Textbook,West,691128,Credit Card,5,77.43
+1001851,2023-01-28,Books,403,Cookbook,East,665577,Credit Card,3,22.70
+1001852,2023-11-06,Electronics,102,Laptop,West,725945,Debit Card,2,1277.99
+1001853,2023-09-10,Clothing,202,Jeans,East,863883,Bank Transfer,4,52.11
+1001854,2023-07-24,Beauty,503,Perfume,South,800086,Credit Card,1,
+1001855,2024-03-30,Clothing,202,Jeans,East,680551,PayPal,5,49.12
+1001856,2023-10-06,Beauty,501,Lipstick,East,650130,Cash,3,16.74
+1001857,2024-03-07,Clothing,202,Jeans,West,620488,Debit Card,3,51.42
+1001858,2023-03-12,Books,401,Fiction Novel,East,705841,Debit Card,4,16.24
+1001859,2023-03-29,Home,301,Blender,East,665761,Bank Transfer,4,39.68
+1001860,2023-08-30,Books,403,Cookbook,East,661383,Debit Card,2,27.14
+1001861,2023-01-31,Home,301,Blender,South,620524,PayPal,2,36.68
+1001862,2023-06-22,Beauty,503,Perfume,East,668946,Cash,3,60.41
+1001863,2024-07-28,Books,402,Science Textbook,East,813548,Cash,2,82.57
+1001864,2023-01-05,Electronics,103,Headphones,South,891661,PayPal,5,149.07
+1001865,2024-07-21,Electronics,103,Headphones,South,892715,PayPal,2,152.49
+1001866,2024-07-07,Home,301,Blender,North,655499,PayPal,5,38.45
+1001867,2023-09-01,Electronics,101,Smartphone,East,549465,Credit Card,1,719.57
+1001868,2024-01-22,Clothing,201,T-Shirt,South,644605,Bank Transfer,4,18.50
+1001869,2024-12-27,Home,304,Vacuum,East,992836,Debit Card,1,143.15
+1001870,2023-06-12,Clothing,203,Jacket,South,907529,Debit Card,2,78.44
+1001871,2024-01-25,Books,402,Science Textbook,South,645550,Bank Transfer,2,73.65
+1001872,2023-10-06,Clothing,202,Jeans,North,734259,Debit Card,1,51.34
+1001873,2024-11-02,Electronics,102,Laptop,West,909686,Debit Card,2,1316.48
+1001874,2023-08-21,Clothing,203,Jacket,West,546194,Credit Card,5,81.79
+1001875,2023-02-03,Home,302,Coffee Maker,South,838555,Bank Transfer,2,79.79
+1001876,2023-08-21,Clothing,202,Jeans,South,682384,Debit Card,4,53.71
+1001877,2024-11-28,Beauty,501,Lipstick,East,838878,PayPal,1,19.62
+1001878,2023-07-20,Clothing,201,T-Shirt,South,791097,Bank Transfer,5,18.83
+1001879,2024-12-11,Home,301,Blender,,531788,Debit Card,2,36.67
+1001880,2024-02-15,Books,402,Science Textbook,West,826530,PayPal,4,80.62
+1001881,2024-07-09,Home,304,Vacuum,West,859161,Cash,1,153.26
+1001882,2023-12-03,Home,304,Vacuum,North,885479,Credit Card,2,142.15
+1001883,2023-09-07,Home,301,Blender,South,679682,Cash,5,39.67
+1001884,2023-02-16,Home,301,Blender,North,902251,Cash,1,39.87
+1001885,2023-02-03,Clothing,203,Jacket,East,549897,Cash,2,80.09
+1001886,2024-12-21,Clothing,203,Jacket,East,750739,PayPal,2,79.75
+1001887,2024-06-14,Beauty,503,Perfume,West,620776,Bank Transfer,3,59.67
+1001888,2023-10-11,Clothing,201,T-Shirt,North,823768,Debit Card,5,21.28
+1001889,2023-10-07,Clothing,203,Jacket,West,852942,Credit Card,5,86.52
+1001890,2024-11-10,Electronics,103,Headphones,West,611855,PayPal,1,145.28
+1001891,2023-11-17,Electronics,103,Headphones,South,786044,Bank Transfer,3,160.62
+1001892,2024-06-17,Electronics,103,Headphones,North,813797,Credit Card,2,149.03
+1001893,2023-04-06,Home,302,Coffee Maker,North,713095,PayPal,5,83.75
+1001894,2024-10-13,Home,304,Vacuum,East,835255,Cash,2,151.01
+1001895,2024-02-09,Clothing,203,Jacket,South,529614,Cash,4,82.17
+1001896,2023-10-30,Home,304,Vacuum,West,634750,PayPal,1,137.55
+1001897,2023-08-19,Home,301,Blender,South,531531,PayPal,4,41.21
+1001898,2024-01-25,Electronics,102,Laptop,,809000,Cash,4,1171.57
+1001899,2024-03-24,Books,402,Science Textbook,East,940575,Credit Card,5,84.40
+1001900,2024-11-12,Home,302,Coffee Maker,East,706896,Cash,1,78.06
+1001901,2023-02-16,Electronics,101,Smartphone,West,670841,Credit Card,5,689.42
+1001902,2023-12-12,Beauty,501,Lipstick,East,587841,Debit Card,3,17.06
+1001903,2024-12-09,Clothing,203,Jacket,East,954007,Credit Card,1,79.47
+1001904,2024-12-03,Electronics,103,Headphones,West,730084,Credit Card,4,159.16
+1001905,2024-07-01,Clothing,202,Jeans,West,674358,Cash,3,50.09
+1001906,2024-01-17,Home,301,Blender,East,542546,PayPal,1,43.94
+1001907,2024-06-06,Electronics,102,Laptop,South,768789,Credit Card,4,1260.80
+1001908,2024-06-10,Books,401,Fiction Novel,West,600608,Debit Card,1,15.64
+1001909,2023-01-02,Home,301,Blender,South,650012,Debit Card,3,42.27
+1001910,2023-12-21,Beauty,501,Lipstick,East,941858,PayPal,2,17.13
+1001911,2023-03-02,Beauty,501,Lipstick,North,776837,PayPal,1,16.51
+1001912,2024-01-06,Beauty,504,Moisturizer,West,729538,Bank Transfer,2,27.17
+1001913,2023-12-09,Clothing,201,T-Shirt,East,927428,Bank Transfer,2,18.48
+1001914,2024-11-13,Clothing,202,Jeans,West,819219,Credit Card,5,46.55
+1001915,2023-05-09,Home,302,Coffee Maker,South,521637,PayPal,5,74.68
+1001916,2024-03-11,Beauty,501,Lipstick,West,779605,Cash,3,17.74
+1001917,2024-08-14,Books,401,Fiction Novel,North,709657,Bank Transfer,5,15.74
+1001918,2024-10-31,Clothing,202,Jeans,West,823484,Credit Card,3,45.81
+1001919,2024-10-17,Beauty,503,Perfume,West,861885,Cash,4,55.44
+1001920,2023-07-05,Electronics,102,Laptop,East,679119,Debit Card,2,1120.16
+1001921,2024-12-11,Electronics,102,Laptop,South,774382,Debit Card,5,1178.22
+1001922,2023-05-06,Electronics,103,Headphones,West,802434,Cash,2,137.21
+1001923,2023-09-13,Home,301,Blender,North,886646,Credit Card,1,37.37
+1001924,2023-05-14,Clothing,201,T-Shirt,East,843582,Cash,2,18.64
+1001925,2023-11-27,Electronics,101,Smartphone,North,919676,Debit Card,1,639.98
+1001926,2024-09-28,Beauty,501,Lipstick,East,754517,Credit Card,3,16.88
+1001927,2024-02-16,Electronics,103,Headphones,West,518091,PayPal,5,150.75
+1001928,2024-06-19,Home,302,Coffee Maker,South,592620,Cash,1,73.06
+1001929,2023-06-01,Beauty,501,Lipstick,East,531727,Bank Transfer,4,16.24
+1001930,2023-05-26,Beauty,501,Lipstick,South,612870,Bank Transfer,1,18.93
+1001931,2024-02-09,Clothing,201,T-Shirt,West,612408,PayPal,5,20.30
+1001932,2024-07-13,Clothing,201,T-Shirt,South,836892,Bank Transfer,1,20.45
+1001933,2023-01-02,Clothing,202,Jeans,North,501813,Bank Transfer,4,45.48
+1001934,2024-12-13,Home,304,Vacuum,South,748002,Bank Transfer,5,146.29
+1001935,2024-11-18,Beauty,504,Moisturizer,South,531130,PayPal,3,27.27
+1001936,2023-03-11,Home,304,Vacuum,West,979868,Debit Card,5,152.79
+1001937,2024-03-28,Home,301,Blender,East,872529,Cash,3,37.30
+1001938,2023-12-29,Electronics,103,Headphones,North,979910,Cash,2,143.12
+1001939,2024-08-11,Electronics,102,Laptop,North,780308,Cash,5,1145.08
+1001940,2024-09-16,Electronics,103,Headphones,South,727118,Cash,5,138.32
+1001941,2024-07-14,Home,301,Blender,East,940876,PayPal,2,41.86
+1001942,2023-02-12,Clothing,202,Jeans,North,692433,Cash,3,50.70
+1001943,2024-01-31,Clothing,201,T-Shirt,South,584177,PayPal,3,21.11
+1001944,2024-11-24,Clothing,203,Jacket,South,873348,Credit Card,4,75.97
+1001945,2023-11-17,Beauty,504,Moisturizer,South,595601,Bank Transfer,4,24.94
+1001946,2024-06-15,Home,301,Blender,West,594033,Bank Transfer,5,36.77
+1001947,2024-07-04,Home,304,Vacuum,South,904916,Cash,1,161.63
+1001948,2024-09-12,Electronics,101,Smartphone,West,733017,Cash,1,673.98
+1001949,2024-03-03,Electronics,102,Laptop,East,858786,Bank Transfer,3,1182.19
+1001950,2024-07-08,Clothing,203,Jacket,West,890221,PayPal,3,84.24
+1001951,2023-08-03,Home,302,Coffee Maker,South,986445,Debit Card,3,73.96
+1001952,2023-11-03,Beauty,504,Moisturizer,South,676048,PayPal,3,23.15
+1001953,2024-11-06,Home,302,Coffee Maker,North,803531,Credit Card,1,79.54
+1001954,2023-03-18,Home,302,Coffee Maker,North,712265,Cash,2,83.90
+1001955,2024-08-14,Electronics,101,Smartphone,North,756424,PayPal,5,655.48
+1001956,2024-05-03,Books,402,Science Textbook,West,514307,Cash,3,
+1001957,2023-02-22,Electronics,102,Laptop,East,641442,PayPal,3,1212.28
+1001958,2023-04-19,Beauty,504,Moisturizer,North,890243,Bank Transfer,1,26.58
+1001959,2024-12-18,Books,403,Cookbook,East,737213,Bank Transfer,3,25.78
+1001960,2024-04-19,Books,402,Science Textbook,East,750516,Credit Card,5,74.81
+1001961,2023-07-10,Electronics,103,Headphones,East,838094,Credit Card,5,137.57
+1001962,2023-07-16,Clothing,202,Jeans,East,546695,Bank Transfer,,47.21
+1001963,2024-05-24,Electronics,102,Laptop,North,986025,Cash,5,1160.43
+1001964,2023-03-18,Beauty,501,Lipstick,North,537564,Cash,1,16.41
+1001965,2023-11-28,Books,403,Cookbook,East,690349,Credit Card,5,25.11
+1001966,2024-04-28,Home,304,Vacuum,West,829969,Cash,4,146.48
+1001967,2023-06-21,Electronics,102,Laptop,West,884284,Credit Card,1,1210.95
+1001968,2023-10-11,Books,401,Fiction Novel,West,638123,Bank Transfer,1,16.01
+1001969,2024-07-25,Home,304,Vacuum,East,517899,Credit Card,4,135.36
+1001970,2023-07-31,Clothing,201,T-Shirt,West,740010,Credit Card,2,19.83
+1001971,2024-08-31,Clothing,201,T-Shirt,South,930142,Debit Card,2,19.47
+1001972,2023-12-07,Clothing,203,Jacket,North,979563,Bank Transfer,3,81.89
+1001973,2023-03-27,Books,401,Fiction Novel,North,584875,Debit Card,2,14.64
+1001974,2024-02-10,Home,302,Coffee Maker,West,810441,Debit Card,3,73.21
+1001975,2024-07-15,Books,402,Science Textbook,West,584845,Debit Card,2,75.20
+1001976,2024-01-14,Clothing,203,Jacket,South,697188,PayPal,1,76.69
+1001977,2024-02-10,Clothing,203,Jacket,North,698851,Credit Card,1,87.56
+1001978,2023-03-30,Beauty,504,Moisturizer,South,623678,PayPal,3,26.70
+1001979,2024-04-16,Home,302,Coffee Maker,North,838351,PayPal,,87.14
+1001980,2023-10-11,Beauty,504,Moisturizer,West,985963,Bank Transfer,1,25.88
+1001981,2023-09-28,Beauty,503,Perfume,West,506692,Bank Transfer,3,58.83
+1001982,2024-01-21,Beauty,503,Perfume,West,772096,Cash,4,54.13
+1001983,2024-03-19,Home,304,Vacuum,South,914457,Debit Card,3,135.89
+1001984,2023-07-30,Electronics,103,Headphones,West,852890,Debit Card,4,149.75
+1001985,2024-01-07,Home,304,Vacuum,North,569973,Credit Card,5,153.78
+1001986,2023-05-15,Books,401,Fiction Novel,South,865434,Credit Card,3,16.12
+1001987,2024-02-19,Electronics,101,Smartphone,West,659455,Bank Transfer,2,747.32
+1001988,2024-09-02,Home,302,Coffee Maker,South,736427,Credit Card,5,79.29
+1001989,2023-05-06,Beauty,501,Lipstick,North,864903,PayPal,5,16.37
+1001990,2024-07-19,Beauty,503,Perfume,South,900124,Bank Transfer,3,55.40
+1001991,2023-08-04,Electronics,101,Smartphone,North,849049,Bank Transfer,4,667.98
+1001992,2023-03-07,Beauty,503,Perfume,West,697101,PayPal,3,57.99
+1001993,2024-02-29,Home,301,Blender,South,875837,Bank Transfer,3,37.67
+1001994,2024-08-22,Home,301,Blender,East,947929,Credit Card,2,39.18
+1001995,2024-09-02,Books,401,Fiction Novel,North,583552,Bank Transfer,2,15.73
+1001996,2024-06-12,Clothing,201,T-Shirt,West,791617,Debit Card,3,18.40
+1001997,2023-11-18,Home,301,Blender,West,799812,Credit Card,2,41.43
+1001998,2024-10-16,Home,302,Coffee Maker,South,610100,Cash,5,82.41
+1001999,2023-05-27,Electronics,103,Headphones,South,656932,Debit Card,4,148.70
+1002000,2023-05-19,Books,402,Science Textbook,South,907731,Bank Transfer,4,73.40
+1002001,2023-06-20,Electronics,102,Laptop,West,975926,Bank Transfer,1,1317.56
+1002002,2024-09-03,Books,401,Fiction Novel,,502851,PayPal,5,15.51
+1002003,2023-08-09,Home,301,Blender,East,861875,Cash,4,39.89
+1002004,2024-01-24,Electronics,103,Headphones,South,669642,PayPal,2,157.43
+1002005,2024-08-23,Electronics,103,Headphones,South,864943,Credit Card,4,143.25
+1002006,2023-03-16,Clothing,201,T-Shirt,North,981290,Bank Transfer,4,20.59
+1002007,2024-08-02,Electronics,101,Smartphone,West,827805,Debit Card,3,657.68
+1002008,2024-05-07,Beauty,503,Perfume,North,505792,Bank Transfer,3,64.26
+1002009,2023-12-19,Electronics,103,Headphones,South,839395,Credit Card,4,157.52
+1002010,2023-08-04,Clothing,202,Jeans,South,623135,Credit Card,3,47.12
+1002011,2023-05-14,Home,304,Vacuum,South,604115,Bank Transfer,1,149.27
+1002012,2024-06-22,Books,403,Cookbook,West,880072,Bank Transfer,4,25.68
+1002013,2024-08-10,Books,403,Cookbook,South,703977,Bank Transfer,4,25.22
+1002014,2024-08-25,Books,401,Fiction Novel,West,793010,Cash,5,13.57
+1002015,2023-05-15,Clothing,201,T-Shirt,West,919573,Bank Transfer,4,20.32
+1002016,2024-01-03,Electronics,103,Headphones,North,984031,PayPal,1,164.98
+1002017,2023-10-18,Books,402,Science Textbook,West,755095,PayPal,3,79.02
+1002018,2024-09-12,Electronics,101,Smartphone,West,642984,Bank Transfer,2,708.93
+1002019,2024-07-08,Home,304,Vacuum,North,672909,PayPal,2,158.82
+1002020,2024-06-30,Electronics,102,Laptop,West,926795,Cash,4,1295.83
+1002021,2024-08-19,Beauty,501,Lipstick,North,602952,Cash,3,17.11
+1002022,2023-12-17,Beauty,504,Moisturizer,South,860300,Debit Card,3,25.65
+1002023,2024-05-16,Electronics,101,Smartphone,West,812484,Credit Card,5,764.07
+1002024,2024-08-26,Home,304,Vacuum,West,517440,Cash,3,154.99
+1002025,2023-02-08,Electronics,103,Headphones,South,613073,Bank Transfer,2,159.24
+1002026,2023-02-14,Clothing,202,Jeans,West,935285,Debit Card,5,48.02
+1002027,2024-02-08,Electronics,102,Laptop,North,559150,PayPal,3,1090.85
+1002028,2023-05-25,Electronics,101,Smartphone,West,796723,Debit Card,3,651.06
+1002029,2024-02-13,Beauty,503,Perfume,West,665773,Cash,4,55.73
+1002030,2023-08-18,Electronics,101,Smartphone,North,636484,Cash,4,654.59
+1002031,2023-05-09,Clothing,201,T-Shirt,West,683787,Bank Transfer,2,18.56
+1002032,2023-03-31,Electronics,103,Headphones,,963059,Cash,5,146.01
+1002033,2024-12-27,Beauty,504,Moisturizer,West,542135,Cash,2,27.22
+1002034,2023-02-03,Beauty,504,Moisturizer,North,947547,Bank Transfer,4,24.52
+1002035,2024-02-04,Books,401,Fiction Novel,West,717467,Debit Card,5,
+1002036,2023-06-15,Clothing,201,T-Shirt,South,630358,Credit Card,1,20.94
+1002037,2023-08-04,Clothing,202,Jeans,North,761982,Cash,4,52.68
+1002038,2024-09-19,Clothing,202,Jeans,South,650843,PayPal,3,54.09
+1002039,2024-01-20,Home,302,Coffee Maker,East,696833,PayPal,2,76.44
+1002040,2024-08-15,Beauty,503,Perfume,North,645516,Cash,4,56.64
+1002041,2024-03-01,Clothing,203,Jacket,West,777498,Credit Card,2,78.23
+1002042,2024-01-10,Clothing,201,T-Shirt,West,984072,Credit Card,2,20.81
+1002043,2023-08-09,Home,304,Vacuum,North,711790,Cash,4,154.76
+1002044,2024-06-22,Home,302,Coffee Maker,South,911038,Debit Card,3,83.62
+1002045,2023-02-24,Electronics,101,Smartphone,South,503550,Debit Card,4,681.53
+1002046,2024-08-07,Beauty,504,Moisturizer,West,592357,Debit Card,4,24.47
+1002047,2023-02-12,Home,304,Vacuum,East,604376,Credit Card,3,159.29
+1002048,2024-03-01,Books,403,Cookbook,West,730758,Debit Card,1,27.07
+1002049,2024-08-12,Beauty,501,Lipstick,North,772514,Cash,5,17.85
+1002050,2024-07-04,Beauty,501,Lipstick,North,796443,Credit Card,2,19.09
+1002051,2023-08-03,Clothing,202,Jeans,South,690653,PayPal,4,45.47
+1002052,2024-06-05,Clothing,202,Jeans,South,702114,Debit Card,4,51.31
+1002053,2024-03-31,Home,302,Coffee Maker,South,580674,Debit Card,3,86.39
+1002054,2024-10-29,Home,301,Blender,North,515207,PayPal,2,38.98
+1002055,2024-12-20,Electronics,103,Headphones,East,608363,PayPal,5,163.89
+1002056,2024-06-13,Home,304,Vacuum,South,722643,Cash,4,147.60
+1002057,2023-04-22,Clothing,202,Jeans,North,528001,Debit Card,5,48.16
+1002058,2023-06-26,Beauty,503,Perfume,West,934042,Credit Card,5,64.13
+1002059,2023-11-23,Electronics,102,Laptop,North,625215,Credit Card,3,1263.27
+1002060,2024-04-08,Beauty,504,Moisturizer,South,864614,Cash,4,22.63
+1002061,2024-06-06,Home,302,Coffee Maker,West,865674,Debit Card,3,72.39
+1002062,2024-07-10,Books,402,Science Textbook,North,741646,Debit Card,2,77.20
+1002063,2023-11-10,Beauty,501,Lipstick,East,786250,Bank Transfer,4,19.34
+1002064,2023-03-31,Clothing,202,Jeans,North,976364,Debit Card,3,53.44
+1002065,2023-12-17,Clothing,203,Jacket,North,539978,PayPal,5,73.23
+1002066,2023-04-28,Beauty,503,Perfume,South,946647,Bank Transfer,1,58.76
+1002067,2024-06-17,Home,302,Coffee Maker,East,950366,Credit Card,3,87.34
+1002068,2024-12-06,Clothing,203,Jacket,East,517430,Credit Card,5,83.96
+1002069,2024-06-06,Home,301,Blender,East,834970,Cash,4,41.57
+1002070,2024-02-21,Home,304,Vacuum,North,882407,Bank Transfer,1,139.57
+1002071,2024-05-10,Clothing,203,Jacket,East,639802,Cash,1,84.78
+1002072,2023-01-11,Clothing,201,T-Shirt,North,645744,Debit Card,3,21.58
+1002073,2023-02-25,Electronics,102,Laptop,East,915734,PayPal,2,1175.40
+1002074,2024-02-27,Beauty,501,Lipstick,East,980627,Cash,5,16.60
+1002075,2023-03-08,Beauty,501,Lipstick,South,743085,Credit Card,5,19.28
+1002076,2024-08-12,Beauty,504,Moisturizer,South,937775,Debit Card,3,24.86
+1002077,2024-11-14,Beauty,503,Perfume,West,696276,Credit Card,3,54.40
+1002078,2024-04-27,Home,304,Vacuum,East,839161,Credit Card,2,139.93
+1002079,2023-10-24,Electronics,101,Smartphone,South,509077,Debit Card,5,747.46
+1002080,2023-06-20,Clothing,203,Jacket,North,729282,Debit Card,4,84.84
+1002081,2024-01-05,Beauty,503,Perfume,North,588886,Debit Card,3,65.88
+1002082,2024-03-19,Clothing,202,Jeans,South,745665,Debit Card,5,51.85
+1002083,2024-11-19,Electronics,103,Headphones,West,600716,Bank Transfer,2,162.11
+1002084,2023-01-23,Home,302,Coffee Maker,East,875835,PayPal,2,75.04
+1002085,2024-03-26,Beauty,501,Lipstick,South,638156,Debit Card,4,16.29
+1002086,2024-03-16,Electronics,101,Smartphone,North,753185,Credit Card,5,670.75
+1002087,2023-10-18,Electronics,103,Headphones,North,621500,PayPal,4,152.01
+1002088,2023-04-04,Books,403,Cookbook,North,918701,Cash,4,27.12
+1002089,2024-09-27,Home,304,Vacuum,South,640879,Credit Card,2,137.87
+1002090,2023-04-28,Clothing,201,T-Shirt,East,899696,Credit Card,5,19.38
+1002091,2024-03-20,Books,403,Cookbook,East,934431,Bank Transfer,1,25.85
+1002092,2023-09-14,Home,301,Blender,West,934021,Bank Transfer,1,43.58
+1002093,2024-01-09,Books,401,Fiction Novel,South,788323,Debit Card,5,15.51
+1002094,2024-01-03,Electronics,101,Smartphone,East,869703,PayPal,4,660.70
+1002095,2024-11-06,Books,401,Fiction Novel,West,893936,Credit Card,2,13.89
+1002096,2024-10-07,Books,403,Cookbook,North,979269,PayPal,4,23.24
+1002097,2023-12-24,Beauty,504,Moisturizer,North,576319,Credit Card,4,22.73
+1002098,2024-05-13,Electronics,102,Laptop,West,577602,PayPal,1,1173.66
+1002099,2024-05-25,Electronics,102,Laptop,East,920004,Debit Card,2,1234.73
+1002100,2023-05-30,Books,402,Science Textbook,South,592003,Bank Transfer,2,77.93
+1002101,2023-11-26,Electronics,103,Headphones,South,854944,Cash,2,144.34
+1002102,2024-01-13,Books,403,Cookbook,North,620474,Debit Card,1,27.47
+1002103,2024-05-08,Home,302,Coffee Maker,North,744370,Cash,3,83.21
+1002104,2023-03-07,Electronics,102,Laptop,South,978868,Debit Card,4,1134.12
+1002105,2023-03-06,Beauty,501,Lipstick,West,756008,Bank Transfer,1,17.57
+1002106,2023-05-05,Beauty,501,Lipstick,North,574833,Bank Transfer,2,19.46
+1002107,2024-02-03,Books,402,Science Textbook,West,706567,Cash,3,86.75
+1002108,2023-05-01,Electronics,102,Laptop,West,771772,PayPal,4,1293.91
+1002109,2023-11-17,Clothing,201,T-Shirt,South,948071,PayPal,3,21.62
+1002110,2023-06-06,Beauty,501,Lipstick,South,676168,PayPal,4,16.85
+1002111,2024-03-02,Home,301,Blender,East,651657,Credit Card,2,42.01
+1002112,2023-11-21,Beauty,501,Lipstick,North,603240,Cash,1,17.55
+1002113,2023-01-28,Clothing,203,Jacket,South,578017,Debit Card,5,74.10
+1002114,2023-08-24,Beauty,503,Perfume,West,929590,Bank Transfer,3,62.96
+1002115,2024-07-21,Books,402,Science Textbook,East,903862,Credit Card,1,76.40
+1002116,2023-03-13,Home,301,Blender,North,880296,Debit Card,5,36.52
+1002117,2023-11-24,Home,301,Blender,West,609529,Debit Card,4,41.91
+1002118,2024-08-04,Electronics,103,Headphones,West,857920,Debit Card,2,136.94
+1002119,2023-03-17,Electronics,101,Smartphone,North,810761,Bank Transfer,1,644.80
+1002120,2024-10-26,Books,402,Science Textbook,North,821689,Credit Card,2,76.82
+1002121,2024-02-11,Home,302,Coffee Maker,East,787537,Bank Transfer,2,74.57
+1002122,2024-06-16,Electronics,102,Laptop,South,719239,Bank Transfer,4,1197.17
+1002123,2023-06-02,Clothing,203,Jacket,South,964530,Bank Transfer,1,85.10
+1002124,2024-09-15,Electronics,103,Headphones,West,898762,Credit Card,1,162.68
+1002125,2024-03-30,Electronics,103,Headphones,South,611245,PayPal,3,143.56
+1002126,2023-02-06,Clothing,202,Jeans,East,553953,Bank Transfer,1,45.10
+1002127,2024-07-16,Home,301,Blender,West,919474,Credit Card,1,40.67
+1002128,2024-11-08,Clothing,203,Jacket,South,979338,Credit Card,1,76.33
+1002129,2023-11-02,Clothing,202,Jeans,North,601793,Bank Transfer,1,47.29
+1002130,2023-12-11,Books,403,Cookbook,South,600238,Bank Transfer,1,26.97
+1002131,2024-11-01,Home,301,Blender,West,951646,Cash,1,41.02
+1002132,2024-09-16,Clothing,201,T-Shirt,North,829578,Credit Card,2,20.54
+1002133,2023-12-28,Electronics,102,Laptop,West,579263,PayPal,5,1243.28
+1002134,2024-11-24,Home,304,Vacuum,North,779243,Credit Card,1,146.10
+1002135,2024-02-19,Beauty,504,Moisturizer,East,646215,Debit Card,3,26.99
+1002136,2023-02-05,Electronics,103,Headphones,North,687639,Cash,3,147.03
+1002137,2023-04-27,Books,401,Fiction Novel,North,599705,Debit Card,3,14.46
+1002138,2024-09-19,Beauty,501,Lipstick,South,508465,Cash,1,16.42
+1002139,2023-09-15,Home,302,Coffee Maker,West,680773,PayPal,3,78.66
+1002140,2023-07-17,Clothing,203,Jacket,West,544421,Debit Card,1,87.76
+1002141,2023-05-08,Home,301,Blender,East,638310,Debit Card,5,42.07
+1002142,2024-04-10,Beauty,503,Perfume,East,935019,Bank Transfer,4,65.75
+1002143,2023-01-05,Home,304,Vacuum,North,817045,Cash,5,152.15
+1002144,2023-10-23,Home,301,Blender,West,747458,Cash,2,42.13
+1002145,2024-10-02,Electronics,103,Headphones,West,818945,PayPal,3,151.62
+1002146,2024-08-01,Electronics,102,Laptop,East,837566,Credit Card,2,1152.15
+1002147,2024-04-30,Electronics,102,Laptop,South,681607,Credit Card,5,1268.36
+1002148,2024-12-17,Home,304,Vacuum,West,650830,Cash,2,159.19
+1002149,2023-03-27,Books,403,Cookbook,East,663426,Cash,1,25.50
+1002150,2024-07-25,Beauty,504,Moisturizer,East,655924,Debit Card,1,23.95
+1002151,2024-11-30,Electronics,101,Smartphone,North,510235,Cash,1,650.59
+1002152,2024-03-16,Electronics,101,Smartphone,West,906953,Credit Card,5,757.61
+1002153,2024-02-13,Beauty,503,Perfume,North,537112,Credit Card,3,64.21
+1002154,2024-07-06,Books,401,Fiction Novel,West,685990,Cash,3,15.33
+1002155,2024-04-10,Books,402,Science Textbook,South,845599,Debit Card,2,73.29
+1002156,2023-11-30,Books,403,Cookbook,West,880175,Cash,2,25.55
+1002157,2024-09-30,Clothing,201,T-Shirt,East,675712,Bank Transfer,5,18.78
+1002158,2023-01-17,Electronics,103,Headphones,West,742425,PayPal,3,140.67
+1002159,2023-04-08,Books,401,Fiction Novel,East,635603,Bank Transfer,5,15.65
+1002160,2023-04-18,Electronics,102,Laptop,South,608729,Bank Transfer,2,1217.69
+1002161,2023-09-26,Home,302,Coffee Maker,South,506778,Bank Transfer,5,83.87
+1002162,2023-02-14,Beauty,504,Moisturizer,West,780022,Debit Card,4,26.40
+1002163,2023-09-04,Beauty,503,Perfume,North,734543,Cash,2,57.54
+1002164,2024-09-25,Clothing,202,Jeans,North,719042,Credit Card,3,50.98
+1002165,2023-05-26,Home,301,Blender,South,593875,Cash,3,38.24
+1002166,2024-12-17,Clothing,203,Jacket,South,999782,Credit Card,2,73.84
+1002167,2024-07-21,Clothing,202,Jeans,South,884900,Credit Card,5,51.22
+1002168,2024-07-07,Clothing,201,T-Shirt,North,898358,Cash,3,21.99
+1002169,2023-02-02,Books,403,Cookbook,West,558316,Credit Card,1,26.71
+1002170,2024-08-22,Clothing,201,T-Shirt,East,935467,Debit Card,4,20.35
+1002171,2023-09-29,Home,302,Coffee Maker,South,645977,Debit Card,2,82.66
+1002172,2024-07-29,Electronics,101,Smartphone,West,778456,Bank Transfer,2,729.32
+1002173,2024-02-21,Books,402,Science Textbook,West,781857,PayPal,3,77.66
+1002174,2024-04-15,Home,302,Coffee Maker,West,834986,Credit Card,2,74.56
+1002175,2023-03-08,Home,304,Vacuum,West,854136,Credit Card,5,143.90
+1002176,2024-09-19,Home,304,Vacuum,North,989825,Credit Card,5,162.32
+1002177,2024-09-25,,402,Science Textbook,West,883404,Cash,4,74.41
+1002178,2024-11-06,Books,402,Science Textbook,West,584393,Bank Transfer,5,80.46
+1002179,2024-12-22,Home,302,Coffee Maker,North,517486,Bank Transfer,2,73.68
+1002180,2024-03-17,Beauty,503,Perfume,West,717457,Bank Transfer,1,62.45
+1002181,2024-04-01,Books,401,Fiction Novel,North,675126,Debit Card,2,15.21
+1002182,2024-11-12,Beauty,504,Moisturizer,South,814661,Credit Card,4,23.27
+1002183,2023-01-16,Home,302,Coffee Maker,West,979024,Cash,1,
+1002184,2023-07-18,Home,304,Vacuum,East,770842,Credit Card,2,158.94
+1002185,2024-05-05,Clothing,203,Jacket,East,997068,PayPal,4,85.69
+1002186,2024-12-10,Electronics,101,Smartphone,West,922955,Debit Card,5,718.47
+1002187,2023-11-27,Beauty,504,Moisturizer,East,625722,Bank Transfer,2,26.31
+1002188,2023-04-02,Electronics,102,Laptop,East,576151,Credit Card,2,1284.28
+1002189,2023-02-14,Beauty,501,Lipstick,South,572195,Bank Transfer,3,18.55
+1002190,2023-11-08,Beauty,501,Lipstick,West,822381,PayPal,1,16.71
+1002191,2024-10-02,Home,304,Vacuum,West,546655,Bank Transfer,3,158.82
+1002192,2023-08-23,Home,304,Vacuum,West,519112,Cash,3,160.66
+1002193,2024-12-09,Books,401,Fiction Novel,South,552418,Credit Card,5,14.65
+1002194,2024-08-26,Beauty,504,Moisturizer,East,818548,Debit Card,5,26.94
+1002195,2023-03-23,Clothing,203,Jacket,South,512524,Bank Transfer,4,78.06
+1002196,2024-04-08,Books,403,Cookbook,West,670754,Debit Card,4,26.41
+1002197,2024-08-07,Home,302,Coffee Maker,South,843508,Cash,2,80.53
+1002198,2024-05-29,Home,301,Blender,West,571002,Bank Transfer,3,41.22
+1002199,2023-12-15,Beauty,504,Moisturizer,South,864181,Bank Transfer,2,24.13
+1002200,2023-03-21,Clothing,201,T-Shirt,West,557108,Bank Transfer,1,21.13
+1002201,2023-03-22,Beauty,503,Perfume,,565892,Bank Transfer,2,61.78
+1002202,2024-07-27,Clothing,202,Jeans,East,871927,Debit Card,3,48.41
+1002203,2024-11-09,Books,403,Cookbook,East,932724,Cash,2,25.93
+1002204,2024-04-03,Books,402,Science Textbook,East,993658,Cash,3,78.54
+1002205,2023-10-15,Clothing,202,Jeans,East,839729,PayPal,2,48.69
+1002206,2024-09-01,Clothing,202,Jeans,East,660017,Cash,2,51.58
+1002207,2023-11-13,Books,403,Cookbook,West,843501,Credit Card,4,22.70
+1002208,2024-07-17,Home,304,Vacuum,South,601480,PayPal,1,136.27
+1002209,2023-12-07,Beauty,504,Moisturizer,North,944338,Bank Transfer,3,26.69
+1002210,2023-03-30,Home,302,Coffee Maker,South,510614,Credit Card,4,80.87
+1002211,2024-12-21,Home,304,Vacuum,East,575022,Cash,2,143.13
+1002212,2024-07-11,Home,304,Vacuum,East,725890,Credit Card,3,144.96
+1002213,2024-01-26,Beauty,504,Moisturizer,West,831975,Bank Transfer,1,27.13
+1002214,2023-09-01,Books,401,Fiction Novel,East,595866,PayPal,2,15.91
+1002215,2023-12-20,Books,402,Science Textbook,East,907177,Bank Transfer,4,79.83
+1002216,2023-05-30,Books,401,Fiction Novel,South,925390,Debit Card,2,15.86
+1002217,2023-01-05,Electronics,102,Laptop,West,782322,PayPal,1,1175.32
+1002218,2023-08-04,Clothing,202,Jeans,South,742929,Credit Card,3,51.43
+1002219,2023-05-03,Home,304,Vacuum,East,637307,Debit Card,2,138.85
+1002220,2024-03-11,Beauty,504,Moisturizer,South,637712,PayPal,5,24.43
+1002221,2023-07-24,Books,401,Fiction Novel,East,707555,Debit Card,5,15.42
+1002222,2024-07-18,Books,402,Science Textbook,South,507451,Credit Card,2,82.97
+1002223,2024-05-08,Electronics,101,Smartphone,North,555827,Bank Transfer,2,738.98
+1002224,2024-01-01,Electronics,101,Smartphone,,737049,Bank Transfer,4,752.14
+1002225,2023-08-13,Electronics,103,Headphones,East,738714,PayPal,1,162.54
+1002226,2024-10-08,Books,403,Cookbook,North,584583,Debit Card,3,27.21
+1002227,2023-06-07,Home,302,Coffee Maker,East,775886,PayPal,4,75.87
+1002228,2024-02-13,Clothing,203,Jacket,North,801133,Cash,3,74.43
+1002229,2023-06-09,Clothing,202,Jeans,West,624325,Cash,2,48.61
+1002230,2023-09-16,Clothing,201,T-Shirt,South,573961,Cash,1,20.16
+1002231,2024-09-19,Beauty,503,Perfume,North,811753,Debit Card,1,57.00
+1002232,2024-02-29,Home,301,Blender,,626892,Bank Transfer,2,41.82
+1002233,2024-09-28,Home,301,Blender,South,584828,PayPal,1,39.70
+1002234,2024-04-16,Books,403,Cookbook,North,749417,Debit Card,5,26.67
+1002235,2024-02-06,Beauty,504,Moisturizer,West,516222,Cash,1,24.15
+1002236,2023-10-27,Beauty,504,Moisturizer,South,909719,Bank Transfer,1,24.54
+1002237,2024-01-18,Electronics,101,Smartphone,East,871932,Cash,1,766.95
+1002238,2023-04-18,Books,403,Cookbook,South,689855,Credit Card,1,26.41
+1002239,2024-05-07,Electronics,103,Headphones,South,532386,Bank Transfer,1,159.99
+1002240,2024-07-08,Books,403,Cookbook,West,683581,Bank Transfer,5,26.40
+1002241,2023-09-25,Electronics,103,Headphones,North,704646,Cash,5,144.94
+1002242,2023-11-28,Electronics,103,Headphones,East,639046,PayPal,2,149.04
+1002243,2024-03-02,Clothing,201,T-Shirt,North,728429,Credit Card,4,19.54
+1002244,2024-02-20,Electronics,103,Headphones,North,891175,Bank Transfer,1,163.79
+1002245,2024-08-20,Books,401,Fiction Novel,West,602819,Bank Transfer,4,15.04
+1002246,2024-08-06,Clothing,201,T-Shirt,South,874179,Debit Card,2,19.45
+1002247,2024-11-04,Clothing,202,Jeans,West,868411,Bank Transfer,5,45.43
+1002248,2023-04-26,Books,401,Fiction Novel,East,942363,Debit Card,5,16.31
+1002249,2023-01-16,Clothing,202,Jeans,West,840654,Credit Card,3,52.67
+1002250,2024-09-06,Clothing,202,Jeans,West,947179,Credit Card,1,46.63
+1002251,2024-11-15,Electronics,102,Laptop,West,701078,Debit Card,2,1120.19
+1002252,2024-06-25,Home,302,Coffee Maker,North,503872,Debit Card,4,86.63
+1002253,2023-05-19,Electronics,103,Headphones,South,792378,Credit Card,4,151.21
+1002254,2024-08-09,Electronics,101,Smartphone,North,554971,Cash,4,639.81
+1002255,2024-04-18,Clothing,202,Jeans,North,912044,Credit Card,2,48.06
+1002256,2024-12-30,Clothing,202,Jeans,South,728944,Credit Card,2,49.77
+1002257,2023-03-21,Beauty,501,Lipstick,East,832632,Debit Card,4,19.20
+1002258,2024-01-17,Beauty,503,Perfume,West,581837,Credit Card,5,56.72
+1002259,2023-09-29,Home,304,Vacuum,North,504021,PayPal,4,137.95
+1002260,2023-08-03,Books,403,Cookbook,East,587163,Credit Card,1,25.53
+1002261,2024-12-09,Electronics,102,Laptop,West,543861,Bank Transfer,5,1202.95
+1002262,2023-05-26,Electronics,101,Smartphone,East,556167,Cash,4,643.49
+1002263,2023-07-30,Electronics,103,Headphones,South,542186,Bank Transfer,3,138.85
+1002264,2023-12-18,Clothing,203,Jacket,North,831930,PayPal,5,81.32
+1002265,2023-07-28,Electronics,101,Smartphone,North,705032,Bank Transfer,1,740.46
+1002266,2023-05-05,Electronics,103,Headphones,North,770343,Credit Card,5,161.49
+1002267,2023-05-03,Electronics,101,Smartphone,South,687213,Cash,3,658.13
+1002268,2024-07-29,Books,401,Fiction Novel,West,583403,Cash,4,15.62
+1002269,2023-03-24,Home,304,Vacuum,South,721611,Debit Card,2,155.88
+1002270,2023-12-25,Clothing,202,Jeans,North,828976,Bank Transfer,1,45.71
+1002271,2023-03-27,Clothing,201,T-Shirt,South,525538,Cash,4,19.62
+1002272,2024-10-12,Clothing,203,Jacket,North,984408,Debit Card,4,78.98
+1002273,2024-11-26,Electronics,101,Smartphone,North,569089,PayPal,4,697.81
+1002274,2023-12-17,Beauty,503,Perfume,East,585426,PayPal,2,54.87
+1002275,2023-02-03,,201,T-Shirt,North,796619,PayPal,2,21.30
+1002276,2023-10-31,Beauty,504,Moisturizer,East,550613,PayPal,5,23.49
+1002277,2023-04-16,Beauty,504,Moisturizer,South,724885,Cash,5,25.41
+1002278,2024-05-24,Clothing,202,Jeans,North,847651,Bank Transfer,3,52.86
+1002279,2023-05-01,Clothing,202,Jeans,South,626344,Cash,4,47.58
+1002280,2023-12-30,Clothing,203,Jacket,East,698571,Cash,4,73.52
+1002281,2024-03-19,Electronics,103,Headphones,West,742660,Debit Card,2,153.44
+1002282,2024-09-07,Home,301,Blender,South,555019,Cash,1,42.00
+1002283,2023-01-26,Books,402,Science Textbook,East,977124,Debit Card,1,78.83
+1002284,2023-07-03,Clothing,202,Jeans,South,760774,Cash,3,46.32
+1002285,2023-08-17,Books,402,Science Textbook,North,943808,PayPal,4,72.75
+1002286,2023-02-03,Home,304,Vacuum,South,573358,Debit Card,4,138.37
+1002287,2023-09-24,Clothing,203,Jacket,South,887253,Debit Card,2,82.23
+1002288,2024-03-31,Home,301,Blender,West,856623,Debit Card,3,43.33
+1002289,2024-07-07,Home,302,Coffee Maker,West,747877,Debit Card,2,79.79
+1002290,2024-04-10,Beauty,504,Moisturizer,North,632551,Cash,3,26.99
+1002291,2023-04-19,Books,403,Cookbook,East,566806,Debit Card,5,23.78
+1002292,2023-07-06,Books,401,Fiction Novel,North,973656,Credit Card,1,13.65
+1002293,2023-03-11,Clothing,203,Jacket,North,566748,PayPal,2,84.29
+1002294,2023-11-26,Clothing,201,T-Shirt,South,673305,Debit Card,3,19.45
+1002295,2024-06-11,Clothing,202,Jeans,East,702616,Credit Card,4,47.25
+1002296,2023-02-23,Electronics,102,Laptop,South,716982,Cash,4,1163.12
+1002297,2024-07-15,Books,402,Science Textbook,West,506818,Credit Card,1,76.77
+1002298,2024-10-23,Books,402,Science Textbook,East,778023,Credit Card,3,80.29
+1002299,2024-12-29,Clothing,203,Jacket,North,711991,Bank Transfer,1,86.92
+1002300,2024-09-28,Electronics,101,Smartphone,North,843042,PayPal,3,647.32
+1002301,2024-09-29,Beauty,504,Moisturizer,North,771532,Credit Card,2,24.99
+1002302,2023-11-14,Home,302,Coffee Maker,West,773995,Debit Card,4,75.50
+1002303,2023-05-07,Books,402,Science Textbook,West,891664,Credit Card,5,74.08
+1002304,2024-01-03,Books,403,Cookbook,South,560898,Bank Transfer,2,26.63
+1002305,2024-09-05,Electronics,102,Laptop,West,959070,Debit Card,4,1312.05
+1002306,2023-01-17,Beauty,504,Moisturizer,North,524282,Cash,5,22.93
+1002307,2024-11-05,Clothing,202,Jeans,East,613078,Bank Transfer,3,54.82
+1002308,2024-10-25,Beauty,503,Perfume,North,741022,Debit Card,2,54.95
+1002309,2023-07-10,Books,402,Science Textbook,North,770366,Debit Card,2,78.54
+1002310,2023-10-17,Electronics,101,Smartphone,North,548791,Cash,2,729.19
+1002311,2024-03-08,Beauty,503,Perfume,North,584156,Debit Card,5,60.83
+1002312,2024-06-03,Beauty,501,Lipstick,West,772086,Credit Card,1,18.55
+1002313,2024-12-10,Beauty,501,Lipstick,South,902524,PayPal,3,18.12
+1002314,2023-07-10,Home,304,Vacuum,West,743930,Bank Transfer,5,139.56
+1002315,2024-10-30,Clothing,203,Jacket,North,679183,Debit Card,4,79.16
+1002316,2024-02-09,Beauty,501,Lipstick,West,952791,Cash,1,18.11
+1002317,2023-01-20,Home,301,Blender,,594040,Cash,5,39.28
+1002318,2023-03-29,Electronics,102,Laptop,West,558455,Credit Card,1,1129.68
+1002319,2024-09-24,Electronics,101,Smartphone,South,720327,Credit Card,2,667.81
+1002320,2024-01-01,Books,401,Fiction Novel,East,774835,Bank Transfer,3,13.69
+1002321,2024-10-11,Home,304,Vacuum,East,867902,Bank Transfer,4,148.32
+1002322,2024-10-24,Electronics,103,Headphones,East,855194,PayPal,2,151.97
+1002323,2024-08-16,Home,302,Coffee Maker,West,594622,Cash,1,81.67
+1002324,2023-04-24,Clothing,203,Jacket,East,661371,Cash,1,78.38
+1002325,2024-12-22,Beauty,503,Perfume,East,812260,PayPal,5,63.12
+1002326,2023-05-19,Home,302,Coffee Maker,South,814521,Cash,4,84.03
+1002327,2023-07-15,Books,401,Fiction Novel,North,605597,Bank Transfer,1,16.37
+1002328,2024-07-13,Electronics,102,Laptop,West,816698,Cash,3,1176.72
+1002329,2024-10-21,Books,403,Cookbook,East,978232,PayPal,1,24.52
+1002330,2023-06-29,Clothing,203,Jacket,South,577251,Credit Card,2,87.83
+1002331,2024-08-24,Beauty,504,Moisturizer,East,812292,Debit Card,3,26.68
+1002332,2024-03-14,Electronics,103,Headphones,South,530120,Debit Card,3,137.43
+1002333,2024-11-22,Beauty,501,Lipstick,North,979779,Cash,1,16.37
+1002334,2024-03-20,Clothing,202,Jeans,North,516028,PayPal,2,50.43
+1002335,2024-09-25,Clothing,202,Jeans,North,561203,Cash,4,46.66
+1002336,2024-04-04,Beauty,504,Moisturizer,South,690961,Cash,4,23.38
+1002337,2023-07-28,Electronics,102,Laptop,North,921483,Cash,5,1228.41
+1002338,2023-11-02,Books,402,Science Textbook,West,887449,Credit Card,1,83.40
+1002339,2024-02-26,Beauty,504,Moisturizer,South,828671,Credit Card,4,23.55
+1002340,2023-12-18,Electronics,101,Smartphone,West,584277,Credit Card,4,674.22
+1002341,2024-04-30,Electronics,103,Headphones,West,610020,PayPal,2,137.54
+1002342,2023-12-24,Home,301,Blender,South,969307,Bank Transfer,2,38.22
+1002343,2024-08-15,Electronics,102,Laptop,North,698306,Cash,2,1281.00
+1002344,2024-02-07,Books,403,Cookbook,North,929305,Debit Card,3,23.17
+1002345,2023-04-12,Electronics,101,Smartphone,West,522547,Cash,3,757.84
+1002346,2023-12-05,Beauty,503,Perfume,North,839365,Debit Card,2,56.59
+1002347,2023-04-09,Clothing,202,Jeans,East,706367,Cash,2,49.06
+1002348,2024-03-19,Clothing,202,Jeans,South,952257,PayPal,5,52.53
+1002349,2023-06-09,Clothing,201,T-Shirt,North,728811,Bank Transfer,4,18.08
+1002350,2023-03-23,Beauty,504,Moisturizer,North,545082,Bank Transfer,4,26.36
+1002351,2023-07-28,Books,402,Science Textbook,North,872432,PayPal,4,84.21
+1002352,2023-05-19,Beauty,501,Lipstick,East,559042,Credit Card,4,16.38
+1002353,2023-10-31,Home,301,Blender,North,691405,Debit Card,5,42.01
+1002354,2023-11-16,Electronics,102,Laptop,East,995751,Credit Card,3,1241.85
+1002355,2023-01-18,Clothing,201,T-Shirt,West,981758,Bank Transfer,4,18.24
+1002356,2023-02-09,Home,302,Coffee Maker,South,672087,Cash,3,83.22
+1002357,2024-09-03,Books,401,Fiction Novel,South,693609,PayPal,3,13.94
+1002358,2024-10-16,Books,403,Cookbook,West,507671,Debit Card,1,26.49
+1002359,2023-06-03,Books,402,Science Textbook,West,506494,Credit Card,4,85.49
+1002360,2024-05-03,Books,402,Science Textbook,East,561509,Bank Transfer,3,75.88
+1002361,2023-07-23,Clothing,202,Jeans,West,990422,Credit Card,3,53.44
+1002362,2024-03-29,Home,304,Vacuum,North,723006,Debit Card,1,151.02
+1002363,2023-01-23,Home,301,Blender,North,514463,Cash,4,42.41
+1002364,2024-11-16,Beauty,501,Lipstick,East,585601,PayPal,4,16.80
+1002365,2023-07-18,,301,Blender,North,738754,Bank Transfer,2,42.38
+1002366,2023-12-30,Electronics,103,Headphones,West,713378,Debit Card,5,164.65
+1002367,2024-05-09,Books,402,Science Textbook,South,572707,PayPal,5,74.87
+1002368,2024-04-24,Electronics,103,Headphones,West,782880,Debit Card,5,158.76
+1002369,2024-05-07,Books,403,Cookbook,South,775703,Bank Transfer,4,23.53
+1002370,2023-10-08,Books,401,Fiction Novel,East,970615,PayPal,1,14.57
+1002371,2024-09-10,Electronics,101,Smartphone,South,745009,PayPal,1,634.82
+1002372,2023-09-23,Home,301,Blender,North,787959,Cash,5,43.63
+1002373,2024-09-02,Beauty,504,Moisturizer,North,781260,PayPal,4,25.85
+1002374,2023-08-05,Home,304,Vacuum,West,889611,Bank Transfer,1,141.75
+1002375,2024-05-07,Home,301,Blender,East,899692,Bank Transfer,5,42.52
+1002376,2024-03-02,Beauty,501,Lipstick,North,622072,PayPal,3,17.73
+1002377,2024-06-09,Home,301,Blender,West,655734,Credit Card,2,41.04
+1002378,2023-09-19,Clothing,201,T-Shirt,East,521297,Credit Card,3,20.07
+1002379,2024-12-20,Home,301,Blender,East,622206,Cash,1,40.38
+1002380,2023-10-05,Clothing,201,T-Shirt,West,806980,PayPal,4,21.84
+1002381,2024-10-04,Electronics,103,Headphones,South,842487,Credit Card,5,154.57
+1002382,2023-05-15,Clothing,202,Jeans,North,599505,Bank Transfer,3,51.92
+1002383,2024-09-21,Books,402,Science Textbook,East,674737,PayPal,2,74.51
+1002384,2023-02-02,Books,401,Fiction Novel,North,628366,Credit Card,4,15.03
+1002385,2024-04-18,Home,302,Coffee Maker,South,684412,Credit Card,4,83.36
+1002386,2023-02-28,Books,401,Fiction Novel,West,955693,Credit Card,4,14.75
+1002387,2023-02-06,Beauty,501,Lipstick,North,972924,Bank Transfer,1,19.07
+1002388,2024-08-04,Clothing,201,T-Shirt,North,537194,Credit Card,2,20.87
+1002389,2024-11-13,Beauty,501,Lipstick,East,940876,Credit Card,4,19.12
+1002390,2023-04-02,Books,401,Fiction Novel,North,924031,Credit Card,1,16.21
+1002391,2023-08-20,Books,402,Science Textbook,North,630546,PayPal,4,83.56
+1002392,2024-12-13,Beauty,501,Lipstick,East,678214,Cash,5,18.58
+1002393,2024-05-08,Clothing,201,T-Shirt,West,835317,Debit Card,4,20.32
+1002394,2023-11-22,Electronics,101,Smartphone,West,965678,PayPal,4,666.17
+1002395,2023-03-23,Beauty,503,Perfume,North,718273,Debit Card,1,58.01
+1002396,2023-07-02,Beauty,503,Perfume,South,631016,Cash,1,54.99
+1002397,2024-07-19,Books,401,Fiction Novel,North,729105,Cash,1,13.50
+1002398,2023-03-20,Books,403,Cookbook,West,603369,Debit Card,5,27.34
+1002399,2023-12-25,Home,304,Vacuum,East,876407,PayPal,2,141.73
+1002400,2023-08-21,Home,304,Vacuum,East,743279,Bank Transfer,3,158.46
+1002401,2024-05-22,Clothing,203,Jacket,South,659068,Cash,5,87.29
+1002402,2024-02-13,Clothing,202,Jeans,West,900501,PayPal,5,52.32
+1002403,2024-12-14,Electronics,102,Laptop,West,937956,Bank Transfer,4,1233.50
+1002404,2023-04-09,Home,304,Vacuum,East,618201,Credit Card,3,155.35
+1002405,2024-04-28,Books,403,Cookbook,South,629522,Credit Card,1,26.87
+1002406,2024-04-12,Beauty,503,Perfume,North,600585,PayPal,5,60.10
+1002407,2024-08-27,Books,401,Fiction Novel,South,513909,PayPal,4,15.25
+1002408,2023-06-29,Home,304,Vacuum,South,636606,Credit Card,2,141.54
+1002409,2023-01-25,Home,301,Blender,North,654678,Cash,1,38.11
+1002410,2024-06-02,Clothing,202,Jeans,North,933831,Credit Card,2,47.15
+1002411,2024-05-28,Beauty,504,Moisturizer,South,566469,Debit Card,3,26.78
+1002412,2023-12-04,Books,402,Science Textbook,North,812022,PayPal,3,77.59
+1002413,2023-10-28,Electronics,101,Smartphone,,963199,Bank Transfer,1,703.94
+1002414,2023-06-08,Clothing,202,Jeans,East,878767,Credit Card,3,48.14
+1002415,2023-01-07,Books,402,Science Textbook,East,637601,Bank Transfer,1,87.75
+1002416,2024-07-05,Home,302,Coffee Maker,East,846676,Debit Card,2,86.38
+1002417,2023-04-01,Electronics,103,Headphones,South,857587,Credit Card,2,154.04
+1002418,2023-10-24,Home,301,Blender,West,610337,Debit Card,4,39.36
+1002419,2024-09-19,Clothing,203,Jacket,North,670760,Credit Card,4,82.85
+1002420,2023-08-05,Electronics,103,Headphones,North,717655,PayPal,2,
+1002421,2024-05-01,Books,402,Science Textbook,South,580461,Cash,5,76.83
+1002422,2023-03-02,Clothing,203,Jacket,West,519129,PayPal,5,82.14
+1002423,2023-02-01,Home,301,Blender,North,872650,Credit Card,3,40.16
+1002424,2023-07-01,Clothing,202,Jeans,North,650318,Credit Card,5,52.52
+1002425,2024-11-27,Beauty,503,Perfume,North,976951,Cash,1,59.82
+1002426,2024-04-27,Electronics,101,Smartphone,West,740707,Credit Card,5,705.72
+1002427,2023-12-23,Clothing,202,Jeans,North,651553,Bank Transfer,3,49.22
+1002428,2024-02-26,Electronics,103,Headphones,South,769156,Credit Card,1,136.75
+1002429,2023-04-07,Books,403,Cookbook,South,700904,Cash,3,22.67
+1002430,2024-12-29,Books,403,Cookbook,West,538274,Bank Transfer,4,22.81
+1002431,2024-10-28,Books,403,Cookbook,West,994253,Cash,5,23.92
+1002432,2024-02-29,Electronics,101,Smartphone,North,792322,PayPal,1,752.62
+1002433,2024-04-17,Clothing,203,Jacket,East,658403,Credit Card,1,86.79
+1002434,2023-09-24,Home,304,Vacuum,North,550031,Bank Transfer,3,158.57
+1002435,2024-10-22,Electronics,103,Headphones,East,988058,PayPal,5,142.01
+1002436,2023-01-10,Home,304,Vacuum,East,934685,Cash,1,157.48
+1002437,2024-07-25,Beauty,504,Moisturizer,South,620987,Bank Transfer,1,24.68
+1002438,2024-04-28,Beauty,504,Moisturizer,East,667566,PayPal,1,23.46
+1002439,2024-06-10,Beauty,503,Perfume,South,638182,PayPal,3,57.10
+1002440,2024-06-06,Beauty,503,Perfume,East,607610,PayPal,1,60.07
+1002441,2024-06-22,Books,401,Fiction Novel,West,792144,Cash,1,14.15
+1002442,2023-06-28,Clothing,202,Jeans,North,747551,Cash,3,45.22
+1002443,2024-09-19,Beauty,503,Perfume,South,547559,Debit Card,5,61.89
+1002444,2024-11-19,Books,402,Science Textbook,West,506642,Credit Card,3,81.09
+1002445,2023-11-24,Home,302,Coffee Maker,West,821536,PayPal,5,81.75
+1002446,2023-11-23,Electronics,101,Smartphone,North,832517,Bank Transfer,3,726.99
+1002447,2023-08-16,Home,302,Coffee Maker,North,735800,Debit Card,3,81.26
+1002448,2024-03-31,Books,401,Fiction Novel,East,897101,Bank Transfer,1,16.03
+1002449,2023-03-28,Home,301,Blender,East,694103,Cash,3,41.00
+1002450,2023-04-24,Beauty,501,Lipstick,North,687133,Debit Card,5,18.99
+1002451,2023-08-22,,304,Vacuum,East,947804,Cash,2,140.15
+1002452,2024-06-05,Home,301,Blender,West,594617,PayPal,4,40.12
+1002453,2023-07-24,Beauty,504,Moisturizer,South,757691,Credit Card,5,22.82
+1002454,2023-09-23,Home,302,Coffee Maker,East,560210,Debit Card,4,79.88
+1002455,2024-09-22,Books,401,Fiction Novel,South,603886,Debit Card,1,14.56
+1002456,2024-11-18,Home,301,Blender,South,732502,Debit Card,1,36.11
+1002457,2023-10-30,Books,403,Cookbook,North,590586,Bank Transfer,5,26.31
+1002458,2024-10-03,Beauty,501,Lipstick,East,953971,Credit Card,4,17.21
+1002459,2023-11-13,Electronics,101,Smartphone,South,764224,Credit Card,1,739.10
+1002460,2023-11-30,Clothing,203,Jacket,South,912171,Debit Card,5,85.94
+1002461,2024-04-23,Electronics,102,Laptop,West,852499,Bank Transfer,3,1284.31
+1002462,2023-02-02,Home,301,Blender,West,540211,Debit Card,3,42.19
+1002463,2023-10-20,Clothing,201,T-Shirt,South,729239,Bank Transfer,2,20.56
+1002464,2023-06-07,Home,302,Coffee Maker,East,938187,PayPal,2,76.68
+1002465,2023-02-13,Clothing,201,T-Shirt,North,993256,Credit Card,3,19.56
+1002466,2024-01-10,Electronics,101,Smartphone,West,844565,PayPal,1,630.13
+1002467,2023-11-16,Home,304,Vacuum,West,949284,Debit Card,2,143.24
+1002468,2024-07-29,Home,304,Vacuum,East,795524,Bank Transfer,5,142.72
+1002469,2023-04-21,Home,301,Blender,South,872539,Credit Card,4,43.06
+1002470,2023-12-27,Home,304,Vacuum,South,749782,Credit Card,1,139.57
+1002471,2024-07-12,Clothing,203,Jacket,East,811772,Cash,4,75.97
+1002472,2024-07-30,Home,304,Vacuum,North,801504,Credit Card,5,148.35
+1002473,2024-05-19,Clothing,201,T-Shirt,South,976725,Debit Card,4,21.91
+1002474,2024-11-19,Electronics,103,Headphones,South,970606,Debit Card,4,154.01
+1002475,2023-04-13,Beauty,501,Lipstick,East,613791,PayPal,4,18.75
+1002476,2024-11-10,Books,402,Science Textbook,East,537493,PayPal,4,76.63
+1002477,2024-11-24,Electronics,102,Laptop,East,526945,PayPal,4,1261.44
+1002478,2024-08-22,Clothing,202,Jeans,South,972189,Credit Card,3,50.33
+1002479,2023-02-22,Clothing,201,T-Shirt,East,845697,Bank Transfer,5,20.36
+1002480,2024-12-24,Beauty,503,Perfume,North,889138,Debit Card,4,60.11
+1002481,2024-11-21,Beauty,504,Moisturizer,South,948159,PayPal,3,22.67
+1002482,2024-04-04,Electronics,103,Headphones,East,983177,Cash,5,142.52
+1002483,2024-10-01,Books,401,Fiction Novel,South,817979,Debit Card,4,
+1002484,2023-04-01,Beauty,503,Perfume,West,539061,Cash,1,54.84
+1002485,2023-05-03,Home,304,Vacuum,East,836705,Cash,1,159.20
+1002486,2023-11-27,,504,Moisturizer,East,836973,Debit Card,1,25.39
+1002487,2023-11-05,Clothing,201,T-Shirt,North,746230,Debit Card,4,20.79
+1002488,2023-12-20,Books,402,Science Textbook,East,720901,Cash,5,84.48
+1002489,2023-08-31,Beauty,501,Lipstick,East,845194,Cash,2,16.55
+1002490,2023-02-25,Electronics,102,Laptop,South,866560,Bank Transfer,2,1102.01
+1002491,2023-01-27,Clothing,203,Jacket,East,811205,Credit Card,5,74.90
+1002492,2024-06-12,Beauty,501,Lipstick,East,766292,Cash,4,16.95
+1002493,2024-01-16,Electronics,102,Laptop,East,572462,Debit Card,2,1129.37
+1002494,2024-10-16,Clothing,201,T-Shirt,North,545168,Debit Card,1,19.65
+1002495,2023-02-06,Books,401,Fiction Novel,South,972621,Credit Card,3,16.23
+1002496,2024-12-09,Electronics,102,Laptop,South,954922,PayPal,4,
+1002497,2024-04-18,Books,401,Fiction Novel,South,958834,Cash,3,14.06
+1002498,2023-11-01,Electronics,103,Headphones,East,526012,Debit Card,1,161.24
+1002499,2023-05-10,Beauty,504,Moisturizer,West,761279,Debit Card,2,
+1002500,2023-05-02,Books,401,Fiction Novel,North,938683,Debit Card,1,14.00
